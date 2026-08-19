@@ -1,0 +1,77 @@
+{
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "articles": [
+    {
+      "id": "eu-ai-act-2024-001",
+      "title": "EU AI Act Full Implementation Expected by January 2025",
+      "description": "The European Commission has confirmed the full implementation timeline for the AI Act, with key requirements taking effect in phases throughout 2024 and 2025.",
+      "content": "The AI Act represents a landmark regulatory framework for artificial intelligence in the European Union. It categorizes AI systems by risk level and establishes requirements for high-risk applications including facial recognition, hiring systems, and criminal justice applications. The law aims to ensure AI development respects fundamental rights while promoting innovation.",
+      "source": "European Commission",
+      "category": "Regulation",
+      "date": "2024-01-15T10:30:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence",
+      "image": "📋",
+      "tags": ["AI Act", "EU Policy", "Regulation"]
+    },
+    {
+      "id": "horizon-research-2024-001",
+      "title": "Horizon Europe Funds €500M for AI Safety and Trustworthiness Research",
+      "description": "The EU has allocated significant funding to research initiatives focused on making AI systems more safe, transparent, and trustworthy for European citizens.",
+      "content": "Horizon Europe, the EU's research and innovation program, is investing heavily in AI safety research. This includes developing better explainability methods, security protocols, and ethical frameworks for AI systems. Research institutions across Europe are collaborating on projects ranging from AI verification to bias detection.",
+      "source": "Horizon Europe",
+      "category": "Research",
+      "date": "2024-01-14T14:20:00Z",
+      "url": "https://ec.europa.eu/programmes/horizon2020",
+      "image": "🔬",
+      "tags": ["AI Safety", "Research", "Funding"]
+    },
+    {
+      "id": "ec-ai-board-2024-001",
+      "title": "European AI Board Releases Guidelines on High-Risk AI Systems",
+      "description": "New comprehensive guidelines provide clarity on how organizations should assess and manage risks in high-risk AI systems under the AI Act.",
+      "content": "The European AI Board has published detailed guidance documents for organizations deploying high-risk AI systems. These guidelines cover risk assessment methodologies, documentation requirements, and compliance strategies. The board emphasizes the importance of human oversight in critical applications.",
+      "source": "European AI Board",
+      "category": "Policy",
+      "date": "2024-01-12T09:15:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/european-ai-board",
+      "image": "📊",
+      "tags": ["AI Governance", "Policy", "Guidelines"]
+    },
+    {
+      "id": "nist-ai-standards-2024-001",
+      "title": "International AI Standards Development Progresses with EU Participation",
+      "description": "European experts are playing a leading role in developing international AI standards and guidelines through ISO/IEC working groups.",
+      "content": "The EU is actively participating in international standardization efforts to ensure European values are reflected in global AI standards. This includes work on AI safety, transparency, and ethical principles. The collaboration helps align European AI regulations with international best practices.",
+      "source": "NIST AI Standards",
+      "category": "Technology",
+      "date": "2024-01-10T16:45:00Z",
+      "url": "https://www.nist.gov/ai",
+      "image": "🌐",
+      "tags": ["Standards", "International Cooperation"]
+    },
+    {
+      "id": "ai-security-2024-001",
+      "title": "EU Strengthens Cybersecurity Requirements for AI Systems",
+      "description": "New directives address security vulnerabilities in AI systems and establish mandatory penetration testing for high-risk applications.",
+      "content": "As AI systems become more critical to European infrastructure, new security requirements ensure these systems are protected against malicious actors. The regulations mandate regular security audits, vulnerability management, and incident reporting procedures for high-risk AI systems.",
+      "source": "European Commission - Digital Services",
+      "category": "Security",
+      "date": "2024-01-08T11:30:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/",
+      "image": "🔒",
+      "tags": ["Cybersecurity", "Risk Management"]
+    },
+    {
+      "id": "startup-funding-2024-001",
+      "title": "European AI Startups Secure Record Funding in Q4 2023",
+      "description": "Despite global economic challenges, European AI startups attracted significant venture capital investment, reflecting strong confidence in European AI innovation.",
+      "content": "The European AI ecosystem continues to thrive with startups focusing on enterprise AI solutions, AI safety, and specialized applications. Investment patterns show growing interest in ethical AI and regulatory-compliant solutions, positioning Europe as a leader in responsible AI development.",
+      "source": "European Tech Ecosystem",
+      "category": "Technology",
+      "date": "2024-01-05T13:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/",
+      "image": "💰",
+      "tags": ["Startups", "Innovation", "Investment"]
+    }
+  ]
+}
