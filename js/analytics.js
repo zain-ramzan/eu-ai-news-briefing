@@ -5,34 +5,38 @@
     const PRODUCTION_HOST = 'zain-ramzan.github.io';
     const counter = document.getElementById('siteVisitCount');
 
-    function formatCount(value) {
-        const numericValue = Number(String(value).replace(/[^0-9]/g, ''));
-        if (!Number.isFinite(numericValue)) return String(value || '—');
-        return new Intl.NumberFormat(I18n?.getLocale?.() || undefined).format(numericValue);
+    function markCounterUnavailable() {
+        if (!counter) return;
+        counter.textContent = '—';
+        counter.dataset.state = 'unavailable';
     }
 
-    function renderCounter(value) {
-        if (!counter) return;
-
-        const hasValue = value !== null && value !== undefined && value !== '';
-        counter.textContent = hasValue ? formatCount(value) : '—';
-        counter.dataset.state = hasValue ? 'ready' : 'unavailable';
-        if (hasValue) counter.dataset.rawCount = String(value);
-    }
-
-    async function loadTotalVisits() {
-        if (!counter) return;
-
-        try {
-            const response = await fetch(`https://${GOATCOUNTER_CODE}.goatcounter.com/counter/TOTAL.json`, {
-                cache: 'no-store'
-            });
-            if (!response.ok) throw new Error(`Counter request failed with ${response.status}`);
-            const payload = await response.json();
-            renderCounter(payload.count);
-        } catch (error) {
-            renderCounter(null);
+    function renderEmbeddedCounter() {
+        if (!counter || !window.goatcounter?.visit_count) {
+            markCounterUnavailable();
+            return;
         }
+
+        counter.textContent = '';
+        counter.dataset.state = 'ready';
+
+        window.goatcounter.visit_count({
+            append: '#siteVisitCount',
+            path: 'TOTAL',
+            type: 'html',
+            no_branding: true,
+            attr: {
+                width: '30',
+                height: '20',
+                title: 'Total site visits'
+            },
+            style: `
+                body { padding: 0; margin: 0; background: transparent; }
+                div { width: auto; height: auto; border: 0; border-radius: 0; text-align: left; line-height: 1; overflow: visible; color: #f5d46d; font-family: monospace; font-size: 12px; font-weight: 700; }
+                #gcvc-for { display: none; }
+                #gcvc-views { font-size: 12px; }
+            `
+        });
     }
 
     function enableProductionTracking() {
@@ -42,13 +46,10 @@
         tracker.async = true;
         tracker.src = 'https://gc.zgo.at/count.js';
         tracker.dataset.goatcounter = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
+        tracker.addEventListener('load', renderEmbeddedCounter, { once: true });
+        tracker.addEventListener('error', markCounterUnavailable, { once: true });
         document.head.appendChild(tracker);
     }
 
-    document.addEventListener('i18n:changed', () => {
-        if (counter?.dataset.rawCount) renderCounter(counter.dataset.rawCount);
-    });
-
     enableProductionTracking();
-    loadTotalVisits();
 })();
