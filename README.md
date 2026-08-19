@@ -40,7 +40,7 @@ The included Node.js fetch utility verifies each curated official source page be
 
 The site uses the free hosted [GoatCounter](https://www.goatcounter.com/) service for privacy-conscious traffic analytics. The deployed tracking property is `eu-ai-news-briefing`; no account credential is stored in this repository. A localized all-time visit count is displayed in the footer, while detailed traffic analytics—including popular paths, referrers, countries, browsers, and systems—remain available only to the account owner in GoatCounter.
 
-The footer counter reads GoatCounter’s public aggregate `TOTAL` endpoint. GoatCounter caches that counter response for up to four hours, so the visible total does not update immediately after every visit. The counter can be disabled in GoatCounter site settings by turning off the option that permits visitor counts to be displayed publicly.
+The footer counter uses GoatCounter’s supported embedded aggregate `TOTAL` counter. GoatCounter caches that response for up to four hours, so the visible total does not update immediately after every visit. The counter can be disabled in GoatCounter site settings by turning off the option that permits visitor counts to be displayed publicly.
 
 | Reference source | Intended use |
 |---|---|
@@ -86,7 +86,8 @@ eu-ai-news-briefing/
 ├── js/
 │   ├── api.js              # News-data loading, filtering, sorting, and dates
 │   ├── app.js              # Dashboard rendering and interactions
-│   └── i18n.js             # Interface translations and language persistence
+│   ├── i18n.js             # Interface translations and language persistence
+│   └── analytics.js         # Production-only GoatCounter tracking and total counter
 ├── data/
 │   └── news.json           # Curated briefing data consumed by the dashboard
 ├── scripts/

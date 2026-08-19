@@ -1165,9 +1165,19 @@ select:focus-visible {
 }
 
 .footer-traffic-count {
+    display: inline-flex;
+    align-items: center;
+    min-height: 20px;
     color: #f5d46d;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
+}
+
+.footer-traffic-count iframe {
+    display: block;
+    width: 30px;
+    height: 20px;
+    border: 0;
 }
 
 .footer-traffic-count[data-state="unavailable"] {
