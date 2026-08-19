@@ -3,102 +3,171 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A curated dashboard for European AI policy, research, regulation, and technology news.">
     <title>EU AI News Dashboard</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' fill='%234169E1'>🤖</text></svg>">
+    <link rel="stylesheet" href="css/style.css?v=ui-refresh-1">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23052b57'/%3E%3Cpath d='M18 34h28M24 24h16M24 44h16' stroke='%23f4c542' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <header class="header">
-            <div class="header-content">
-                <div class="logo">
-                    <span class="logo-icon">🤖</span>
-                    <h1>EU AI News Dashboard</h1>
+    <div class="page-shell">
+        <main class="container">
+            <header class="header" aria-labelledby="dashboardTitle">
+                <div class="header-topline">
+                    <a class="brand" href="./" aria-label="EU AI News Dashboard home">
+                        <span class="brand-mark" aria-hidden="true">
+                            <span>AI</span>
+                        </span>
+                        <span class="brand-name">EU AI<br><strong>NEWS DESK</strong></span>
+                    </a>
+                    <span class="status-pill"><span class="status-dot" aria-hidden="true"></span>Live monitoring</span>
                 </div>
-                <p class="subtitle">Real-time updates from official European AI sources</p>
-            </div>
-        </header>
 
-        <!-- Controls -->
-        <div class="controls">
-            <div class="search-box">
-                <input 
-                    type="text" 
-                    id="searchInput" 
-                    placeholder="Search news..."
-                    class="search-input"
-                >
-                <span class="search-icon">🔍</span>
-            </div>
-            
-            <div class="filter-group">
-                <select id="categoryFilter" class="filter-select">
-                    <option value="">All Categories</option>
-                    <option value="Regulation">Regulation</option>
-                    <option value="Technology">Technology</option>
-                    <option value="Research">Research</option>
-                    <option value="Policy">Policy</option>
-                    <option value="Security">Security</option>
-                </select>
-                
-                <select id="sortBy" class="filter-select">
-                    <option value="date-desc">Latest First</option>
-                    <option value="date-asc">Oldest First</option>
-                    <option value="title-asc">Title A-Z</option>
-                </select>
-            </div>
-            
-            <button id="refreshBtn" class="refresh-btn" title="Refresh news">
-                🔄 Refresh
-            </button>
-        </div>
+                <div class="header-content">
+                    <div class="header-copy">
+                        <p class="eyebrow">European AI policy intelligence</p>
+                        <h1 id="dashboardTitle">Signals that shape<br><em>Europe’s AI future.</em></h1>
+                        <p class="subtitle">A focused brief of regulation, research, technology, and governance updates from trusted European sources.</p>
+                    </div>
 
-        <!-- Stats -->
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-label">Total News</span>
-                <span class="stat-value" id="totalNews">0</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-label">Last Updated</span>
-                <span class="stat-value" id="lastUpdated">Loading...</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-label">This Week</span>
-                <span class="stat-value" id="weekNews">0</span>
-            </div>
-        </div>
+                    <aside class="source-card" aria-label="Dashboard source coverage">
+                        <span class="source-card-label">Coverage focus</span>
+                        <strong>Official policy<br>and research signals</strong>
+                        <span class="source-card-rule" aria-hidden="true"></span>
+                        <span class="source-card-note">European Commission · AI Board · Horizon Europe</span>
+                    </aside>
+                </div>
+            </header>
 
-        <!-- Loading State -->
-        <div id="loading" class="loading">
-            <div class="spinner"></div>
-            <p>Loading EU AI news...</p>
-        </div>
+            <section class="control-panel" aria-label="Search and filter news">
+                <div class="control-intro">
+                    <p class="section-kicker">News intelligence</p>
+                    <h2>Explore the latest briefings</h2>
+                </div>
 
-        <!-- News Grid -->
-        <div id="newsContainer" class="news-grid">
-            <!-- News cards will be populated here by JavaScript -->
-        </div>
+                <div class="controls">
+                    <div class="search-field">
+                        <label class="sr-only" for="searchInput">Search news</label>
+                        <span class="field-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path></svg>
+                        </span>
+                        <input type="search" id="searchInput" placeholder="Search titles, topics, or sources" class="search-input" autocomplete="off">
+                    </div>
 
-        <!-- Empty State -->
-        <div id="emptyState" class="empty-state" style="display: none;">
-            <p>📭 No news found matching your criteria</p>
-            <button id="resetFilters" class="reset-btn">Reset Filters</button>
-        </div>
+                    <div class="filter-group">
+                        <div class="select-field">
+                            <label for="categoryFilter">Topic</label>
+                            <select id="categoryFilter" class="filter-select">
+                                <option value="">All categories</option>
+                                <option value="Regulation">Regulation</option>
+                                <option value="Technology">Technology</option>
+                                <option value="Research">Research</option>
+                                <option value="Policy">Policy</option>
+                                <option value="Security">Security</option>
+                            </select>
+                        </div>
+
+                        <div class="select-field">
+                            <label for="sortBy">Order</label>
+                            <select id="sortBy" class="filter-select">
+                                <option value="date-desc">Latest first</option>
+                                <option value="date-asc">Oldest first</option>
+                                <option value="title-asc">Title A–Z</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button id="refreshBtn" class="refresh-btn" type="button" title="Refresh news">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 11a8.1 8.1 0 0 0-15.5-2M4 5v4h4"></path><path d="M4 13a8.1 8.1 0 0 0 15.5 2M20 19v-4h-4"></path></svg>
+                        <span>Refresh</span>
+                    </button>
+                </div>
+            </section>
+
+            <section class="overview" aria-label="Dashboard overview">
+                <div class="section-heading">
+                    <div>
+                        <p class="section-kicker">At a glance</p>
+                        <h2>Today’s overview</h2>
+                    </div>
+                    <p class="overview-note">Continuously curated from authoritative European AI sources.</p>
+                </div>
+
+                <div class="stats">
+                    <article class="stat-item stat-item--primary">
+                        <span class="stat-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 4.5h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-14a1 1 0 0 1 1-1Z"></path><path d="M8 9h8M8 13h8M8 17h5"></path></svg>
+                        </span>
+                        <div>
+                            <span class="stat-label">Total briefings</span>
+                            <span class="stat-value" id="totalNews">0</span>
+                        </div>
+                    </article>
+                    <article class="stat-item">
+                        <span class="stat-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="8"></circle><path d="M12 7v5l3 2"></path></svg>
+                        </span>
+                        <div>
+                            <span class="stat-label">Last updated</span>
+                            <span class="stat-value stat-value--time" id="lastUpdated">Loading…</span>
+                        </div>
+                    </article>
+                    <article class="stat-item">
+                        <span class="stat-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19V9M10 19V5M16 19v-7M22 19H2"></path></svg>
+                        </span>
+                        <div>
+                            <span class="stat-label">Published this week</span>
+                            <span class="stat-value" id="weekNews">0</span>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <section class="feed-section" aria-labelledby="feedTitle">
+                <div class="section-heading feed-heading">
+                    <div>
+                        <p class="section-kicker">Latest dispatches</p>
+                        <h2 id="feedTitle">The news feed</h2>
+                    </div>
+                    <p class="results-count" id="resultsCount" aria-live="polite">Loading briefings…</p>
+                </div>
+
+                <div id="loading" class="loading" role="status">
+                    <div class="spinner" aria-hidden="true"></div>
+                    <p>Loading the latest EU AI briefings…</p>
+                </div>
+
+                <div id="newsContainer" class="news-grid" aria-live="polite" aria-busy="true">
+                    <!-- News cards are populated here by JavaScript. -->
+                </div>
+
+                <div id="emptyState" class="empty-state" style="display: none;" role="status">
+                    <span class="empty-icon" aria-hidden="true">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path><path d="M8.5 11h5"></path></svg>
+                    </span>
+                    <h3>No matching briefings</h3>
+                    <p>Try changing your keywords or restoring the full feed.</p>
+                    <button id="resetFilters" class="reset-btn" type="button">Reset filters</button>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-inner">
+                <div>
+                    <span class="footer-brand">EU AI NEWS DESK</span>
+                    <p>Independent monitoring of European AI policy and innovation.</p>
+                </div>
+                <p class="footer-links">
+                    <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank" rel="noopener noreferrer">EU AI Act</a>
+                    <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard#readme" target="_blank" rel="noopener noreferrer">About</a>
+                </p>
+            </div>
+        </footer>
     </div>
 
-    <!-- Footer -->
-    <footer class="footer">
-        <p>Data sourced from official European Commission and AI policy platforms</p>
-        <p class="footer-links">
-            <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank">EU AI Act</a> |
-            <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard" target="_blank">GitHub</a> |
-            <a href="#about">About</a>
-        </p>
-    </footer>
-
-    <script src="js/api.js"></script>
-    <script src="js/app.js"></script>
+    <script src="js/api.js?v=ui-refresh-1"></script>
+    <script src="js/app.js?v=ui-refresh-1"></script>
 </body>
 </html>

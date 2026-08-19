@@ -9,7 +9,7 @@ const App = (() => {
     let currentSort = 'date-desc';
 
     /**
-     * Initialize the application
+     * Initialize the application.
      */
     async function init() {
         setupEventListeners();
@@ -17,7 +17,7 @@ const App = (() => {
     }
 
     /**
-     * Setup event listeners for all interactive elements
+     * Setup event listeners for all interactive elements.
      */
     function setupEventListeners() {
         const searchInput = document.getElementById('searchInput');
@@ -27,22 +27,22 @@ const App = (() => {
         const resetFilters = document.getElementById('resetFilters');
 
         if (searchInput) {
-            searchInput.addEventListener('input', (e) => {
-                currentSearchTerm = e.target.value;
+            searchInput.addEventListener('input', (event) => {
+                currentSearchTerm = event.target.value;
                 renderNews();
             });
         }
 
         if (categoryFilter) {
-            categoryFilter.addEventListener('change', (e) => {
-                currentCategory = e.target.value;
+            categoryFilter.addEventListener('change', (event) => {
+                currentCategory = event.target.value;
                 renderNews();
             });
         }
 
         if (sortBy) {
-            sortBy.addEventListener('change', (e) => {
-                currentSort = e.target.value;
+            sortBy.addEventListener('change', (event) => {
+                currentSort = event.target.value;
                 renderNews();
             });
         }
@@ -65,11 +65,19 @@ const App = (() => {
     }
 
     /**
-     * Load news from API
+     * Load news from the local API data source.
      */
     async function loadNews() {
         const loading = document.getElementById('loading');
+        const newsContainer = document.getElementById('newsContainer');
+        const refreshBtn = document.getElementById('refreshBtn');
+
         if (loading) loading.style.display = 'flex';
+        if (newsContainer) newsContainer.setAttribute('aria-busy', 'true');
+        if (refreshBtn) {
+            refreshBtn.classList.add('is-loading');
+            refreshBtn.disabled = true;
+        }
 
         try {
             const data = await API.fetchNews();
@@ -78,14 +86,20 @@ const App = (() => {
             renderNews();
         } catch (error) {
             console.error('Failed to load news:', error);
-            showEmptyState();
+            updateResultsCount(null, true);
+            showEmptyState('We could not load the briefing feed. Please refresh to try again.');
         } finally {
             if (loading) loading.style.display = 'none';
+            if (newsContainer) newsContainer.setAttribute('aria-busy', 'false');
+            if (refreshBtn) {
+                refreshBtn.classList.remove('is-loading');
+                refreshBtn.disabled = false;
+            }
         }
     }
 
     /**
-     * Update statistics display
+     * Update statistics display.
      */
     function updateStats(data) {
         const totalNewsEl = document.getElementById('totalNews');
@@ -97,91 +111,123 @@ const App = (() => {
         }
 
         if (lastUpdatedEl) {
-            const formatted = API.formatLastUpdated(data.lastUpdated);
-            lastUpdatedEl.textContent = formatted;
+            lastUpdatedEl.textContent = API.formatLastUpdated(data.lastUpdated);
         }
 
         if (weekNewsEl) {
-            const weekNews = API.getWeekNews(allNews);
-            weekNewsEl.textContent = weekNews.length;
+            weekNewsEl.textContent = API.getWeekNews(allNews).length;
         }
     }
 
     /**
-     * Render news articles based on current filters
+     * Render news articles based on the current filters.
      */
     function renderNews() {
-        // Filter news
-        let filtered = API.filterNews(allNews, currentSearchTerm, currentCategory);
-
-        // Sort news
-        filtered = API.sortNews(filtered, currentSort);
-
+        const filteredNews = API.sortNews(
+            API.filterNews(allNews, currentSearchTerm, currentCategory),
+            currentSort
+        );
         const newsContainer = document.getElementById('newsContainer');
         const emptyState = document.getElementById('emptyState');
 
-        if (filtered.length === 0) {
-            newsContainer.innerHTML = '';
-            emptyState.style.display = 'block';
+        updateResultsCount(filteredNews.length);
+
+        if (filteredNews.length === 0) {
+            if (newsContainer) newsContainer.innerHTML = '';
+            if (emptyState) emptyState.style.display = 'block';
             return;
         }
 
-        emptyState.style.display = 'none';
-        newsContainer.innerHTML = filtered.map(article => createNewsCard(article)).join('');
+        if (emptyState) emptyState.style.display = 'none';
+        if (newsContainer) {
+            newsContainer.innerHTML = filteredNews.map(createNewsCard).join('');
+        }
     }
 
     /**
-     * Create a news card HTML element
+     * Create a card for one article.
      */
     function createNewsCard(article) {
         const date = API.formatDate(article.date);
-        
+        const category = escapeHtml(article.category || 'Update');
+        const categoryClass = getCategoryClass(article.category);
+        const title = escapeHtml(article.title || 'Untitled briefing');
+        const source = escapeHtml(article.source || 'EU AI News Desk');
+        const description = escapeHtml(article.description || 'No description is available for this briefing.');
+        const url = escapeHtml(article.url || '#');
+        const tags = Array.isArray(article.tags) ? article.tags : [];
+
         return `
-            <div class="news-card">
+            <article class="news-card news-card--${categoryClass}">
                 <div class="news-card-header">
-                    <div class="news-category">${escapeHtml(article.category)}</div>
-                    <h3 class="news-title">${escapeHtml(article.title)}</h3>
+                    <div class="news-card-top">
+                        <span class="news-category">${category}</span>
+                        <span class="news-reading-time">BRIEFING</span>
+                    </div>
+                    <h3 class="news-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
                     <div class="news-meta">
-                        <div class="news-date">
-                            <span>📅</span>
-                            <span>${escapeHtml(date)}</span>
-                        </div>
-                        <div class="news-source">
-                            <span>🏢</span>
-                            <span>${escapeHtml(article.source)}</span>
-                        </div>
+                        <span class="news-date">
+                            <svg class="news-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"></rect><path d="M16 3v4M8 3v4M3 10h18"></path></svg>
+                            ${escapeHtml(date)}
+                        </span>
+                        <span class="news-source">
+                            <svg class="news-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-5h6v5M8 11h.01M12 11h.01M16 11h.01"></path></svg>
+                            ${source}
+                        </span>
                     </div>
                 </div>
-                <div class="news-description">
-                    ${escapeHtml(article.description)}
-                </div>
+                <p class="news-description">${description}</p>
                 <div class="news-footer">
-                    <div>
-                        ${article.tags.map(tag => `<span class="tag" style="display: inline-block; background: #E8F0FF; color: #4169E1; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; margin-right: 5px; margin-bottom: 5px;">${escapeHtml(tag)}</span>`).join('')}
-                    </div>
-                    <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
-                        Read More →
+                    <div class="news-tags">${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div>
+                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
+                        Read briefing<span class="sr-only">: ${title}</span>
                     </a>
                 </div>
-            </div>
+            </article>
         `;
     }
 
     /**
-     * Show empty state when no news is available
+     * Update the visible article count.
      */
-    function showEmptyState() {
-        const newsContainer = document.getElementById('newsContainer');
-        const emptyState = document.getElementById('emptyState');
-        
-        newsContainer.innerHTML = '';
-        emptyState.style.display = 'block';
+    function updateResultsCount(count, hasError = false) {
+        const resultsCount = document.getElementById('resultsCount');
+        if (!resultsCount) return;
+
+        if (hasError) {
+            resultsCount.textContent = 'Feed unavailable';
+            return;
+        }
+
+        const label = count === 1 ? 'briefing' : 'briefings';
+        resultsCount.textContent = `${count} ${label} in view`;
     }
 
     /**
-     * Escape HTML special characters to prevent XSS
+     * Display the empty state with a useful message.
      */
-    function escapeHtml(text) {
+    function showEmptyState(message) {
+        const newsContainer = document.getElementById('newsContainer');
+        const emptyState = document.getElementById('emptyState');
+        const emptyMessage = emptyState ? emptyState.querySelector('p') : null;
+
+        if (newsContainer) newsContainer.innerHTML = '';
+        if (emptyMessage && message) emptyMessage.textContent = message;
+        if (emptyState) emptyState.style.display = 'block';
+    }
+
+    /**
+     * Translate a category to a safe CSS modifier.
+     */
+    function getCategoryClass(category) {
+        const normalized = String(category || 'update').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+        return normalized || 'update';
+    }
+
+    /**
+     * Escape HTML special characters to prevent XSS.
+     */
+    function escapeHtml(value) {
         const map = {
             '&': '&amp;',
             '<': '&lt;',
@@ -189,15 +235,13 @@ const App = (() => {
             '"': '&quot;',
             "'": '&#039;'
         };
-        return text.replace(/[&<>"']/g, m => map[m]);
+        return String(value).replace(/[&<>"']/g, (character) => map[character]);
     }
 
-    return {
-        init
-    };
+    return { init };
 })();
 
-// Initialize the app when DOM is ready
+// Initialize the app when the DOM is ready.
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', App.init);
 } else {
