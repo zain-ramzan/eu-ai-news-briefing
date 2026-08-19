@@ -1,0 +1,23 @@
+{
+  "name": "eu-ai-news-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time dashboard for European AI news and regulatory updates",
+  "main": "scripts/fetch-news.js",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js",
+    "dev": "npx http-server . -p 8000 -o"
+  },
+  "keywords": [
+    "AI",
+    "EU",
+    "News",
+    "Dashboard",
+    "Regulation"
+  ],
+  "author": "Zain Ramzan",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.11",
+    "rss-parser": "^3.13.0"
+  }
+}
