@@ -1,118 +1,101 @@
-# EU AI News Dashboard
+# Euro AI Briefing
 
-A modern, real-time dashboard for European AI news and regulatory updates from official EU sources.
+> **Euro AI Briefing** is a lightweight, multilingual dashboard for following European artificial-intelligence policy, regulation, research, technology, and security developments. It turns a curated briefing feed into a focused, searchable reading experience.
 
-Website: - [EU AI News](https://zain-ramzan.github.io/eu-ai-news-dashboard/)
+The project is built as a static web application. It runs without a framework or build step, making it simple to host on GitHub Pages and straightforward to adapt for a different AI-policy briefing workflow.
 
-## Features
+| Project | Details |
+|---|---|
+| Repository | [`zain-ramzan/euro-ai-briefing`](https://github.com/zain-ramzan/euro-ai-briefing) |
+| Live site | `https://zain-ramzan.github.io/euro-ai-briefing/` once GitHub Pages is enabled for the repository |
+| Stack | HTML, CSS, vanilla JavaScript, Node.js utility scripts |
+| License | MIT |
 
-- 📰 Real-time news aggregation from official EU sources
-- 🔄 Automatic data fetching from EU APIs
-- 🎨 Modern, responsive dashboard interface
-- 📊 News categorization and filtering
-- 🌍 Multi-language support (EN, FR, DE, IT, ES)
-- 📱 Mobile-friendly design
-- 🚀 Deployed on GitHub Pages
+## What the dashboard provides
 
-## Data Sources
+The interface uses an editorial “policy intelligence” layout designed for quickly scanning a briefing feed. Readers can search article titles, descriptions, sources, and tags; filter by category; choose a sort order; restore a full feed after a no-result search; and open source articles in a new tab.
 
-- [EU AI Act Official Portal](https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence)
-- [European Commission - Digital Services](https://digital-strategy.ec.europa.eu/)
-- [European AI Board](https://digital-strategy.ec.europa.eu/en/policies/european-ai-board)
-- [NIST AI RSS Feed](https://www.nist.gov/ai)
+| Capability | Description |
+|---|---|
+| Curated briefing feed | Displays the articles stored in `data/news.json`, with source links, dates, tags, and categories. |
+| Search and filters | Supports keyword search, category filtering, and date or title sorting. |
+| Responsive interface | Adapts from a multi-column desktop feed to a single-column mobile reading layout. |
+| Multilingual interface | Offers UI translations for 23 principal EU languages. Article text remains in its original source language. |
+| Accessible interaction | Provides visible keyboard focus states, accessible labels, live result counts, and reduced-motion support. |
 
-## Technology Stack
+## Supported interface languages
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Data Fetching**: GitHub Actions, Node.js
-- **Hosting**: GitHub Pages
-- **API Integration**: REST APIs from official EU sources
+The language selector translates the dashboard’s navigation, headings, controls, status text, empty state, and article-card labels. It does **not** machine-translate external article titles or summaries, preserving the wording and attribution supplied by each source.
 
-## Project Structure
+| Western and Southern Europe | Central and Eastern Europe | Northern and Baltic Europe |
+|---|---|---|
+| English, French, German, Spanish, Italian, Portuguese, Dutch, Irish | Polish, Romanian, Czech, Greek, Hungarian, Bulgarian, Croatian, Slovak, Slovenian | Swedish, Danish, Finnish, Lithuanian, Latvian, Estonian |
 
+## Data and editorial scope
+
+The dashboard currently reads from the checked-in file at `data/news.json`. Each article records a title, description, source, category, publication date, URL, and tags. Use the outgoing article links to review the original material before relying on it for policy, regulatory, or commercial decisions.
+
+The included Node.js fetch utility is a development prototype. Its source-integration function is intentionally a placeholder, so production use should connect it to verified publication feeds or APIs, retain source URLs, and implement review and deduplication rules appropriate for the intended editorial standard.
+
+| Reference source | Intended use |
+|---|---|
+| [European Commission: Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence) | AI Act and European AI policy context. |
+| [European Commission: Digital Strategy](https://digital-strategy.ec.europa.eu/) | Digital-policy and programme announcements. |
+| [European AI Board](https://digital-strategy.ec.europa.eu/en/policies/european-ai-board) | Governance information related to the AI Act. |
+| [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) | EU research and innovation programme context. |
+
+## Local development
+
+Clone the repository, install the small set of Node.js dependencies, and start the included static server. Serving the files over HTTP is recommended because the dashboard fetches its news data from `data/news.json`.
+
+```bash
+git clone https://github.com/zain-ramzan/euro-ai-briefing.git
+cd euro-ai-briefing
+npm install
+npm run dev
 ```
-eu-ai-news-dashboard/
-├── index.html           # Main dashboard page
+
+The server runs on `http://localhost:8000` by default. To refresh the sample news-data file manually, run:
+
+```bash
+npm run fetch-news
+```
+
+## Deployment
+
+Euro AI Briefing can be deployed as a static site. For GitHub Pages, configure the repository’s Pages settings to deploy from the desired branch and root directory. After deployment, the expected project URL is:
+
+```text
+https://zain-ramzan.github.io/euro-ai-briefing/
+```
+
+If the project is hosted under a different owner, organization, or custom domain, update the corresponding links in `README.md` and `index.html`.
+
+## Project structure
+
+```text
+euro-ai-briefing/
+├── index.html              # Dashboard structure and language selector
 ├── css/
-│   └── style.css       # Dashboard styling
+│   └── style.css           # Visual system, layout, and responsive rules
 ├── js/
-│   ├── app.js          # Main application logic
-│   └── api.js          # API integration and data fetching
+│   ├── api.js              # News-data loading, filtering, sorting, and dates
+│   ├── app.js              # Dashboard rendering and interactions
+│   └── i18n.js             # Interface translations and language persistence
 ├── data/
-│   └── news.json       # Cached news data (updated by GitHub Actions)
+│   └── news.json           # Curated briefing data consumed by the dashboard
+├── scripts/
+│   └── fetch-news.js       # Prototype data-fetching utility
 ├── .github/
-│   └── workflows/
-│       └── fetch-news.yml  # GitHub Actions workflow for data fetching
+│   └── workflows/          # Repository automation configuration
+├── package.json
 └── README.md
 ```
 
-## Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/zain-ramzan/eu-ai-news-dashboard.git
-cd eu-ai-news-dashboard
-```
-
-### 2. Local Development
-
-Simply open `index.html` in your browser to view the dashboard.
-
-### 3. Enable GitHub Pages
-
-1. Go to repository settings
-2. Navigate to "Pages" section
-3. Select "main" branch as source
-4. Save
-
-The dashboard will be available at: `https://zain-ramzan.github.io/eu-ai-news-dashboard/`
-
-### 4. Configure GitHub Actions
-
-The workflow automatically fetches news data daily. No additional configuration needed!
-
-## Usage
-
-The dashboard automatically loads news from the cached data. Fresh data is fetched daily via GitHub Actions.
-
-### Manual Data Fetch
-
-To manually trigger a news fetch:
-
-```bash
-npm install
-node scripts/fetch-news.js
-```
-
-## Features Explained
-
-### Real-time Updates
-News data is updated automatically every day via GitHub Actions without any manual intervention.
-
-### Filtering & Search
-- Filter news by category (Regulation, Technology, Research, etc.)
-- Search by keywords
-- Sort by date or relevance
-
-### Responsive Design
-Works seamlessly on:
-- Desktop browsers
-- Tablets
-- Mobile devices
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome. Please create a focused branch, test the dashboard locally, and open a pull request that explains the user-facing change. For new data connectors, document the source, refresh cadence, licensing or terms, failure behavior, and deduplication strategy.
 
 ## License
 
-MIT License - feel free to use this project for your own purposes.
-
-## Support
-
-For issues or suggestions, please open a GitHub Issue.
-
----
-
-**Last Updated**: Auto-updated daily via GitHub Actions
+This project is declared under the MIT License in `package.json`. Add a repository-level `LICENSE` file before distributing the project if formal license text is required.
