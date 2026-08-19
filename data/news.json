@@ -1,77 +1,1546 @@
 {
-  "lastUpdated": "2024-01-15T10:30:00Z",
+  "lastUpdated": "2026-08-19T10:51:23.908Z",
+  "sourcePolicy": "Verified official EU pages only. Pages that are unavailable, missing a title, or older than the retention window are not published.",
   "articles": [
     {
-      "id": "eu-ai-act-2024-001",
-      "title": "EU AI Act Full Implementation Expected by January 2025",
-      "description": "The European Commission has confirmed the full implementation timeline for the AI Act, with key requirements taking effect in phases throughout 2024 and 2025.",
-      "content": "The AI Act represents a landmark regulatory framework for artificial intelligence in the European Union. It categorizes AI systems by risk level and establishes requirements for high-risk applications including facial recognition, hiring systems, and criminal justice applications. The law aims to ensure AI development respects fundamental rights while promoting innovation.",
+      "id": "eu-ai-4a9d7b6a5f2bfd7b",
+      "title": "European AI Office expands enforcement team ahead of autumn deadline",
+      "description": "The European AI Office is recruiting around 40 specialists to reinforce its enforcement work, with applications open until 8 September 2026.",
+      "content": "The European AI Office says it is recruiting technology, legal, operations and paralegal specialists to strengthen its enforcement team. The application deadline is 8 September 2026 in Brussels time.",
+      "source": "European AI Office",
+      "category": "Policy",
+      "date": "2026-08-13T10:37:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Office",
+        "Enforcement",
+        "Recruitment"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.715Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "Le Bureau européen de l'IA renforce son équipe chargée de l'application avant l'échéance d'automne",
+          "description": "Le Bureau européen de l'IA recrute environ 40 spécialistes pour renforcer ses activités d'application, les candidatures étant ouvertes jusqu'au 8 septembre 2026.",
+          "tags": [
+            "Bureau de l'IA",
+            "Contrôle",
+            "Recrutement"
+          ]
+        },
+        "de": {
+          "title": "Europäisches KI‑Büro verstärkt Durchsetzungs-Team vor Frist im Herbst",
+          "description": "Das Europäische KI‑Büro stellt rund 40 Spezialistinnen und Spezialisten ein, um seine Durchsetzungsarbeit zu verstärken; Bewerbungen sind bis zum 8. September 2026 möglich.",
+          "tags": [
+            "KI‑Büro",
+            "Durchsetzung",
+            "Rekrutierung"
+          ]
+        },
+        "es": {
+          "title": "European AI Office amplía el equipo de aplicación antes del plazo de otoño",
+          "description": "El European AI Office busca contratar alrededor de 40 especialistas para reforzar sus tareas de aplicación; solicitudes abiertas hasta el 8 de septiembre de 2026.",
+          "tags": [
+            "AI Office",
+            "Aplicación",
+            "Contratación"
+          ]
+        },
+        "it": {
+          "title": "European AI Office amplia il team di applicazione prima della scadenza autunnale",
+          "description": "European AI Office recluta circa 40 specialisti per rafforzare l'attività di applicazione; candidature aperte fino all'8 settembre 2026.",
+          "tags": [
+            "AI Office",
+            "Applicazione",
+            "Assunzioni"
+          ]
+        },
+        "pt": {
+          "title": "European AI Office reforça equipa de fiscalização antes do prazo de outono",
+          "description": "O European AI Office está a recrutar cerca de 40 especialistas para reforçar a sua atividade de fiscalização, com candidaturas abertas até 8 September 2026.",
+          "tags": [
+            "AI Office",
+            "Fiscalização",
+            "Recrutamento"
+          ]
+        },
+        "nl": {
+          "title": "European AI Office breidt handhavingsteam uit voor deadline in het najaar",
+          "description": "Het European AI Office werft circa 40 specialisten ter versterking van zijn handhavingsactiviteiten; sollicitaties open tot 8 September 2026.",
+          "tags": [
+            "AI Office",
+            "Handhaving",
+            "Werving"
+          ]
+        },
+        "pl": {
+          "title": "European AI Office rozszerza zespół egzekwowania przed jesiennym terminem",
+          "description": "European AI Office rekrutuje około 40 specjalistów do wzmocnienia działań egzekucyjnych; nabór trwa do 8 września 2026.",
+          "tags": [
+            "AI Office",
+            "Egzekwowanie",
+            "Rekrutacja"
+          ]
+        },
+        "ro": {
+          "title": "European AI Office mărește echipa de aplicare înainte de termenul din toamnă",
+          "description": "European AI Office recrutează aproximativ 40 de specialiști pentru a întări activitățile de aplicare; înscrierile sunt deschise până la 8 septembrie 2026.",
+          "tags": [
+            "AI Office",
+            "Aplicare",
+            "Recrutare"
+          ]
+        },
+        "sv": {
+          "title": "European AI Office utökar tillsynsteam inför höstens tidsfrist",
+          "description": "European AI Office rekryterar omkring 40 specialister för att stärka tillsynsarbetet. Ansökningar öppna till 8 September 2026.",
+          "tags": [
+            "AI-kontoret",
+            "Tillsyn",
+            "Rekrytering"
+          ]
+        },
+        "da": {
+          "title": "European AI Office udvider håndhævelsesteam inden efterårsfristen",
+          "description": "European AI Office rekrutterer omkring 40 specialister for at styrke håndhævelsesarbejdet. Ansøgninger åbne indtil 8 September 2026.",
+          "tags": [
+            "AI-kontoret",
+            "Håndhævelse",
+            "Rekruttering"
+          ]
+        },
+        "fi": {
+          "title": "European AI Office laajentaa täytäntöönpanotiimiään ennen syksyn määräaikaa",
+          "description": "European AI Office rekrytoi noin 40 asiantuntijaa vahvistaakseen täytäntöönpanotyötä; hakemukset ovat auki 8 September 2026.",
+          "tags": [
+            "AI-toimisto",
+            "Täytäntöönpano",
+            "Rekrytointi"
+          ]
+        },
+        "cs": {
+          "title": "European AI Office rozšiřuje tým pro vymáhání před podzimním termínem",
+          "description": "European AI Office hledá přibližně 40 specialistů na posílení vymáhací činnosti; přihlášky jsou otevřené do 8 September 2026.",
+          "tags": [
+            "Kancelář pro AI",
+            "Vymáhání",
+            "Nábor"
+          ]
+        },
+        "el": {
+          "title": "European AI Office ενισχύει την ομάδα επιβολής πριν την προθεσμία του φθινοπώρου",
+          "description": "Το European AI Office προσλαμβάνει περίπου 40 ειδικούς για να ενισχύσει το έργο επιβολής· αιτήσεις έως 8 Σεπτεμβρίου 2026.",
+          "tags": [
+            "Γραφείο AI",
+            "Επιβολή",
+            "Πρόσληψη"
+          ]
+        },
+        "hu": {
+          "title": "European AI Office bővíti az érvényesítési csapatot az őszi határidő előtt",
+          "description": "A European AI Office mintegy 40 szakértőt toboroz az érvényesítés megerősítésére; jelentkezési határidő: 2026. szeptember 8.",
+          "tags": [
+            "AI Iroda",
+            "Érvényesítés",
+            "Toborzás"
+          ]
+        },
+        "bg": {
+          "title": "European AI Office разширява екипа за прилагане преди есенния срок",
+          "description": "European AI Office набира около 40 специалисти за подсилване на работата си по прилагане. Кандидатурите са отворени до 8 September 2026.",
+          "tags": [
+            "AI Office",
+            "Прилагане",
+            "Набиране"
+          ]
+        },
+        "hr": {
+          "title": "European AI Office širi tim za provedbu pred jesenskim rokom",
+          "description": "European AI Office traži oko 40 stručnjaka za jačanje svog provedbenog rada. Prijave su otvorene do 8 September 2026.",
+          "tags": [
+            "AI Office",
+            "Provedba",
+            "Zapošljavanje"
+          ]
+        },
+        "sk": {
+          "title": "European AI Office rozširuje tím pre presadzovanie pred jesennou lehotou",
+          "description": "European AI Office náboruje približne 40 špecialistov na posilnenie práce v oblasti presadzovania; prihlášky sú otvorené do 8. septembra 2026.",
+          "tags": [
+            "AI Office",
+            "Presadzovanie",
+            "Nábor"
+          ]
+        },
+        "sl": {
+          "title": "European AI Office širi ekipo za izvrševanje pred jesenskim rokom",
+          "description": "European AI Office išče približno 40 strokovnjakov za okrepitev dela izvrševanja; prijave so odprte do 8. septembra 2026.",
+          "tags": [
+            "AI Office",
+            "Izvrševanje",
+            "Nabor"
+          ]
+        },
+        "lt": {
+          "title": "European AI Office plečia vykdymo komandą prieš rudens terminą",
+          "description": "European AI Office ieško apie 40 specialistų stiprinti vykdymo veiklą; paraiškos priimamos iki 2026 m. rugsėjo 8 d.",
+          "tags": [
+            "AI Office",
+            "Vykdymas",
+            "Atranka"
+          ]
+        },
+        "lv": {
+          "title": "European AI Office paplašina izpildes komandu pirms rudens termiņa",
+          "description": "European AI Office piesaista aptuveni 40 speciālistu, lai pastiprinātu izpildes darbu; pieteikšanās līdz 2026. gada 8. septembrim.",
+          "tags": [
+            "AI Office",
+            "Uzraudzība",
+            "Rekrutēšana"
+          ]
+        },
+        "et": {
+          "title": "European AI Office suurendab järelevalvemeeskonda enne sügise tähtaega",
+          "description": "European AI Office värbab ligikaudu 40 spetsialisti järelevalvetegevuse tugevdamiseks; avaldusi võetakse vastu kuni 8 September 2026.",
+          "tags": [
+            "AI-büroo",
+            "Järelevalve",
+            "Värbamine"
+          ]
+        },
+        "ga": {
+          "title": "European AI Office ag síneadh foirne forfheidhmithe roimh an sprioc don fhómhar",
+          "description": "Tá European AI Office ag earcú thart ar 40 speisialtóir chun a chuid forfheidhmithe a neartú; tá iarratais oscailte go dtí 8 September 2026.",
+          "tags": [
+            "Oifig AI",
+            "Forfheidhmiú",
+            "Earcú"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-790cf3e87918f684",
+      "title": "EU publishes icons for labelling AI-generated and manipulated content",
+      "description": "The Commission has made a set of optional icons available to help deployers disclose AI-generated or manipulated content under the AI Act transparency rules.",
+      "content": "The Commission’s icon set is intended to help people recognise AI-generated or manipulated images, audio, video and selected public-interest text. The page explains the relationship between optional icons and Article 50 disclosure obligations.",
+      "source": "European Commission",
+      "category": "Policy",
+      "date": "2026-08-10T12:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Transparency",
+        "AI Labels",
+        "Article 50"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.650Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "L'UE publie des icônes pour étiqueter le contenu généré ou manipulé par l'IA",
+          "description": "La Commission a mis à disposition un ensemble d'icônes optionnelles pour aider les déployeurs à divulguer les contenus générés ou manipulés par l'IA, conformément aux règles de transparence de l'AI Act.",
+          "tags": [
+            "Transparence",
+            "Étiquettes IA",
+            "Article 50"
+          ]
+        },
+        "de": {
+          "title": "EU veröffentlicht Symbole zur Kennzeichnung KI‑generierter und manipulierter Inhalte",
+          "description": "Die Kommission hat einen Satz optionaler Symbole bereitgestellt, um Bereitstellende dabei zu unterstützen, KI‑generierte oder manipulierte Inhalte gemäß den Transparenzregeln des AI Act offenzulegen.",
+          "tags": [
+            "Transparenz",
+            "KI‑Labels",
+            "Artikel 50"
+          ]
+        },
+        "es": {
+          "title": "La UE publica iconos para etiquetar contenido generado o manipulado por IA",
+          "description": "La Comisión ha puesto a disposición un conjunto de iconos opcionales para ayudar a los desplegadores a indicar contenido generado o manipulado por IA conforme a las normas de transparencia del AI Act.",
+          "tags": [
+            "Transparencia",
+            "Etiquetas de IA",
+            "Article 50"
+          ]
+        },
+        "it": {
+          "title": "La UE pubblica icone per etichettare contenuti generati o manipolati dall'IA",
+          "description": "La Commissione ha reso disponibili set di icone opzionali per aiutare i soggetti che mettono in servizio a segnalare contenuti generati o manipolati dall'IA ai sensi delle regole di trasparenza dell'AI Act.",
+          "tags": [
+            "Trasparenza",
+            "Etichette IA",
+            "Article 50"
+          ]
+        },
+        "pt": {
+          "title": "UE publica ícones para rotular conteúdo gerado ou manipulado por IA",
+          "description": "A Commission disponibilizou um conjunto de ícones opcionais para ajudar os responsáveis pela divulgação a identificar conteúdo gerado ou manipulado por IA, ao abrigo das regras de transparência do AI Act.",
+          "tags": [
+            "Transparência",
+            "Rótulos de IA",
+            "Article 50"
+          ]
+        },
+        "nl": {
+          "title": "EU publiceert pictogrammen voor etikettering van door AI gegenereerde en gemanipuleerde inhoud",
+          "description": "De Commission heeft een set optionele pictogrammen beschikbaar gesteld om plaatsers te helpen AI‑gegenereerde of gemanipuleerde inhoud te labelen onder de transparantieregels van de AI Act.",
+          "tags": [
+            "Transparantie",
+            "AI‑labels",
+            "Article 50"
+          ]
+        },
+        "pl": {
+          "title": "UE publikuje ikony do oznaczania treści generowanych i manipulowanych przez AI",
+          "description": "Komisja udostępniła zestaw opcjonalnych ikon, które mają pomóc wdrażającym ujawniać treści generowane lub manipulowane przez AI zgodnie z zasadami przejrzystości AI Act.",
+          "tags": [
+            "Przejrzystość",
+            "Etykiety AI",
+            "Article 50"
+          ]
+        },
+        "ro": {
+          "title": "UE publică pictograme pentru etichetarea conținutului generat și manipulat de AI",
+          "description": "Comisia a pus la dispoziție un set de pictograme opționale pentru a ajuta implementatorii să dezvăluie conținutul generat sau manipulat de AI în conformitate cu regulile de transparență ale AI Act.",
+          "tags": [
+            "Transparență",
+            "Etichete AI",
+            "Article 50"
+          ]
+        },
+        "sv": {
+          "title": "EU offentliggör ikoner för att märka AI-genererat och manipulerat innehåll",
+          "description": "Kommissionen har publicerat frivilliga ikoner för att hjälpa aktörer att ange AI-genererat eller manipulerat innehåll enligt AI Act:s transparensregler.",
+          "tags": [
+            "Transparens",
+            "AI-etiketter",
+            "Article 50"
+          ]
+        },
+        "da": {
+          "title": "EU offentliggør ikoner til mærkning af AI-genereret og manipuleret indhold",
+          "description": "Kommissionen har gjort et sæt frivillige ikoner tilgængelige for at hjælpe udbydere med at angive AI-genereret eller manipuleret indhold under AI Act's transparensregler.",
+          "tags": [
+            "Transparens",
+            "AI-mærker",
+            "Article 50"
+          ]
+        },
+        "fi": {
+          "title": "EU julkaisee kuvakkeet AI:n tuottaman ja manipuloidun sisällön merkitsemiseen",
+          "description": "Komissio on julkaissut joukon vapaaehtoisia kuvakkeita, jotka auttavat deployereita paljastamaan AI:n tuottaman tai manipuloidun sisällön AI Act -läpinäkyvyysvaatimusten mukaisesti.",
+          "tags": [
+            "Läpinäkyvyys",
+            "AI-etiketit",
+            "Article 50"
+          ]
+        },
+        "cs": {
+          "title": "EU zveřejňuje ikony pro označování obsahu vytvořeného nebo manipulovaného AI",
+          "description": "Komise zpřístupnila sadu nepovinných ikon, které pomáhají deployerům zveřejňovat obsah vytvořený nebo upravený AI podle pravidel transparentnosti AI Act.",
+          "tags": [
+            "Transparentnost",
+            "Označení AI",
+            "Article 50"
+          ]
+        },
+        "el": {
+          "title": "Commission δημοσιεύει εικονίδια για σήμανση περιεχομένου που παράγεται ή παραποιείται από AI",
+          "description": "Η Commission διαθέτει σετ προαιρετικών εικονιδίων για να βοηθήσει τους υπεύθυνους διάθεσης να δηλώνουν περιεχόμενο που δημιουργήθηκε ή παραποιήθηκε με AI υπό τους κανόνες διαφάνειας του AI Act.",
+          "tags": [
+            "Διαφάνεια",
+            "Ετικέτες AI",
+            "Article 50"
+          ]
+        },
+        "hu": {
+          "title": "Commission közzétett ikonokat az AI által létrehozott vagy manipulált tartalom jelölésére",
+          "description": "A Commission elérhetővé tett egy készlet opcionális ikont, hogy segítse a telepítőket abban, hogy az AI Act átláthatósági szabályai szerint jelöljék az AI által létrehozott vagy manipulált tartalmat.",
+          "tags": [
+            "Átláthatóság",
+            "AI címkék",
+            "Article 50"
+          ]
+        },
+        "bg": {
+          "title": "EU публикува икони за маркиране на AI-генерирано и манипулирано съдържание",
+          "description": "Комисията публикува набор от незадължителни икони, които помагат на внедрителите да обозначават AI-генерирано или манипулирано съдържание съгласно правилата за прозрачност на AI Act.",
+          "tags": [
+            "Прозрачност",
+            "Етикети за AI",
+            "Article 50"
+          ]
+        },
+        "hr": {
+          "title": "EU objavljuje ikone za označavanje AI-generiranog i manipuliranog sadržaja",
+          "description": "Komisija je objavila skup dobrovoljnih ikona koje pomažu primjenjivačima da otkriju AI-generirani ili manipulirani sadržaj prema pravilima transparentnosti AI Act.",
+          "tags": [
+            "Transparentnost",
+            "Oznake za AI",
+            "Article 50"
+          ]
+        },
+        "sk": {
+          "title": "EU zverejnila ikony na označovanie AI-generovaného a manipulovaného obsahu",
+          "description": "Commission sprístupnila súbor nepovinných ikon, ktoré majú pomôcť nasadzovateľom označovať AI‑generovaný alebo manipulovaný obsah podľa pravidiel transparentnosti AI Act.",
+          "tags": [
+            "Transparentnosť",
+            "Označenia AI",
+            "Article 50"
+          ]
+        },
+        "sl": {
+          "title": "EU je objavila ikone za označevanje AI-generirane in manipulirane vsebine",
+          "description": "Commission je objavila nabor neobveznih ikon, ki naj bi izvajalcem pomagale razkriti AI‑generirano ali manipulirano vsebino v skladu s pravili transparentnosti AI Act.",
+          "tags": [
+            "Transparentnost",
+            "AI oznake",
+            "Article 50"
+          ]
+        },
+        "lt": {
+          "title": "EU paskelbė piktogramas AI sukurtam ir manipulėtam turiniui žymėti",
+          "description": "Commission pateikė pasirenkamų piktogramų rinkinį, padedantį diegėjams atskleisti AI sukurtą arba manipuliuotą turinį pagal AI Act skaidrumo taisykles.",
+          "tags": [
+            "Skaidrumas",
+            "AI etiketės",
+            "Article 50"
+          ]
+        },
+        "lv": {
+          "title": "EU publicē ikonas AI radīta un manipulēta satura marķēšanai",
+          "description": "Commission ir izveidojusi izvēles ikonu kopu, kas palīdz izvietotājiem atklāt AI radītu vai manipulētu saturu saskaņā ar AI Act pārredzamības noteikumiem.",
+          "tags": [
+            "Pārredzamība",
+            "AI etiķetes",
+            "Article 50"
+          ]
+        },
+        "et": {
+          "title": "EL avaldab ikoonid tehisintellekti genereeritud ja muudetud sisu märgistamiseks",
+          "description": "Komisjon on teinud kättesaadavaks valikulise ikoonikomplekti, et aidata levitajatel tehisintellekti genereeritud või muudetud sisu AI Acti läbipaistvusreeglite kohaselt avalikustada.",
+          "tags": [
+            "Läbipaistvus",
+            "AI-sildid",
+            "Article 50"
+          ]
+        },
+        "ga": {
+          "title": "Seolann an AE deilbhíní chun ábhar a ghineann AI agus a mhodhnófar a lipéadú",
+          "description": "Tá an Coimisiún tar éis sraith deilbhíní roghnach a thabhairt amach chun cabhrú le lucht cur i bhfeidhm ábhar a ghineann AI nó a bhfuil modhnaithe a nochtadh faoi rialacha trédhearcachta an AI Act.",
+          "tags": [
+            "Trédhearcacht",
+            "Lipéid AI",
+            "Article 50"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-94d57c02d6ebf762",
+      "title": "Safer and more transparent AI rules take effect across the EU",
+      "description": "New transparency obligations now require certain AI systems and AI-generated or altered content to be clearly disclosed to people in the EU.",
+      "content": "The Commission explains that the rules cover selected interactive AI systems, deepfakes, and some AI-generated public-interest text. It outlines responsible authorities and the sanctions that may apply for non-compliance.",
       "source": "European Commission",
       "category": "Regulation",
-      "date": "2024-01-15T10:30:00Z",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence",
-      "image": "📋",
-      "tags": ["AI Act", "EU Policy", "Regulation"]
+      "date": "2026-08-02T08:00:00Z",
+      "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en",
+      "imageUrl": "https://commission.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-07/AI-transparency-obligations%202.jpg?h=c3635fa2&itok=34Ka5Vab",
+      "videoUrl": null,
+      "tags": [
+        "AI Act",
+        "Transparency",
+        "Trust"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.908Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "Des règles d'IA plus sûres et plus transparentes entrent en vigueur dans l'UE",
+          "description": "De nouvelles obligations de transparence exigent désormais que certains systèmes d'IA et contenus générés ou modifiés par l'IA soient clairement signalés aux personnes dans l'UE.",
+          "tags": [
+            "AI Act",
+            "Transparence",
+            "Confiance"
+          ]
+        },
+        "de": {
+          "title": "Sicherere und transparentere KI‑Regeln treten in der gesamten EU in Kraft",
+          "description": "Neue Transparenzpflichten verlangen nun, dass bestimmte KI‑Systeme sowie KI‑generierte oder -veränderte Inhalte gegenüber Personen in der EU klar offengelegt werden.",
+          "tags": [
+            "AI Act",
+            "Transparenz",
+            "Vertrauen"
+          ]
+        },
+        "es": {
+          "title": "Normas de IA más seguras y transparentes entran en vigor en la UE",
+          "description": "Nuevas obligaciones de transparencia exigen que determinados sistemas de IA y el contenido generado o alterado por IA se comuniquen claramente a las personas en la UE.",
+          "tags": [
+            "AI Act",
+            "Transparencia",
+            "Confianza"
+          ]
+        },
+        "it": {
+          "title": "Regole per un'IA più sicura e trasparente entrano in vigore in tutta l'UE",
+          "description": "Nuovi obblighi di trasparenza richiedono che alcuni sistemi di IA e i contenuti generati o modificati dall'IA siano comunicati chiaramente alle persone nell'UE.",
+          "tags": [
+            "AI Act",
+            "Trasparenza",
+            "Fiducia"
+          ]
+        },
+        "pt": {
+          "title": "Regras de IA mais seguras e transparentes entram em vigor na UE",
+          "description": "Novas obrigações de transparência exigem agora a divulgação clara de determinados sistemas de IA e de conteúdo gerado ou alterado por IA às pessoas na UE.",
+          "tags": [
+            "AI Act",
+            "Transparência",
+            "Confiança"
+          ]
+        },
+        "nl": {
+          "title": "Veiliger en transparanter AI‑regels treden in werking in de EU",
+          "description": "Nieuwe transparantieverplichtingen eisen dat bepaalde AI‑systemen en AI‑gegenereerde of gewijzigde inhoud duidelijk aan mensen in de EU worden bekendgemaakt.",
+          "tags": [
+            "AI Act",
+            "Transparantie",
+            "Vertrouwen"
+          ]
+        },
+        "pl": {
+          "title": "Bezpieczniejsze i bardziej przejrzyste zasady AI wchodzą w życie w całej UE",
+          "description": "Nowe obowiązki w zakresie przejrzystości wymagają, by niektóre systemy AI oraz treści generowane lub zmieniane przez AI były wyraźnie ujawniane osobom w UE.",
+          "tags": [
+            "AI Act",
+            "Przejrzystość",
+            "Zaufanie"
+          ]
+        },
+        "ro": {
+          "title": "Reguli AI mai sigure și mai transparente intră în vigoare în întreaga UE",
+          "description": "Noile obligații de transparență cer ca anumite sisteme AI și conținutul generat sau modificat de AI să fie clar dezvăluite persoanelor din UE.",
+          "tags": [
+            "AI Act",
+            "Transparență",
+            "Încredere"
+          ]
+        },
+        "sv": {
+          "title": "Säkrare och mer transparenta AI-regler träder i kraft i hela EU",
+          "description": "Nya transparensskyldigheter kräver att vissa AI-system och AI-genererat eller ändrat innehåll tydligt uppges för personer i EU.",
+          "tags": [
+            "AI Act",
+            "Transparens",
+            "Förtroende"
+          ]
+        },
+        "da": {
+          "title": "Sikrere og mere gennemsigtige AI-regler træder i kraft i hele EU",
+          "description": "Nye transparensforpligtelser kræver nu, at visse AI-systemer samt AI-genereret eller ændret indhold tydeligt oplyses over for personer i EU.",
+          "tags": [
+            "AI Act",
+            "Transparens",
+            "Tillid"
+          ]
+        },
+        "fi": {
+          "title": "Turvallisemmat ja läpinäkyvämmät tekoälysäännöt astuvat voimaan EU:ssa",
+          "description": "Uudet läpinäkyvyysvelvoitteet edellyttävät, että tietyt tekoälyjärjestelmät sekä AI:n tuottama tai muokkaama sisältö ilmoitetaan selvästi EU:n asukkaille.",
+          "tags": [
+            "AI Act",
+            "Läpinäkyvyys",
+            "Luottamus"
+          ]
+        },
+        "cs": {
+          "title": "Bezpečnější a transparentnější pravidla pro AI vstupují v platnost v celé EU",
+          "description": "Nové povinnosti v oblasti transparentnosti nyní vyžadují, aby některé AI systémy a obsah vytvořený či upravený AI byl lidem v EU jasně označen.",
+          "tags": [
+            "AI Act",
+            "Transparentnost",
+            "Důvěra"
+          ]
+        },
+        "el": {
+          "title": "Πιο ασφαλείς και διαφανείς κανόνες AI τίθενται σε ισχύ σε όλη την EU",
+          "description": "Νέες υποχρεώσεις διαφάνειας απαιτούν πλέον από ορισμένα συστήματα AI και από περιεχόμενο που δημιουργείται ή μεταβάλλεται με AI να δηλώνεται σαφώς σε πρόσωπα στην EU.",
+          "tags": [
+            "AI Act",
+            "Διαφάνεια",
+            "Εμπιστοσύνη"
+          ]
+        },
+        "hu": {
+          "title": "Biztonságosabb és átláthatóbb AI-szabályok lépnek hatályba az EU-ban",
+          "description": "Új átláthatósági kötelezettségek mostantól megkövetelik, hogy bizonyos AI-rendszereket, valamint AI által létrehozott vagy módosított tartalmakat egyértelműen jelentsenek az EU-ban élők számára.",
+          "tags": [
+            "AI Act",
+            "Átláthatóság",
+            "Bizalom"
+          ]
+        },
+        "bg": {
+          "title": "По-безопасни и по-прозрачни правила за AI влизат в сила в целия EU",
+          "description": "Новите задължения за прозрачност изискват определени AI системи и AI-генерирано или променено съдържание да бъдат ясно обозначени пред хората в EU.",
+          "tags": [
+            "AI Act",
+            "Прозрачност",
+            "Доверие"
+          ]
+        },
+        "hr": {
+          "title": "Sigurnija i transparentnija pravila za AI stupaju na snagu diljem EU",
+          "description": "Nove obveze za transparentnost sada zahtijevaju da se određeni AI sustavi te AI-generirani ili izmijenjeni sadržaj jasno označe korisnicima u EU.",
+          "tags": [
+            "AI Act",
+            "Transparentnost",
+            "Povjerenje"
+          ]
+        },
+        "sk": {
+          "title": "Bezpečnejšie a transparentnejšie pravidlá pre AI nadobúdajú účinnosť v celej EU",
+          "description": "Nové povinnosti v oblasti transparentnosti teraz vyžadujú, aby určité AI systémy a AI‑generovaný alebo upravený obsah boli ľuďom v EU jasne zverejnené.",
+          "tags": [
+            "AI Act",
+            "Transparentnosť",
+            "Dôvera"
+          ]
+        },
+        "sl": {
+          "title": "Varnostnejša in bolj pregledna pravila za AI začnejo veljati v celotni EU",
+          "description": "Nove obveznosti glede transparentnosti zdaj zahtevajo, da so določeni AI sistemi in AI‑generirana ali spremenjena vsebina jasno razkriti osebam v EU.",
+          "tags": [
+            "AI Act",
+            "Transparentnost",
+            "Zaupanje"
+          ]
+        },
+        "lt": {
+          "title": "Saugesnės ir labiau skaidrios AI taisyklės įsigalioja visoje EU",
+          "description": "Naujos skaidrumo prievolės reikalauja, kad tam tikros AI sistemos bei AI sukurtas arba pakeistas turinys būtų aiškiai atskleidžiamas žmonėms EU.",
+          "tags": [
+            "AI Act",
+            "Skaidrumas",
+            "Pasitikėjimas"
+          ]
+        },
+        "lv": {
+          "title": "Drošākas un caurskatāmākas AI normas stājas spēkā visā EU",
+          "description": "Jaunas pārredzamības saistības prasa, lai noteiktas AI sistēmas un AI radīts vai mainīts saturs tiktu skaidri atklāts cilvēkiem EU.",
+          "tags": [
+            "AI Act",
+            "Pārredzamība",
+            "Uzticība"
+          ]
+        },
+        "et": {
+          "title": "Turvalisemad ja läbipaistvamad AI-reeglid jõustuvad kogu EL-is",
+          "description": "Uued läbipaistvuskohustused nõuavad, et teatud tehisintellekti süsteemid ning tehisintellekti genereeritud või muudetud sisu märgistataks ELi elanikele selgelt.",
+          "tags": [
+            "AI Act",
+            "Läbipaistvus",
+            "Usaldus"
+          ]
+        },
+        "ga": {
+          "title": "Téann rialacha AI níos sábháilte agus níos trédhearcaí i bhfeidhm ar fud an AE",
+          "description": "Éilíonn dualgais nua trédhearcachta anois go nochtfar go soiléir córais AI áirithe agus ábhar a ghineann nó a mhodhnófar ag AI do dhaoine san AE.",
+          "tags": [
+            "AI Act",
+            "Trédhearcacht",
+            "Iontaobhas"
+          ]
+        }
+      }
     },
     {
-      "id": "horizon-research-2024-001",
-      "title": "Horizon Europe Funds €500M for AI Safety and Trustworthiness Research",
-      "description": "The EU has allocated significant funding to research initiatives focused on making AI systems more safe, transparent, and trustworthy for European citizens.",
-      "content": "Horizon Europe, the EU's research and innovation program, is investing heavily in AI safety research. This includes developing better explainability methods, security protocols, and ethical frameworks for AI systems. Research institutions across Europe are collaborating on projects ranging from AI verification to bias detection.",
-      "source": "Horizon Europe",
-      "category": "Research",
-      "date": "2024-01-14T14:20:00Z",
-      "url": "https://ec.europa.eu/programmes/horizon2020",
-      "image": "🔬",
-      "tags": ["AI Safety", "Research", "Funding"]
+      "id": "eu-ai-e7644651c602a0a2",
+      "title": "Commission begins enforcing AI Act transparency rules",
+      "description": "The Commission and national authorities have begun enforcing new AI Act transparency requirements for selected AI systems and generated content.",
+      "content": "The announcement sets out that providers and deployers of certain AI systems must disclose AI interactions and generated or altered content. It also points to guidance, complaints tools and the transparency code of practice.",
+      "source": "European Commission",
+      "category": "Regulation",
+      "date": "2026-07-31T09:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Act",
+        "Enforcement",
+        "Compliance"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.584Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "La Commission commence à appliquer les règles de transparence de l'AI Act",
+          "description": "La Commission et les autorités nationales ont commencé à faire respecter les nouvelles exigences de transparence de l'AI Act pour certains systèmes d'IA et contenus générés par l'IA.",
+          "tags": [
+            "AI Act",
+            "Contrôle",
+            "Conformité"
+          ]
+        },
+        "de": {
+          "title": "Kommission beginnt mit Durchsetzung der Transparenzvorschriften des AI Act",
+          "description": "Die Kommission und nationale Behörden haben begonnen, die neuen Transparenzanforderungen des AI Act für ausgewählte KI‑Systeme und generierte Inhalte durchzusetzen.",
+          "tags": [
+            "AI Act",
+            "Durchsetzung",
+            "Einhaltung"
+          ]
+        },
+        "es": {
+          "title": "La Comisión inicia la aplicación de las normas de transparencia del AI Act",
+          "description": "La Comisión y las autoridades nacionales han comenzado a aplicar los nuevos requisitos de transparencia del AI Act para determinados sistemas de IA y contenidos generados.",
+          "tags": [
+            "AI Act",
+            "Aplicación",
+            "Cumplimiento"
+          ]
+        },
+        "it": {
+          "title": "La Commissione avvia l'applicazione delle regole di trasparenza dell'AI Act",
+          "description": "La Commissione e le autorità nazionali hanno iniziato ad applicare i nuovi requisiti di trasparenza dell'AI Act per specifici sistemi di IA e contenuti generati.",
+          "tags": [
+            "AI Act",
+            "Applicazione",
+            "Conformità"
+          ]
+        },
+        "pt": {
+          "title": "Commission inicia aplicação das regras de transparência do AI Act",
+          "description": "A Commission e as autoridades nacionais começaram a aplicar os novos requisitos de transparência do AI Act para sistemas de IA selecionados e conteúdo gerado.",
+          "tags": [
+            "AI Act",
+            "Fiscalização",
+            "Conformidade"
+          ]
+        },
+        "nl": {
+          "title": "Commission begint handhaving van de transparantieregels van de AI Act",
+          "description": "De Commission en nationale autoriteiten zijn begonnen met de handhaving van de nieuwe transparantievereisten van de AI Act voor geselecteerde AI‑systemen en gegenereerde inhoud.",
+          "tags": [
+            "AI Act",
+            "Handhaving",
+            "Naleving"
+          ]
+        },
+        "pl": {
+          "title": "Komisja rozpoczyna stosowanie zasad przejrzystości AI Act",
+          "description": "Komisja oraz władze krajowe rozpoczęły egzekwowanie nowych wymogów dotyczących przejrzystości AI Act wobec wybranych systemów AI i treści generowanych.",
+          "tags": [
+            "AI Act",
+            "Egzekwowanie",
+            "Zgodność"
+          ]
+        },
+        "ro": {
+          "title": "Comisia începe aplicarea regulilor de transparență AI Act",
+          "description": "Comisia și autoritățile naționale au început să aplice noile cerințe de transparență AI Act pentru anumite sisteme AI și conținut generat.",
+          "tags": [
+            "AI Act",
+            "Aplicare",
+            "Conformitate"
+          ]
+        },
+        "sv": {
+          "title": "Kommissionen börjar tillämpa AI Act:s transparensregler",
+          "description": "Kommissionen och nationella myndigheter har börjat tillämpa nya transparenskrav i AI Act för utvalda AI‑system och genererat innehåll.",
+          "tags": [
+            "AI Act",
+            "Tillsyn",
+            "Efterlevnad"
+          ]
+        },
+        "da": {
+          "title": "Kommissionen begynder at håndhæve AI Act's transparensregler",
+          "description": "Kommissionen og nationale myndigheder er begyndt at håndhæve de nye transparenskrav i AI Act for udvalgte AI-systemer og genereret indhold.",
+          "tags": [
+            "AI Act",
+            "Håndhævelse",
+            "Overholdelse"
+          ]
+        },
+        "fi": {
+          "title": "Komissio aloittaa AI Actin läpinäkyvyysvaatimusten täytäntöönpanon",
+          "description": "Komissio ja kansalliset viranomaiset ovat aloittaneet uusien AI Act -läpinäkyvyysvaatimusten täytäntöönpanon valituissa tekoälyjärjestelmissä ja tuotetussa sisällössä.",
+          "tags": [
+            "AI Act",
+            "Täytäntöönpano",
+            "Noudattaminen"
+          ]
+        },
+        "cs": {
+          "title": "Komise zahajuje vymáhání pravidel transparentnosti AI Act",
+          "description": "Komise a národní orgány začaly vymáhat nové požadavky AI Act na transparentnost u vybraných AI systémů a generovaného obsahu.",
+          "tags": [
+            "AI Act",
+            "Vymáhání",
+            "Soulad"
+          ]
+        },
+        "el": {
+          "title": "Commission ξεκινά την εφαρμογή των κανόνων διαφάνειας του AI Act",
+          "description": "Η Commission και οι εθνικές αρχές έχουν αρχίσει την επιβολή νέων απαιτήσεων διαφάνειας του AI Act για επιλεγμένα συστήματα AI και παραγόμενο περιεχόμενο.",
+          "tags": [
+            "AI Act",
+            "Επιβολή",
+            "Συμμόρφωση"
+          ]
+        },
+        "hu": {
+          "title": "A Commission megkezdi az AI Act átláthatósági szabályainak érvényesítését",
+          "description": "A Commission és a nemzeti hatóságok elkezdték az AI Act új átláthatósági követelményeinek érvényesítését kiválasztott AI-rendszerekre és előállított tartalmakra.",
+          "tags": [
+            "AI Act",
+            "Érvényesítés",
+            "Megfelelés"
+          ]
+        },
+        "bg": {
+          "title": "Комисията започва прилагането на правилата за прозрачност по AI Act",
+          "description": "Комисията и националните органи започнаха да прилагат новите изисквания за прозрачност по AI Act за избрани AI системи и генерирано съдържание.",
+          "tags": [
+            "AI Act",
+            "Прилагане",
+            "Съответствие"
+          ]
+        },
+        "hr": {
+          "title": "Komisija započinje provedbu pravila o transparentnosti iz AI Act",
+          "description": "Komisija i nacionalna tijela započeli su provođenje novih zahtjeva za transparentnost iz AI Act za odabrane AI sustave i generirani sadržaj.",
+          "tags": [
+            "AI Act",
+            "Provedba",
+            "Usklađenost"
+          ]
+        },
+        "sk": {
+          "title": "Commission začína presadzovať pravidlá transparentnosti AI Act",
+          "description": "Commission a národné orgány začali presadzovať nové požiadavky transparentnosti AI Act pre vybrané AI systémy a generovaný obsah.",
+          "tags": [
+            "AI Act",
+            "Presadzovanie",
+            "Súlad"
+          ]
+        },
+        "sl": {
+          "title": "Commission začne uveljavljati pravila transparentnosti AI Act",
+          "description": "Commission in nacionalne oblasti so začele uveljavljati nove zahteve transparentnosti AI Act za izbrane AI sisteme in generirano vsebino.",
+          "tags": [
+            "AI Act",
+            "Uveljavljanje",
+            "Skladnost"
+          ]
+        },
+        "lt": {
+          "title": "Commission pradeda taikyti AI Act skaidrumo taisykles",
+          "description": "Commission ir nacionalinės institucijos pradėjo taikyti naujus AI Act skaidrumo reikalavimus pasirinktoms AI sistemoms ir generuotam turiniui.",
+          "tags": [
+            "AI Act",
+            "Vykdymas",
+            "Atitiktis"
+          ]
+        },
+        "lv": {
+          "title": "Commission sāk piemērot AI Act pārredzamības noteikumus",
+          "description": "Commission un valsts iestādes ir sākušas piemērot jaunās AI Act pārredzamības prasības attiecībā uz atlasītām AI sistēmām un ģenerētu saturu.",
+          "tags": [
+            "AI Act",
+            "Piemērošana",
+            "Atbilstība"
+          ]
+        },
+        "et": {
+          "title": "Komisjon alustab AI Acti läbipaistvusreeglite jõustamist",
+          "description": "Komisjon ja riiklikud ametiasutused on hakanud jõustama uusi AI Acti läbipaistvusnõudeid valitud AI‑süsteemide ja genereeritud sisu puhul.",
+          "tags": [
+            "AI Act",
+            "Järelevalve",
+            "Vastavus"
+          ]
+        },
+        "ga": {
+          "title": "Tosaíonn an Coimisiún ag cur rialacha trédhearcachta an AI Act i bhfeidhm",
+          "description": "Tá an Coimisiún agus údaráis náisiúnta tar éis tosú ag cur riachtanais nua trédhearcachta an AI Act i bhfeidhm maidir le córais AI roghnaithe agus le hábhar ginte.",
+          "tags": [
+            "AI Act",
+            "Forfheidhmiú",
+            "Comhlíonadh"
+          ]
+        }
+      }
     },
     {
-      "id": "ec-ai-board-2024-001",
-      "title": "European AI Board Releases Guidelines on High-Risk AI Systems",
-      "description": "New comprehensive guidelines provide clarity on how organizations should assess and manage risks in high-risk AI systems under the AI Act.",
-      "content": "The European AI Board has published detailed guidance documents for organizations deploying high-risk AI systems. These guidelines cover risk assessment methodologies, documentation requirements, and compliance strategies. The board emphasizes the importance of human oversight in critical applications.",
-      "source": "European AI Board",
+      "id": "eu-ai-941f173f2f968bdb",
+      "title": "EU launches AI Gigafactories call to expand Europe’s computing capacity",
+      "description": "A call for up to seven AI Gigafactories aims to combine public backing and private investment to expand European infrastructure for frontier AI.",
+      "content": "The Commission says the initiative could use up to €10 billion in EU and national funding and unlock at least €20 billion in private investment. The facilities are intended to serve startups, research, industry and public authorities.",
+      "source": "European Commission",
+      "category": "Technology",
+      "date": "2026-07-30T09:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-ai-gigafactories-call-boost-europes-computing-capacity-and-unlock-more-eu30-billion",
+      "imageUrl": "assets/news/ai-gigafactories.png",
+      "videoUrl": null,
+      "tags": [
+        "AI Infrastructure",
+        "Gigafactories",
+        "Tech Sovereignty"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.565Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "L'UE lance un appel AI Gigafactories pour accroître la capacité de calcul de l'Europe",
+          "description": "Un appel visant à sélectionner jusqu'à sept AI Gigafactories cherche à combiner soutien public et investissement privé pour développer les infrastructures européennes pour l'IA de pointe.",
+          "tags": [
+            "Infrastructure IA",
+            "Gigafactories",
+            "Souveraineté technologique"
+          ]
+        },
+        "de": {
+          "title": "EU startet Ausschreibung für AI Gigafactories zur Erweiterung der Rechenkapazität Europas",
+          "description": "Eine Ausschreibung für bis zu sieben AI Gigafactories zielt darauf ab, öffentliche Förderung und private Investitionen zu bündeln, um die europäische Infrastruktur für fortgeschrittene KI auszubauen.",
+          "tags": [
+            "KI‑Infrastruktur",
+            "Gigafactories",
+            "Technologische Souveränität"
+          ]
+        },
+        "es": {
+          "title": "La UE lanza convocatoria de AI Gigafactories para ampliar la capacidad informática europea",
+          "description": "Una convocatoria para hasta siete AI Gigafactories pretende combinar respaldo público e inversión privada para ampliar la infraestructura europea para la IA de vanguardia.",
+          "tags": [
+            "Infraestructura de IA",
+            "Gigafactories",
+            "Soberanía tecnológica"
+          ]
+        },
+        "it": {
+          "title": "La UE lancia la call per AI Gigafactories per aumentare la capacità di calcolo europea",
+          "description": "Una call per fino a sette AI Gigafactories mira a combinare sostegno pubblico e investimenti privati per espandere l'infrastruttura europea per l'AI di frontiera.",
+          "tags": [
+            "Infrastruttura per l'IA",
+            "Gigafactories",
+            "Sovranità tecnologica"
+          ]
+        },
+        "pt": {
+          "title": "UE lança concurso para AI Gigafactories para aumentar capacidade de computação da Europa",
+          "description": "Um concurso para até sete AI Gigafactories visa combinar apoio público e investimento privado para expandir a infraestrutura europeia para IA de ponta.",
+          "tags": [
+            "Infraestrutura de IA",
+            "Gigafactories",
+            "Soberania tecnológica"
+          ]
+        },
+        "nl": {
+          "title": "EU start oproep voor AI Gigafactories om Europa’s rekencapaciteit uit te breiden",
+          "description": "Een oproep voor maximaal zeven AI Gigafactories moet publieke steun en privaat kapitaal combineren om Europese infrastructuur voor AI van de voorhoede uit te breiden.",
+          "tags": [
+            "AI‑infrastructuur",
+            "Gigafabrieken",
+            "Technologische soevereiniteit"
+          ]
+        },
+        "pl": {
+          "title": "UE ogłasza konkurs na AI Gigafabryki w celu zwiększenia mocy obliczeniowej Europy",
+          "description": "Konkurs na maksymalnie siedem AI Gigafabryk ma połączyć wsparcie publiczne i prywatne inwestycje, by rozbudować europejską infrastrukturę dla zaawansowanej AI.",
+          "tags": [
+            "Infrastruktura AI",
+            "Gigafabryki",
+            "Suwerenność technologiczna"
+          ]
+        },
+        "ro": {
+          "title": "UE lansează apel pentru AI Gigafactories pentru a extinde capacitatea de calcul a Europei",
+          "description": "Un apel pentru până la șapte AI Gigafactories vizează combinarea sprijinului public și a investițiilor private pentru a extinde infrastructura europeană pentru AI de frontieră.",
+          "tags": [
+            "Infrastructură AI",
+            "Gigafabrici",
+            "Suveranitate tehnologică"
+          ]
+        },
+        "sv": {
+          "title": "EU lanserar AI Gigafactories-utlysning för att utöka Europas datorkapacitet",
+          "description": "En utlysning om upp till sju AI Gigafactories syftar till att kombinera offentligt stöd och privata investeringar för att bygga ut Europas infrastruktur för avancerad AI.",
+          "tags": [
+            "AI-infrastruktur",
+            "Gigafabriker",
+            "Teknisk suveränitet"
+          ]
+        },
+        "da": {
+          "title": "EU lancerer AI Gigafactories-udbud for at udvide Europas computerkapacitet",
+          "description": "Et udbud på op til syv AI Gigafactories sigter mod at kombinere offentlig støtte og private investeringer for at udbygge europæisk infrastruktur til avanceret AI.",
+          "tags": [
+            "AI-infrastruktur",
+            "Gigafabrikker",
+            "Teknologisk suverænitet"
+          ]
+        },
+        "fi": {
+          "title": "EU käynnistää AI Gigafactories -haun laajentaakseen Euroopan laskentakapasiteettia",
+          "description": "Haku enintään seitsemälle AI Gigafactories -laitokselle pyrkii yhdistämään julkisen tuen ja yksityiset sijoitukset laajentaakseen Euroopan infrastruktuuria kehittyneelle AI:lle.",
+          "tags": [
+            "AI-infrastruktuuri",
+            "Gigatehtaat",
+            "Teknologiasuvereniteetti"
+          ]
+        },
+        "cs": {
+          "title": "EU spouští výzvu AI Gigafactories k rozšíření výpočetní kapacity Evropy",
+          "description": "Výzva na až sedm AI Gigafactories má spojit veřejnou podporu a soukromé investice za účelem rozšíření evropské infrastruktury pro pokročilou AI.",
+          "tags": [
+            "AI infrastruktura",
+            "Gigafaktorie",
+            "Technologická suverenita"
+          ]
+        },
+        "el": {
+          "title": "EU προκηρύσσει πρόγραμμα AI Gigafactories για να διευρύνει την υπολογιστική ισχύ της Ευρώπης",
+          "description": "Πρόσκληση για έως και επτά AI Gigafactories με στόχο τον συνδυασμό δημόσιας στήριξης και ιδιωτικών επενδύσεων για την επέκταση της ευρωπαϊκής υποδομής για πρωτοποριακή AI.",
+          "tags": [
+            "Υποδομή AI",
+            "Gigafactories",
+            "Τεχνολογική Κυριαρχία"
+          ]
+        },
+        "hu": {
+          "title": "EU indít AI Gigafactories pályázatot az európai számítási kapacitás bővítésére",
+          "description": "Legfeljebb hét AI Gigafactories-re szóló pályázat célja a köz- és magántőke egyesítése az európai élvonalbeli AI-infrastruktúra bővítéséhez.",
+          "tags": [
+            "AI infrastruktúra",
+            "Gigafactories",
+            "Technológiai Szuverenitás"
+          ]
+        },
+        "bg": {
+          "title": "EU стартира конкурс за AI Gigafactories за разширяване на изчислителния капацитет на Европа",
+          "description": "Конкурс за до седем AI Gigafactories цели да комбинира публична подкрепа и частни инвестиции за разширяване на европейската инфраструктура за frontier AI.",
+          "tags": [
+            "Инфраструктура за AI",
+            "Гигафабрики",
+            "Технологичен суверенитет"
+          ]
+        },
+        "hr": {
+          "title": "EU pokreće poziv za AI Gigafactories za proširenje računalnih kapaciteta Europe",
+          "description": "Poziv za do sedam AI Gigafactories ima za cilj kombinirati javnu potporu i privatna ulaganja kako bi se proširila europska infrastruktura za frontier AI.",
+          "tags": [
+            "AI Infrastruktura",
+            "Gigafabrike",
+            "Tehnološki suverenitet"
+          ]
+        },
+        "sk": {
+          "title": "EU vyhlasuje výzvu na AI Gigafactories na rozšírenie výpočtovej kapacity Európy",
+          "description": "Výzva na až sedem AI Gigafactories má cieľ skombinovať verejnú podporu a súkromné investície na rozšírenie európskej infraštruktúry pre špičkové AI.",
+          "tags": [
+            "AI infraštruktúra",
+            "Gigafabriky",
+            "Technologická suverenita"
+          ]
+        },
+        "sl": {
+          "title": "EU razpisuje AI Gigafactories za povečanje računalniške zmogljivosti Evrope",
+          "description": "Razpis za do sedem AI Gigafactories želi združiti javno podporo in zasebne naložbe za razširitev evropske infrastrukture za napredno AI.",
+          "tags": [
+            "AI infrastruktura",
+            "Gigafabrike",
+            "Tehnološka suverenost"
+          ]
+        },
+        "lt": {
+          "title": "EU skelbia AI Gigafactories kvietimą plėsti Europos skaičiavimo pajėgumus",
+          "description": "Kvietimas iki septynių AI Gigafactories siekia sujungti viešą palaikymą ir privačias investicijas, kad būtų išplėsta Europos infrastruktūra pažangiam AI.",
+          "tags": [
+            "AI infrastruktūra",
+            "Gigafabrikai",
+            "Technologijų suverenitetas"
+          ]
+        },
+        "lv": {
+          "title": "EU uzsāk AI Gigafactories konkursu, lai paplašinātu Eiropas skaitļošanas jaudu",
+          "description": "Konkursā līdz septiņām AI Gigafactories paredzēts apvienot publisko atbalstu un privātās investīcijas, lai paplašinātu Eiropas infrastruktūru progresīvam AI.",
+          "tags": [
+            "AI infrastruktūra",
+            "Gigafabrikas",
+            "Tehnoloģiju suverenitāte"
+          ]
+        },
+        "et": {
+          "title": "EL käivitab AI Gigafactories taotlusvooru Euroopa arvutusvõimsuse suurendamiseks",
+          "description": "Taotlus kuni seitsme AI Gigafactory loomiseks ühendab avaliku toe ja erasektori investeeringud Euroopa tipptasemel tehisintellekti infrastruktuuri laiendamiseks.",
+          "tags": [
+            "AI-infrastruktuur",
+            "Gigatehased",
+            "Tehnoloogiline suveräänsus"
+          ]
+        },
+        "ga": {
+          "title": "Seolann an AE glao ar AI Gigafactories chun acmhainn ríomhaireachta na hEorpa a leathnú",
+          "description": "Tá sé mar aidhm ag an ghlao le haghaidh suas le seacht AI Gigafactories maoiniú poiblí a thabhairt le chéile le hinfheistíocht phríobháideach chun bonneagar na hEorpa do AI ceannródaíoch a leathnú.",
+          "tags": [
+            "Bonneagar AI",
+            "Gigafhactóirí",
+            "Neamhspleáchas teicneolaíochta"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-540be10a458f9254",
+      "title": "AI Omnibus enters into force with revised implementation timelines",
+      "description": "The AI Omnibus introduces targeted simplification measures while extending some high-risk AI timelines and preserving core safeguards.",
+      "content": "The Commission highlights expanded access to regulatory sandboxes, proportionality measures for smaller businesses and new high-risk AI application dates. The measure also clarifies AI Office oversight and rules on certain harmful AI uses.",
+      "source": "European Commission",
       "category": "Policy",
-      "date": "2024-01-12T09:15:00Z",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/european-ai-board",
-      "image": "📊",
-      "tags": ["AI Governance", "Policy", "Guidelines"]
+      "date": "2026-07-27T09:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Omnibus",
+        "Implementation",
+        "Regulatory Sandbox"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.619Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "L'AI Omnibus entre en vigueur avec des calendriers de mise en œuvre révisés",
+          "description": "L'AI Omnibus introduit des mesures de simplification ciblées tout en prolongeant certains délais pour les IA à haut risque et en préservant les garanties essentielles.",
+          "tags": [
+            "AI Omnibus",
+            "Mise en œuvre",
+            "Bac à sable réglementaire"
+          ]
+        },
+        "de": {
+          "title": "AI Omnibus tritt mit überarbeiteten Umsetzungsfristen in Kraft",
+          "description": "Der AI Omnibus führt gezielte Vereinfachungen ein, verlängert aber Fristen für bestimmte Hochrisiko‑KI und erhält zentrale Schutzmaßnahmen.",
+          "tags": [
+            "AI Omnibus",
+            "Umsetzung",
+            "Regulatorischer Sandkasten"
+          ]
+        },
+        "es": {
+          "title": "El AI Omnibus entra en vigor con cronogramas de implementación revisados",
+          "description": "El AI Omnibus introduce medidas de simplificación selectivas, al tiempo que amplía ciertos plazos para IA de alto riesgo y preserva las salvaguardias fundamentales.",
+          "tags": [
+            "AI Omnibus",
+            "Implementación",
+            "Sandbox regulatorio"
+          ]
+        },
+        "it": {
+          "title": "L'AI Omnibus entra in vigore con tempistiche di attuazione riviste",
+          "description": "L'AI Omnibus introduce misure di semplificazione mirate, estendendo alcuni termini per l'IA ad alto rischio e mantenendo le salvaguardie fondamentali.",
+          "tags": [
+            "AI Omnibus",
+            "Attuazione",
+            "Sandbox normativo"
+          ]
+        },
+        "pt": {
+          "title": "AI Omnibus entra em vigor com prazos de implementação revistos",
+          "description": "O AI Omnibus introduz medidas de simplificação pontuais, ao mesmo tempo que prolonga alguns prazos para IA de alto risco e preserva salvaguardas essenciais.",
+          "tags": [
+            "AI Omnibus",
+            "Implementação",
+            "Sandbox regulatório"
+          ]
+        },
+        "nl": {
+          "title": "AI Omnibus treedt in werking met herziene implementatietermijnen",
+          "description": "De AI Omnibus introduceert gerichte vereenvoudigingsmaatregelen en verlengt sommige termijnen voor hoogrisico‑AI terwijl kernwaarborgen behouden blijven.",
+          "tags": [
+            "AI Omnibus",
+            "Implementatie",
+            "Regelgevingssandbox"
+          ]
+        },
+        "pl": {
+          "title": "AI Omnibus wchodzi w życie z zmienionymi harmonogramami wdrożenia",
+          "description": "AI Omnibus wprowadza ukierunkowane uproszczenia, jednocześnie wydłużając terminy dla niektórych systemów wysokiego ryzyka i zachowując podstawowe zabezpieczenia.",
+          "tags": [
+            "AI Omnibus",
+            "Wdrożenie",
+            "Piaskownica regulacyjna"
+          ]
+        },
+        "ro": {
+          "title": "AI Omnibus intră în vigoare cu termene de implementare revizuite",
+          "description": "AI Omnibus introduce măsuri de simplificare țintite, în timp ce extinde termenele pentru unele AI cu risc ridicat și păstrează garanțiile de bază.",
+          "tags": [
+            "AI Omnibus",
+            "Implementare",
+            "Sandbox reglementar"
+          ]
+        },
+        "sv": {
+          "title": "AI Omnibus träder i kraft med reviderade genomförandetidslinjer",
+          "description": "AI Omnibus inför riktade förenklingsåtgärder samtidigt som vissa tidslinjer för högrisk-AI förlängs och kärnsäkerheter bevaras.",
+          "tags": [
+            "AI Omnibus",
+            "Genomförande",
+            "Regulatorisk sandbox"
+          ]
+        },
+        "da": {
+          "title": "AI Omnibus træder i kraft med ændrede implementeringstidslinjer",
+          "description": "AI Omnibus indfører målrettede lempelser samtidig med, at nogle tidslinjer for højrisko-AI forlænges og kernebeskyttelser bevares.",
+          "tags": [
+            "AI Omnibus",
+            "Implementering",
+            "Regulatorisk sandbox"
+          ]
+        },
+        "fi": {
+          "title": "AI Omnibus astuu voimaan revidoiduilla täytäntöönpanoaikatauluilla",
+          "description": "AI Omnibus tuo kohdennettuja yksinkertaistamistoimia, samalla kun se pidentää joidenkin korkean riskin AI-järjestelmien aikatauluja ja säilyttää keskeiset suojatoimet.",
+          "tags": [
+            "AI Omnibus",
+            "Täytäntöönpano",
+            "Sääntelyhiekkalaatikko"
+          ]
+        },
+        "cs": {
+          "title": "AI Omnibus vstupuje v platnost s revidovanými harmonogramy implementace",
+          "description": "AI Omnibus zavádí cílená opatření k zjednodušení, zároveň prodlužuje některé lhůty pro vysoce rizikové AI a zachovává základní záruky.",
+          "tags": [
+            "AI Omnibus",
+            "Implementace",
+            "Regulační sandbox"
+          ]
+        },
+        "el": {
+          "title": "AI Omnibus τίθεται σε ισχύ με αναθεωρημένα χρονοδιαγράμματα εφαρμογής",
+          "description": "Το AI Omnibus εισάγει στοχευμένα μέτρα απλοποίησης, παρατείνοντας ορισμένα χρονοδιαγράμματα για υψηλού κινδύνου AI και διαφυλάσσοντας τα βασικά μέτρα προστασίας.",
+          "tags": [
+            "AI Omnibus",
+            "Εφαρμογή",
+            "Κανονιστικό Sandbox"
+          ]
+        },
+        "hu": {
+          "title": "AI Omnibus hatályba lép, módosított végrehajtási ütemtervekkel",
+          "description": "Az AI Omnibus célzott egyszerűsítéseket vezet be, miközben meghosszabbít bizonyos, magas kockázatú AI-okra vonatkozó határidőket és megőrzi az alapvető védőintézkedéseket.",
+          "tags": [
+            "AI Omnibus",
+            "Végrehajtás",
+            "Szabályozási Sandbox"
+          ]
+        },
+        "bg": {
+          "title": "AI Omnibus влиза в сила с променени срокове за прилагане",
+          "description": "AI Omnibus въвежда целеви мерки за опростяване, като удължава някои срокове за високорискови AI и запазва основните гаранции.",
+          "tags": [
+            "AI Omnibus",
+            "Изпълнение",
+            "Регулаторен пясъчник"
+          ]
+        },
+        "hr": {
+          "title": "AI Omnibus stupa na snagu s revidiranim rokovima za provedbu",
+          "description": "AI Omnibus uvodi ciljane mjere pojednostavljenja, istovremeno produljujući neke rokove za visokorizični AI i zadržavajući ključne zaštitne mjere.",
+          "tags": [
+            "AI Omnibus",
+            "Provedba",
+            "Regulatorni sandbox"
+          ]
+        },
+        "sk": {
+          "title": "AI Omnibus nadobúda účinnosť s upravenými implementačnými časovými harmonogramami",
+          "description": "AI Omnibus zavádza cielené opatrenia na zjednodušenie, zároveň predlžuje niektoré lehoty pre vysokorizikové AI a zachováva základné záruky.",
+          "tags": [
+            "AI Omnibus",
+            "Implementácia",
+            "Regulačný sandbox"
+          ]
+        },
+        "sl": {
+          "title": "AI Omnibus stopi v veljavo z revidiranimi časovnicami izvajanja",
+          "description": "AI Omnibus uvaja ciljno usmerjene poenostavitvene ukrepe, hkrati podaljšuje roke za nekatere visokorizične AI in ohranja osnovne varovalke.",
+          "tags": [
+            "AI Omnibus",
+            "Izvajanje",
+            "Regulatorni peskovnik"
+          ]
+        },
+        "lt": {
+          "title": "AI Omnibus įsigalioja su pakeistais įgyvendinimo terminais",
+          "description": "AI Omnibus įveda tikslingas supaprastinimo priemones, pratęsia kai kuriuos didelės rizikos AI terminus ir išsaugo pagrindines apsaugas.",
+          "tags": [
+            "AI Omnibus",
+            "Įgyvendinimas",
+            "Reguliacinė smėlio dėžė"
+          ]
+        },
+        "lv": {
+          "title": "AI Omnibus stājas spēkā ar pārskatītiem ieviešanas termiņiem",
+          "description": "AI Omnibus ievieš mērķtiecīgus vienkāršošanas pasākumus, vienlaikus pagarinot dažus augsta riska AI termiņus un saglabājot pamatdrošības pasākumus.",
+          "tags": [
+            "AI Omnibus",
+            "Ieviešana",
+            "Regulatīvā smilškaste"
+          ]
+        },
+        "et": {
+          "title": "AI Omnibus jõustub muudetud rakendamisajakavadega",
+          "description": "AI Omnibus toob sihipärased lihtsustusmeetmed, pikendab mõnede kõrge riskiga AI tähtaegu ja säilitab põhikaitsemeetmed.",
+          "tags": [
+            "AI Omnibus",
+            "Rakendamine",
+            "Regulatiivne liivakast"
+          ]
+        },
+        "ga": {
+          "title": "Téann an AI Omnibus i bhfeidhm le spriocdhátaí cur i bhfeidhm athraithe",
+          "description": "Cuireann an AI Omnibus bearta simplíochta spriocdhírithe i bhfeidhm, síneann sé spriocdhátaí do roinnt córais AI ardriosca agus coinníonn sé príomhnósanna cosanta.",
+          "tags": [
+            "AI Omnibus",
+            "Cur i bhfeidhm",
+            "Sandbox rialála"
+          ]
+        }
+      }
     },
     {
-      "id": "nist-ai-standards-2024-001",
-      "title": "International AI Standards Development Progresses with EU Participation",
-      "description": "European experts are playing a leading role in developing international AI standards and guidelines through ISO/IEC working groups.",
-      "content": "The EU is actively participating in international standardization efforts to ensure European values are reflected in global AI standards. This includes work on AI safety, transparency, and ethical principles. The collaboration helps align European AI regulations with international best practices.",
-      "source": "NIST AI Standards",
-      "category": "Technology",
-      "date": "2024-01-10T16:45:00Z",
-      "url": "https://www.nist.gov/ai",
-      "image": "🌐",
-      "tags": ["Standards", "International Cooperation"]
-    },
-    {
-      "id": "ai-security-2024-001",
-      "title": "EU Strengthens Cybersecurity Requirements for AI Systems",
-      "description": "New directives address security vulnerabilities in AI systems and establish mandatory penetration testing for high-risk applications.",
-      "content": "As AI systems become more critical to European infrastructure, new security requirements ensure these systems are protected against malicious actors. The regulations mandate regular security audits, vulnerability management, and incident reporting procedures for high-risk AI systems.",
-      "source": "European Commission - Digital Services",
-      "category": "Security",
-      "date": "2024-01-08T11:30:00Z",
-      "url": "https://digital-strategy.ec.europa.eu/",
-      "image": "🔒",
-      "tags": ["Cybersecurity", "Risk Management"]
-    },
-    {
-      "id": "startup-funding-2024-001",
-      "title": "European AI Startups Secure Record Funding in Q4 2023",
-      "description": "Despite global economic challenges, European AI startups attracted significant venture capital investment, reflecting strong confidence in European AI innovation.",
-      "content": "The European AI ecosystem continues to thrive with startups focusing on enterprise AI solutions, AI safety, and specialized applications. Investment patterns show growing interest in ethical AI and regulatory-compliant solutions, positioning Europe as a leader in responsible AI development.",
-      "source": "European Tech Ecosystem",
-      "category": "Technology",
-      "date": "2024-01-05T13:00:00Z",
-      "url": "https://digital-strategy.ec.europa.eu/",
-      "image": "💰",
-      "tags": ["Startups", "Innovation", "Investment"]
+      "id": "eu-ai-82e0544acf38f532",
+      "title": "Commission issues AI Act transparency guidance for providers and deployers",
+      "description": "New guidance clarifies who must comply with Article 50 transparency obligations for interactive AI systems and AI-generated content.",
+      "content": "The guidelines explain disclosure duties involving interactions with AI, deepfakes, public-interest text without human review, and certain biometric or emotion-recognition systems. They support the transparency rules that began applying on 2 August 2026.",
+      "source": "European Commission",
+      "category": "Regulation",
+      "date": "2026-07-20T09:00:00Z",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Article 50",
+        "Guidance",
+        "AI Governance"
+      ],
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-19T10:51:23.603Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "La Commission publie des orientations sur la transparence de l'AI Act pour fournisseurs et déployeurs",
+          "description": "De nouvelles orientations précisent qui doit respecter les obligations de transparence de l'Article 50 pour les systèmes d'IA interactifs et les contenus générés par l'IA.",
+          "tags": [
+            "Article 50",
+            "Orientations",
+            "Gouvernance de l'IA"
+          ]
+        },
+        "de": {
+          "title": "Kommission veröffentlicht Transparenzleitlinien des AI Act für Anbieter und Bereitstellende",
+          "description": "Neue Leitlinien klären, wer den Transparenzpflichten des Artikel 50 für interaktive KI‑Systeme und KI‑generierte Inhalte unterliegt.",
+          "tags": [
+            "Artikel 50",
+            "Leitlinien",
+            "KI‑Governance"
+          ]
+        },
+        "es": {
+          "title": "La Comisión publica orientación sobre transparencia del Article 50 para proveedores y desplegadores",
+          "description": "Nueva orientación aclara quién debe cumplir las obligaciones de transparencia del Article 50 para sistemas interactivos de IA y contenido generado por IA.",
+          "tags": [
+            "Article 50",
+            "Orientación",
+            "Gobernanza de la IA"
+          ]
+        },
+        "it": {
+          "title": "La Commissione pubblica orientamenti sul Article 50 per provider e deployer",
+          "description": "I nuovi orientamenti chiariscono chi deve rispettare gli obblighi di trasparenza dell'Article 50 per i sistemi interattivi di IA e i contenuti generati dall'IA.",
+          "tags": [
+            "Article 50",
+            "Orientamenti",
+            "Governance dell'IA"
+          ]
+        },
+        "pt": {
+          "title": "Commission publica orientações de transparência do AI Act para fornecedores e responsáveis pela implementação",
+          "description": "Novas orientações clarificam quem deve cumprir as obrigações de transparência do Article 50 para sistemas de IA interativos e conteúdo gerado por IA.",
+          "tags": [
+            "Article 50",
+            "Orientação",
+            "Governança da IA"
+          ]
+        },
+        "nl": {
+          "title": "Commission publiceert transparantie‑richtsnoeren van de AI Act voor providers en deployers",
+          "description": "Nieuwe richtsnoeren verduidelijken wie moet voldoen aan de transparantieverplichtingen van Article 50 voor interactieve AI‑systemen en AI‑gegenereerde inhoud.",
+          "tags": [
+            "Article 50",
+            "Richtsnoeren",
+            "AI‑governance"
+          ]
+        },
+        "pl": {
+          "title": "Komisja wydaje wytyczne dotyczące przejrzystości AI Act dla dostawców i wdrażających",
+          "description": "Nowe wytyczne wyjaśniają, kto musi stosować się do obowiązków przejrzystości wynikających z Article 50 w odniesieniu do interaktywnych systemów AI i treści generowanych przez AI.",
+          "tags": [
+            "Article 50",
+            "Wytyczne",
+            "Zarządzanie AI"
+          ]
+        },
+        "ro": {
+          "title": "Comisia emite orientări privind transparența AI Act pentru furnizori și implementatori",
+          "description": "Noile orientări clarifică cine trebuie să respecte obligațiile de transparență din Article 50 pentru sisteme AI interactive și conținut generat de AI.",
+          "tags": [
+            "Article 50",
+            "Orientări",
+            "Guvernanța AI"
+          ]
+        },
+        "sv": {
+          "title": "Kommissionen utfärdar vägledning om AI Act-transparens för leverantörer och användare",
+          "description": "Ny vägledning klargör vem som måste uppfylla Article 50:s transparensskyldigheter för interaktiva AI‑system och AI‑genererat innehåll.",
+          "tags": [
+            "Article 50",
+            "Vägledning",
+            "AI-styrning"
+          ]
+        },
+        "da": {
+          "title": "Kommissionen udsteder vejledning om AI Act-transparens for leverandører og deployere",
+          "description": "Ny vejledning præciserer, hvem der skal overholde Article 50's transparensforpligtelser for interaktive AI-systemer og AI-genereret indhold.",
+          "tags": [
+            "Article 50",
+            "Vejledning",
+            "AI-styring"
+          ]
+        },
+        "fi": {
+          "title": "Komissio antaa ohjeet AI Actin läpinäkyvyysvelvoitteista tarjoajille ja deployereille",
+          "description": "Uudet ohjeet selkeyttävät, keiden on noudatettava Article 50:n läpinäkyvyysvelvoitteita interaktiivisten tekoälyjärjestelmien ja AI:n tuottaman sisällön osalta.",
+          "tags": [
+            "Article 50",
+            "Ohjeistus",
+            "AI-hallinto"
+          ]
+        },
+        "cs": {
+          "title": "Komise vydává pokyny k transparentnosti AI Act pro poskytovatele a nasazovatele",
+          "description": "Nové pokyny objasňují, kdo se musí řídit Article 50 povinnostmi transparentnosti u interaktivních AI systémů a obsahu vytvořeného AI.",
+          "tags": [
+            "Article 50",
+            "Pokyny",
+            "Řízení AI"
+          ]
+        },
+        "el": {
+          "title": "Commission εκδίδει οδηγίες διαφάνειας του AI Act για παρόχους και διανεμητές",
+          "description": "Νέα οδηγία διευκρινίζει ποιοι πρέπει να συμμορφώνονται με τις υποχρεώσεις διαφάνειας του Article 50 για διαδραστικά συστήματα AI και περιεχόμενο που δημιουργείται από AI.",
+          "tags": [
+            "Article 50",
+            "Οδηγίες",
+            "Διακυβέρνηση AI"
+          ]
+        },
+        "hu": {
+          "title": "Commission kiadja az AI Act átláthatósági útmutatóját szolgáltatók és telepítők számára",
+          "description": "Új útmutatás tisztázza, hogy kiknek kell megfelelniük az Article 50 átláthatósági kötelezettségeinek interaktív AI-rendszerek és AI által létrehozott tartalom esetén.",
+          "tags": [
+            "Article 50",
+            "Irányelvek",
+            "AI irányítás"
+          ]
+        },
+        "bg": {
+          "title": "Комисията публикува указания за прозрачността по AI Act за доставчици и внедрители",
+          "description": "Новите указания изясняват кой трябва да спазва задълженията за прозрачност по Article 50 за интерактивни AI системи и AI-генерирано съдържание.",
+          "tags": [
+            "Article 50",
+            "Указания",
+            "Управление на AI"
+          ]
+        },
+        "hr": {
+          "title": "Komisija izdala smjernice za transparentnost po AI Act za pružatelje i primjenjivače",
+          "description": "Nove smjernice pojašnjavaju tko mora ispuniti obveze transparentnosti iz Article 50 za interaktivne AI sustave i AI-generirani sadržaj.",
+          "tags": [
+            "Article 50",
+            "Smjernice",
+            "Upravljanje AI"
+          ]
+        },
+        "sk": {
+          "title": "Commission vydáva usmernenia o transparentnosti AI Act pre poskytovateľov a nasadzovateľov",
+          "description": "Nové usmernenia objasňujú, kto musí plniť povinnosti transparentnosti podľa Article 50 pre interaktívne AI systémy a AI‑generovaný obsah.",
+          "tags": [
+            "Article 50",
+            "Usmernenia",
+            "Riadenie AI"
+          ]
+        },
+        "sl": {
+          "title": "Commission izda smernice o transparentnosti AI Act za ponudnike in izvajalce",
+          "description": "Nove smernice pojasnjujejo, kdo mora izpolnjevati obveznosti transparentnosti po Article 50 za interaktivne AI sisteme in AI‑generirano vsebino.",
+          "tags": [
+            "Article 50",
+            "Smernice",
+            "Upravljanje AI"
+          ]
+        },
+        "lt": {
+          "title": "Commission paskelbia AI Act skaidrumo gaires teikėjams ir diegėjams",
+          "description": "Naujos gairės paaiškina, kas privalo vykdyti Article 50 skaidrumo reikalavimus interaktyvioms AI sistemoms ir AI generuotam turiniui.",
+          "tags": [
+            "Article 50",
+            "Gairės",
+            "AI valdymas"
+          ]
+        },
+        "lv": {
+          "title": "Commission izsniedz AI Act pārredzamības norādījumus pakalpojumu sniedzējiem un izvietotājiem",
+          "description": "Jaunie norādījumi noskaidro, kam jāievēro Article 50 pārredzamības saistības par interaktīvām AI sistēmām un AI ģenerētu saturu.",
+          "tags": [
+            "Article 50",
+            "Norādījumi",
+            "AI pārvaldība"
+          ]
+        },
+        "et": {
+          "title": "Komisjon annab välja AI Acti läbipaistvusjuhised pakkujatele ja rakendajatele",
+          "description": "Uus juhend selgitab, kes peavad järgima Article 50 läbipaistvuskohustusi interaktiivsete AI‑süsteemide ja tehisintellekti genereeritud sisu osas.",
+          "tags": [
+            "Article 50",
+            "Juhised",
+            "AI-valitsemine"
+          ]
+        },
+        "ga": {
+          "title": "Scaoileann an Coimisiún treoirlínte trédhearcachta AI Act do sholáthróirí agus do lucht cur i bhfeidhm",
+          "description": "Míníonn an treoir nua cé ba chóir cloí le dualgais trédhearcachta Article 50 maidir le córais AI idirghníomhacha agus le hábhar a ghineann AI.",
+          "tags": [
+            "Article 50",
+            "Treoir",
+            "Rialachas AI"
+          ]
+        }
+      }
     }
   ]
 }

@@ -1,26 +1,21 @@
 /**
- * Euro AI Briefing - Main Application
+ * EU AI Briefing — dashboard application
  */
 
 const App = (() => {
+    const NEW_WINDOW_MS = 7 * 24 * 60 * 60 * 1000;
     let allNews = [];
     let currentSearchTerm = '';
     let currentCategory = '';
     let currentSort = 'date-desc';
     let latestUpdate = null;
 
-    /**
-     * Initialize the application.
-     */
     async function init() {
         setupEventListeners();
         document.addEventListener('i18n:changed', handleLanguageChange);
         await loadNews();
     }
 
-    /**
-     * Set up user interactions for the dashboard controls.
-     */
     function setupEventListeners() {
         const searchInput = document.getElementById('searchInput');
         const categoryFilter = document.getElementById('categoryFilter');
@@ -28,39 +23,22 @@ const App = (() => {
         const refreshBtn = document.getElementById('refreshBtn');
         const resetFilters = document.getElementById('resetFilters');
 
-        if (searchInput) {
-            searchInput.addEventListener('input', (event) => {
-                currentSearchTerm = event.target.value;
-                renderNews();
-            });
-        }
-
-        if (categoryFilter) {
-            categoryFilter.addEventListener('change', (event) => {
-                currentCategory = event.target.value;
-                renderNews();
-            });
-        }
-
-        if (sortBy) {
-            sortBy.addEventListener('change', (event) => {
-                currentSort = event.target.value;
-                renderNews();
-            });
-        }
-
-        if (refreshBtn) {
-            refreshBtn.addEventListener('click', loadNews);
-        }
-
-        if (resetFilters) {
-            resetFilters.addEventListener('click', resetAllFilters);
-        }
+        if (searchInput) searchInput.addEventListener('input', (event) => {
+            currentSearchTerm = event.target.value;
+            renderNews();
+        });
+        if (categoryFilter) categoryFilter.addEventListener('change', (event) => {
+            currentCategory = event.target.value;
+            renderNews();
+        });
+        if (sortBy) sortBy.addEventListener('change', (event) => {
+            currentSort = event.target.value;
+            renderNews();
+        });
+        if (refreshBtn) refreshBtn.addEventListener('click', loadNews);
+        if (resetFilters) resetFilters.addEventListener('click', resetAllFilters);
     }
 
-    /**
-     * Restore the dashboard feed and control values to their defaults.
-     */
     function resetAllFilters() {
         currentSearchTerm = '';
         currentCategory = '';
@@ -71,17 +49,11 @@ const App = (() => {
         renderNews();
     }
 
-    /**
-     * Re-render dynamic content after the selected interface language changes.
-     */
     function handleLanguageChange() {
         if (latestUpdate) updateStats({ lastUpdated: latestUpdate });
         renderNews();
     }
 
-    /**
-     * Load news from the local API data source.
-     */
     async function loadNews() {
         const loading = document.getElementById('loading');
         const newsContainer = document.getElementById('newsContainer');
@@ -114,61 +86,67 @@ const App = (() => {
         }
     }
 
-    /**
-     * Update overview statistics when those elements are present.
-     */
     function updateStats(data) {
         const totalNewsEl = document.getElementById('totalNews');
         const lastUpdatedEl = document.getElementById('lastUpdated');
         const weekNewsEl = document.getElementById('weekNews');
-
         if (totalNewsEl) totalNewsEl.textContent = allNews.length;
         if (lastUpdatedEl && data.lastUpdated) lastUpdatedEl.textContent = API.formatLastUpdated(data.lastUpdated);
         if (weekNewsEl) weekNewsEl.textContent = API.getWeekNews(allNews).length;
     }
 
-    /**
-     * Render news articles based on the active filters and sort order.
-     */
     function renderNews() {
+        const displayNews = allNews.map(localizeArticle);
         const filteredNews = API.sortNews(
-            API.filterNews(allNews, currentSearchTerm, currentCategory),
+            API.filterNews(displayNews, currentSearchTerm, currentCategory),
             currentSort
         );
         const newsContainer = document.getElementById('newsContainer');
         const emptyState = document.getElementById('emptyState');
 
         updateResultsCount(filteredNews.length);
-
         if (filteredNews.length === 0) {
             if (newsContainer) newsContainer.innerHTML = '';
             if (emptyState) emptyState.style.display = 'block';
             return;
         }
-
         if (emptyState) emptyState.style.display = 'none';
         if (newsContainer) newsContainer.innerHTML = filteredNews.map(createNewsCard).join('');
     }
 
     /**
-     * Create a localized card for one source article.
+     * Apply the stored article-card translation for the selected UI language.
+     * Original source copy remains the English fallback and source of record.
      */
+    function localizeArticle(article) {
+        const language = typeof I18n !== 'undefined' ? I18n.getLanguage() : 'en';
+        const localized = article.translations?.[language];
+        if (!localized) return article;
+        return { ...article, ...localized };
+    }
+
     function createNewsCard(article) {
         const date = API.formatDate(article.date);
         const category = translateCategory(article.category || 'Update');
         const categoryClass = getCategoryClass(article.category);
         const title = escapeHtml(article.title || 'Untitled briefing');
-        const source = escapeHtml(article.source || 'Euro AI Briefing');
+        const source = escapeHtml(article.source || 'EU AI Briefing');
         const description = escapeHtml(article.description || 'No description is available for this briefing.');
-        const url = escapeHtml(article.url || '#');
+        const url = safeUrl(article.url) || '#';
         const tags = Array.isArray(article.tags) ? article.tags : [];
+        const isNew = isCurrentWeek(article.date);
+        const readMinutes = Math.max(1, Number(article.readMinutes) || 1);
 
         return `
-            <article class="news-card news-card--${categoryClass}">
+            <article class="news-card news-card--${categoryClass}${isNew ? ' news-card--new' : ''}">
+                ${createMediaMarkup(article, title, url)}
                 <div class="news-card-header">
                     <div class="news-card-top">
                         <span class="news-category">${escapeHtml(category)}</span>
-                        <span class="news-reading-time">${escapeHtml(t('briefing')).toUpperCase()}</span>
+                        <span class="news-card-signals">
+                            ${isNew ? `<span class="new-badge">${escapeHtml(t('new'))}</span>` : ''}
+                            <span class="news-reading-time">≈ ${readMinutes} min</span>
+                        </span>
                     </div>
                     <h3 class="news-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
                     <div class="news-meta">
@@ -194,29 +172,45 @@ const App = (() => {
     }
 
     /**
-     * Update the visible article count in the selected interface language.
+     * Render a verified source image or video treatment when the source exposes one.
      */
+    function createMediaMarkup(article, title, articleUrl) {
+        const imageUrl = safeUrl(article.imageUrl || '', true);
+        const videoUrl = safeUrl(article.videoUrl || '');
+        if (videoUrl) {
+            return `<a class="news-media news-media--video" href="${videoUrl}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(title)}">
+                <span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="m8 5 11 7-11 7V5Z"></path></svg></span>
+                <span class="video-label">Video</span>
+            </a>`;
+        }
+        if (imageUrl) {
+            return `<a class="news-media" href="${articleUrl}" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+                <img src="${imageUrl}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.news-media').remove()">
+            </a>`;
+        }
+        return '';
+    }
+
+    function isCurrentWeek(dateString) {
+        const timestamp = new Date(dateString).getTime();
+        return Number.isFinite(timestamp) && timestamp <= Date.now() && (Date.now() - timestamp) <= NEW_WINDOW_MS;
+    }
+
     function updateResultsCount(count, hasError = false) {
         const resultsCount = document.getElementById('resultsCount');
         if (!resultsCount) return;
-
         if (hasError) {
             resultsCount.textContent = t('feedUnavailable');
             return;
         }
-
         const briefingKey = count === 1 ? 'briefing' : 'briefings';
         resultsCount.textContent = `${count} ${t(briefingKey)} ${t('inView')}`;
     }
 
-    /**
-     * Display the empty state with a localized message.
-     */
     function showEmptyState(message) {
         const newsContainer = document.getElementById('newsContainer');
         const emptyState = document.getElementById('emptyState');
         const emptyMessage = emptyState ? emptyState.querySelector('p') : null;
-
         if (newsContainer) newsContainer.innerHTML = '';
         if (emptyMessage && message) emptyMessage.textContent = message;
         if (emptyState) emptyState.style.display = 'block';
@@ -230,25 +224,25 @@ const App = (() => {
         return typeof I18n !== 'undefined' ? I18n.t(key) : key;
     }
 
-    /**
-     * Translate a category to a safe CSS modifier.
-     */
     function getCategoryClass(category) {
         const normalized = String(category || 'update').toLowerCase().replace(/[^a-z0-9]+/g, '-');
         return normalized || 'update';
     }
 
-    /**
-     * Escape HTML special characters to prevent XSS.
-     */
+    function safeUrl(value, allowLocalAsset = false) {
+        if (allowLocalAsset && /^assets\/[a-z0-9_./-]+$/i.test(value)) {
+            return escapeHtml(value);
+        }
+        try {
+            const url = new URL(value);
+            return ['https:', 'http:'].includes(url.protocol) ? escapeHtml(url.href) : '';
+        } catch {
+            return '';
+        }
+    }
+
     function escapeHtml(value) {
-        const map = {
-            '&': '&amp;',
-            '<': '&lt;',
-            '>': '&gt;',
-            '"': '&quot;',
-            "'": '&#039;'
-        };
+        const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
         return String(value).replace(/[&<>"']/g, (character) => map[character]);
     }
 

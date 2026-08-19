@@ -1030,6 +1030,13 @@ const I18n = (() => {
         Policy: 'policy',
         Security: 'security'
     };
+    const supplementalTranslations = {
+        en: { new: 'New' }, fr: { new: 'Nouveau' }, de: { new: 'Neu' }, es: { new: 'Nuevo' }, it: { new: 'Nuovo' },
+        pt: { new: 'Novo' }, nl: { new: 'Nieuw' }, pl: { new: 'Nowe' }, ro: { new: 'Nou' }, sv: { new: 'Ny' },
+        da: { new: 'Ny' }, fi: { new: 'Uusi' }, cs: { new: 'Nové' }, el: { new: 'Νέο' }, hu: { new: 'Új' },
+        bg: { new: 'Ново' }, hr: { new: 'Novo' }, sk: { new: 'Nové' }, sl: { new: 'Novo' }, lt: { new: 'Nauja' },
+        lv: { new: 'Jauns' }, et: { new: 'Uus' }, ga: { new: 'Nua' }
+    };
 
     let currentLanguage = getStoredLanguage();
 
@@ -1043,7 +1050,11 @@ const I18n = (() => {
     }
 
     function t(key) {
-        return translations[currentLanguage]?.[key] || translations[DEFAULT_LANGUAGE][key] || key;
+        return translations[currentLanguage]?.[key]
+            || supplementalTranslations[currentLanguage]?.[key]
+            || translations[DEFAULT_LANGUAGE][key]
+            || supplementalTranslations[DEFAULT_LANGUAGE]?.[key]
+            || key;
     }
 
     function getLocale() {
