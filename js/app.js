@@ -115,14 +115,18 @@ const App = (() => {
     }
 
     /**
-     * Apply the stored article-card translation for the selected UI language.
-     * Original source copy remains the English fallback and source of record.
+     * Apply a complete stored briefing translation for the selected UI language.
+     * A partial record is never merged into an English card, preventing mixed-language copy.
      */
     function localizeArticle(article) {
         const language = typeof I18n !== 'undefined' ? I18n.getLanguage() : 'en';
+        if (language === 'en') return article;
         const localized = article.translations?.[language];
-        if (!localized) return article;
-        return { ...article, ...localized };
+        const isComplete = localized
+            && typeof localized.title === 'string' && localized.title.trim()
+            && typeof localized.description === 'string' && localized.description.trim()
+            && Array.isArray(localized.tags) && localized.tags.length > 0;
+        return isComplete ? { ...article, ...localized } : article;
     }
 
     function createNewsCard(article) {

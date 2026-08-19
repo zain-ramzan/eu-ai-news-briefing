@@ -1,7 +1,6 @@
 /**
- * Euro AI Briefing - Interface localization
- * Provides the dashboard chrome in the selected European language.
- * Source article text is deliberately kept in its original publication language.
+ * EU AI Briefing — interface and briefing localization.
+ * The selected language applies to both dashboard controls and verified briefing copy.
  */
 
 const I18n = (() => {
@@ -1038,15 +1037,64 @@ const I18n = (() => {
         lv: { new: 'Jauns' }, et: { new: 'Uus' }, ga: { new: 'Nua' }
     };
 
-    let currentLanguage = getStoredLanguage();
+    const COUNTRY_LANGUAGE_MAP = {
+        AT: 'de', BG: 'bg', HR: 'hr', CZ: 'cs', DK: 'da', EE: 'et', FI: 'fi', FR: 'fr',
+        DE: 'de', GR: 'el', HU: 'hu', IE: 'ga', IT: 'it', LV: 'lv', LT: 'lt', LU: 'fr',
+        NL: 'nl', PL: 'pl', PT: 'pt', RO: 'ro', SK: 'sk', SI: 'sl', ES: 'es', SE: 'sv'
+    };
+    let currentLanguage = DEFAULT_LANGUAGE;
 
     function getStoredLanguage() {
         try {
             const stored = localStorage.getItem(STORAGE_KEY);
-            return stored && translations[stored] ? stored : DEFAULT_LANGUAGE;
+            return stored && translations[stored] ? stored : null;
         } catch (error) {
-            return DEFAULT_LANGUAGE;
+            return null;
         }
+    }
+
+    function languageFromLocale(locale) {
+        if (!locale || typeof locale !== 'string') return null;
+        const normalized = locale.replace('_', '-').toLowerCase();
+        const baseLanguage = normalized.split('-')[0];
+        return translations[normalized] ? normalized : (translations[baseLanguage] ? baseLanguage : null);
+    }
+
+    function getBrowserLanguage(browserLanguages) {
+        const candidates = browserLanguages || (typeof navigator === 'undefined'
+            ? []
+            : (navigator.languages?.length ? navigator.languages : [navigator.language]));
+        for (const candidate of candidates) {
+            const language = languageFromLocale(candidate);
+            if (language) return language;
+        }
+        return null;
+    }
+
+    function getTimezoneFallbackLanguage(timeZone) {
+        if (!timeZone && typeof Intl === 'undefined') return null;
+        timeZone = timeZone || Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+        const timeZoneCountries = {
+            'Europe/Vienna': 'AT', 'Europe/Sofia': 'BG', 'Europe/Zagreb': 'HR', 'Europe/Prague': 'CZ',
+            'Europe/Copenhagen': 'DK', 'Europe/Tallinn': 'EE', 'Europe/Helsinki': 'FI', 'Europe/Paris': 'FR',
+            'Europe/Berlin': 'DE', 'Europe/Athens': 'GR', 'Europe/Budapest': 'HU', 'Europe/Dublin': 'IE',
+            'Europe/Rome': 'IT', 'Europe/Riga': 'LV', 'Europe/Vilnius': 'LT', 'Europe/Luxembourg': 'LU',
+            'Europe/Amsterdam': 'NL', 'Europe/Warsaw': 'PL', 'Europe/Lisbon': 'PT', 'Europe/Bucharest': 'RO',
+            'Europe/Bratislava': 'SK', 'Europe/Ljubljana': 'SI', 'Europe/Madrid': 'ES', 'Europe/Stockholm': 'SE',
+            'Europe/Brussels': 'FR', 'Europe/Monaco': 'FR'
+        };
+        return COUNTRY_LANGUAGE_MAP[timeZoneCountries[timeZone]] || null;
+    }
+
+    function resolveInitialLanguage(storedLanguage = getStoredLanguage(), browserLanguages, timeZone) {
+        return storedLanguage || getBrowserLanguage(browserLanguages) || getTimezoneFallbackLanguage(timeZone) || DEFAULT_LANGUAGE;
+    }
+
+    function setAutomaticLanguage(language) {
+        if (!language || !translations[language] || language === currentLanguage) return;
+        currentLanguage = language;
+        applyTranslations();
+        document.dispatchEvent(new CustomEvent('i18n:changed', { detail: { language: currentLanguage } }));
     }
 
     function t(key) {
@@ -1127,13 +1175,13 @@ const I18n = (() => {
 
     function setLanguage(language) {
         if (!translations[language]) return;
+        try {
+            localStorage.setItem(STORAGE_KEY, language);
+        } catch (error) {
+            // The selected language still applies for the current session if storage is unavailable.
+        }
         if (language !== currentLanguage) {
             currentLanguage = language;
-            try {
-                localStorage.setItem(STORAGE_KEY, currentLanguage);
-            } catch (error) {
-                // The selected language still applies for the current session if storage is unavailable.
-            }
             applyTranslations();
             document.dispatchEvent(new CustomEvent('i18n:changed', { detail: { language: currentLanguage } }));
         }
@@ -1141,6 +1189,9 @@ const I18n = (() => {
     }
 
     function init() {
+        const storedLanguage = getStoredLanguage();
+        currentLanguage = resolveInitialLanguage(storedLanguage);
+
         const trigger = document.getElementById('languageTrigger');
         const menu = document.getElementById('languageMenu');
         trigger?.addEventListener('click', toggleLanguageMenu);
@@ -1156,9 +1207,12 @@ const I18n = (() => {
             if (event.key === 'Escape') closeLanguageMenu(true);
         });
         applyTranslations();
+
+        // `resolveInitialLanguage` already applies the supported browser language,
+        // then a local timezone-to-country fallback, and finally English.
     }
 
-    return { t, getLocale, getLanguage, translateCategory, setLanguage, init };
+    return { t, getLocale, getLanguage, translateCategory, setLanguage, resolveInitialLanguage, init };
 })();
 
 if (document.readyState === 'loading') {

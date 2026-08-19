@@ -35,6 +35,9 @@ jobs:
       - name: Verify every published article destination
         run: node scripts/verify-news-links.js
 
+      - name: Validate briefing translations
+        run: node scripts/validate-briefing-translations.js
+
       - name: Commit verified data when it changed
         run: |
           git config user.name "github-actions[bot]"

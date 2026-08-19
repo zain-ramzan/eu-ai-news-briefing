@@ -4,9 +4,8 @@
  */
 
 const API = (() => {
-    const DATA_FILE = 'data/news.json';
-    const CACHE_KEY = 'eu_ai_news_cache';
-    const CACHE_DURATION = 3600000; // 1 hour in milliseconds
+    const DATA_FILE = 'data/news.json?v=localized-briefings-1';
+    const CACHE_KEY = 'eu_ai_news_cache_v2';
 
     /**
      * Fetch news data from the local data file or cache
@@ -14,26 +13,18 @@ const API = (() => {
      */
     async function fetchNews() {
         try {
-            // Check if we have cached data
-            const cachedData = getCachedData();
-            if (cachedData) {
-                console.log('Using cached news data');
-                return cachedData;
-            }
-
-            // Fetch from data file
-            const response = await fetch(DATA_FILE);
+            const response = await fetch(DATA_FILE, { cache: 'no-store' });
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            
             const data = await response.json();
             cacheData(data);
             return data;
         } catch (error) {
             console.error('Error fetching news:', error);
-            // Return sample data if fetch fails
-            return getSampleData();
+            const cachedData = getCachedData();
+            if (cachedData) return cachedData;
+            throw error;
         }
     }
 
@@ -69,42 +60,6 @@ const API = (() => {
         } catch (e) {
             console.error('Error caching data:', e);
         }
-    }
-
-    /**
-     * Return sample/fallback data
-     * @returns {Object} Sample news data
-     */
-    function getSampleData() {
-        return {
-            lastUpdated: new Date().toISOString(),
-            articles: [
-                {
-                    id: '1',
-                    title: 'EU AI Act Implementation Timeline Released',
-                    description: 'The European Commission has announced the detailed implementation timeline for the AI Act, with phase-in periods for different categories of AI systems.',
-                    content: 'Full details about AI Act implementation phases...',
-                    source: 'European Commission',
-                    category: 'Regulation',
-                    date: new Date().toISOString(),
-                    url: 'https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence',
-                    image: '📋',
-                    tags: ['AI Act', 'EU Policy', 'Regulation']
-                },
-                {
-                    id: '2',
-                    title: 'New AI Research Initiative Launched',
-                    description: 'European researchers begin work on AI safety and trustworthiness as part of the EU\'s Horizon Europe program.',
-                    content: 'Details about the new research initiative...',
-                    source: 'Horizon Europe',
-                    category: 'Research',
-                    date: new Date(Date.now() - 86400000).toISOString(),
-                    url: 'https://ec.europa.eu/programmes/horizon2020',
-                    image: '🔬',
-                    tags: ['Research', 'AI Safety']
-                }
-            ]
-        };
     }
 
     /**
