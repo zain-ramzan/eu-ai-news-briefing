@@ -36,6 +36,12 @@ The dashboard currently reads from the checked-in file at `data/news.json`. Each
 
 The included Node.js fetch utility verifies each curated official source page before it is published. The scheduled workflow audits source destinations and confirms all supported briefing translations are complete before deploying the updated feed.
 
+## Traffic analytics
+
+The site uses the free hosted [GoatCounter](https://www.goatcounter.com/) service for privacy-conscious traffic analytics. The deployed tracking property is `eu-ai-news-briefing`; no account credential is stored in this repository. A localized all-time visit count is displayed in the footer, while detailed traffic analytics—including popular paths, referrers, countries, browsers, and systems—remain available only to the account owner in GoatCounter.
+
+The footer counter reads GoatCounter’s public aggregate `TOTAL` endpoint. GoatCounter caches that counter response for up to four hours, so the visible total does not update immediately after every visit. The counter can be disabled in GoatCounter site settings by turning off the option that permits visitor counts to be displayed publicly.
+
 | Reference source | Intended use |
 |---|---|
 | [European Commission: Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence) | AI Act and European AI policy context. |

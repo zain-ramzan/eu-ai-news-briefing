@@ -1030,11 +1030,29 @@ const I18n = (() => {
         Security: 'security'
     };
     const supplementalTranslations = {
-        en: { new: 'New' }, fr: { new: 'Nouveau' }, de: { new: 'Neu' }, es: { new: 'Nuevo' }, it: { new: 'Nuovo' },
-        pt: { new: 'Novo' }, nl: { new: 'Nieuw' }, pl: { new: 'Nowe' }, ro: { new: 'Nou' }, sv: { new: 'Ny' },
-        da: { new: 'Ny' }, fi: { new: 'Uusi' }, cs: { new: 'Nové' }, el: { new: 'Νέο' }, hu: { new: 'Új' },
-        bg: { new: 'Ново' }, hr: { new: 'Novo' }, sk: { new: 'Nové' }, sl: { new: 'Novo' }, lt: { new: 'Nauja' },
-        lv: { new: 'Jauns' }, et: { new: 'Uus' }, ga: { new: 'Nua' }
+        en: { new: 'New', siteVisits: 'Site visits' },
+        fr: { new: 'Nouveau', siteVisits: 'Visites du site' },
+        de: { new: 'Neu', siteVisits: 'Websitebesuche' },
+        es: { new: 'Nuevo', siteVisits: 'Visitas del sitio' },
+        it: { new: 'Nuovo', siteVisits: 'Visite al sito' },
+        pt: { new: 'Novo', siteVisits: 'Visitas ao site' },
+        nl: { new: 'Nieuw', siteVisits: 'Websitebezoeken' },
+        pl: { new: 'Nowe', siteVisits: 'Odwiedziny witryny' },
+        ro: { new: 'Nou', siteVisits: 'Vizite pe site' },
+        sv: { new: 'Ny', siteVisits: 'Webbplatsbesök' },
+        da: { new: 'Ny', siteVisits: 'Webstedsbesøg' },
+        fi: { new: 'Uusi', siteVisits: 'Sivustokäynnit' },
+        cs: { new: 'Nové', siteVisits: 'Návštěvy webu' },
+        el: { new: 'Νέο', siteVisits: 'Επισκέψεις ιστότοπου' },
+        hu: { new: 'Új', siteVisits: 'Webhelylátogatások' },
+        bg: { new: 'Ново', siteVisits: 'Посещения на сайта' },
+        hr: { new: 'Novo', siteVisits: 'Posjeti web-mjestu' },
+        sk: { new: 'Nové', siteVisits: 'Návštevy webu' },
+        sl: { new: 'Novo', siteVisits: 'Obiski spletnega mesta' },
+        lt: { new: 'Nauja', siteVisits: 'Svetainės apsilankymai' },
+        lv: { new: 'Jauns', siteVisits: 'Vietnes apmeklējumi' },
+        et: { new: 'Uus', siteVisits: 'Veebisaidi külastused' },
+        ga: { new: 'Nua', siteVisits: 'Cuairteanna suímh' }
     };
 
     const COUNTRY_LANGUAGE_MAP = {

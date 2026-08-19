@@ -1149,6 +1149,31 @@ select:focus-visible {
     line-height: 1.45;
 }
 
+.footer-traffic {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    color: #91abd0;
+    white-space: nowrap;
+}
+
+.footer-traffic svg {
+    width: 13px;
+    height: 13px;
+    color: var(--gold);
+}
+
+.footer-traffic-count {
+    color: #f5d46d;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+
+.footer-traffic-count[data-state="unavailable"] {
+    color: #7894b5;
+}
+
 @media (max-width: 1000px) {
     .header-content {
         gap: 30px;
