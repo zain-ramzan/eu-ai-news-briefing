@@ -1,7 +1,7 @@
 {
-  "name": "euro-ai-briefing",
+  "name": "eu-ai-news-briefing",
   "version": "1.0.0",
-  "description": "Multilingual dashboard for European AI policy, research, and regulatory briefings",
+  "description": "Multilingual EU AI news dashboard for policy, research, and regulatory briefings",
   "main": "scripts/fetch-news.js",
   "scripts": {
     "fetch-news": "node scripts/fetch-news.js",
