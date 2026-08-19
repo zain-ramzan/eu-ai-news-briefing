@@ -1088,31 +1088,73 @@ const I18n = (() => {
             element.setAttribute('aria-label', t(element.dataset.i18nAriaLabel));
         });
 
-        const languageSelector = document.getElementById('languageSelector');
-        if (languageSelector) {
-            languageSelector.value = currentLanguage;
-            languageSelector.setAttribute('aria-label', t('language'));
-        }
+        syncLanguageMenu();
+    }
+
+    function syncLanguageMenu() {
+        const trigger = document.getElementById('languageTrigger');
+        const menu = document.getElementById('languageMenu');
+        const selectedFlag = document.getElementById('selectedLanguageFlag');
+        const selectedName = document.getElementById('selectedLanguageName');
+        const activeOption = menu?.querySelector(`[data-language="${currentLanguage}"]`);
+
+        if (trigger) trigger.setAttribute('aria-label', t('language'));
+        if (menu) menu.setAttribute('aria-label', t('language'));
+        if (selectedFlag && activeOption) selectedFlag.textContent = activeOption.dataset.flag;
+        if (selectedName && activeOption) selectedName.textContent = activeOption.dataset.languageName;
+        menu?.querySelectorAll('[data-language]').forEach((option) => {
+            option.setAttribute('aria-checked', String(option.dataset.language === currentLanguage));
+        });
+    }
+
+    function closeLanguageMenu(returnFocus = false) {
+        const trigger = document.getElementById('languageTrigger');
+        const menu = document.getElementById('languageMenu');
+        if (!trigger || !menu) return;
+        menu.hidden = true;
+        trigger.setAttribute('aria-expanded', 'false');
+        if (returnFocus) trigger.focus();
+    }
+
+    function toggleLanguageMenu() {
+        const trigger = document.getElementById('languageTrigger');
+        const menu = document.getElementById('languageMenu');
+        if (!trigger || !menu) return;
+        const isOpen = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = isOpen;
+        trigger.setAttribute('aria-expanded', String(!isOpen));
     }
 
     function setLanguage(language) {
-        if (!translations[language] || language === currentLanguage) return;
-
-        currentLanguage = language;
-        try {
-            localStorage.setItem(STORAGE_KEY, currentLanguage);
-        } catch (error) {
-            // The selected language still applies for the current session if storage is unavailable.
+        if (!translations[language]) return;
+        if (language !== currentLanguage) {
+            currentLanguage = language;
+            try {
+                localStorage.setItem(STORAGE_KEY, currentLanguage);
+            } catch (error) {
+                // The selected language still applies for the current session if storage is unavailable.
+            }
+            applyTranslations();
+            document.dispatchEvent(new CustomEvent('i18n:changed', { detail: { language: currentLanguage } }));
         }
-        applyTranslations();
-        document.dispatchEvent(new CustomEvent('i18n:changed', { detail: { language: currentLanguage } }));
+        closeLanguageMenu();
     }
 
     function init() {
-        const languageSelector = document.getElementById('languageSelector');
-        if (languageSelector) {
-            languageSelector.addEventListener('change', (event) => setLanguage(event.target.value));
-        }
+        const trigger = document.getElementById('languageTrigger');
+        const menu = document.getElementById('languageMenu');
+        trigger?.addEventListener('click', toggleLanguageMenu);
+        menu?.addEventListener('click', (event) => {
+            const option = event.target.closest('[data-language]');
+            if (option) setLanguage(option.dataset.language);
+        });
+        document.addEventListener('click', (event) => {
+            const picker = event.target.closest('.language-picker');
+            if (!picker) closeLanguageMenu();
+        });
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') closeLanguageMenu(true);
+        });
         applyTranslations();
     }
 
