@@ -13,6 +13,15 @@ const MAX_AGE_DAYS = 120;
 const MAX_ARTICLES = 30;
 const REQUEST_TIMEOUT_MS = 20000;
 
+async function loadExistingNews() {
+  try {
+    const dataPath = path.join(__dirname, '../data/news.json');
+    return JSON.parse(await fs.readFile(dataPath, 'utf8'));
+  } catch {
+    return { articles: [] };
+  }
+}
+
 /**
  * Curated official EU source pages. Each page is verified at fetch time before
  * it is published. Add new official announcements here as they are identified.
@@ -214,6 +223,20 @@ function isRecent(article) {
   return Number.isFinite(ageMs) && ageMs >= -86400000 && ageMs <= MAX_AGE_DAYS * 86400000;
 }
 
+function preservePublishedFields(articles, existingArticles) {
+  const existingByUrl = new Map(existingArticles.map((article) => [article.url, article]));
+  return articles.map((article) => {
+    const previous = existingByUrl.get(article.url);
+    if (!previous) return article;
+    return {
+      ...article,
+      imageUrl: article.imageUrl || previous.imageUrl || null,
+      videoUrl: article.videoUrl || previous.videoUrl || null,
+      ...(previous.translations ? { translations: previous.translations } : {})
+    };
+  });
+}
+
 function dedupeAndSort(articles) {
   const seen = new Set();
   return articles
@@ -236,8 +259,9 @@ async function saveNewsData(newsData) {
 
 async function main() {
   console.log('EU AI Briefing — verifying official source pages...');
+  const existingNews = await loadExistingNews();
   const verified = await Promise.all(OFFICIAL_SOURCE_PAGES.map(verifyAndBuildArticle));
-  const articles = dedupeAndSort(verified);
+  const articles = preservePublishedFields(dedupeAndSort(verified), existingNews.articles || []);
 
   if (!articles.length) {
     throw new Error('No official source pages were available; preserving existing data/news.json.');

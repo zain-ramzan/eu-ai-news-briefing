@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="EU AI Briefing — verified news on European artificial intelligence policy, regulation, research, and technology.">
     <title>EU AI Briefing</title>
-    <link rel="stylesheet" href="css/style.css?v=euai-briefing-2">
+    <link rel="stylesheet" href="css/style.css?v=euai-briefing-3">
     <link rel="icon" type="image/svg+xml" href="assets/eu-ai-briefing-mark.svg">
 </head>
 <body>
@@ -21,35 +21,35 @@
                         <div class="language-picker">
                             <button id="languageTrigger" class="language-trigger" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="languageMenu">
                                 <svg class="language-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg>
-                                <span id="selectedLanguageFlag" class="language-flag" aria-hidden="true">🇬🇧</span>
+                                <img id="selectedLanguageFlag" class="language-flag" src="assets/flags/gb.svg" alt="" aria-hidden="true">
                                 <span id="selectedLanguageName">English</span>
                                 <svg class="language-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m7 10 5 5 5-5"></path></svg>
                                 <span class="sr-only" data-i18n="language">Language</span>
                             </button>
                             <div id="languageMenu" class="language-menu" role="menu" aria-label="Language" hidden>
-                                <button type="button" role="menuitemradio" data-language="en" data-flag="🇬🇧" data-language-name="English">🇬🇧 <span>English</span></button>
-                                <button type="button" role="menuitemradio" data-language="fr" data-flag="🇫🇷" data-language-name="Français">🇫🇷 <span>Français</span></button>
-                                <button type="button" role="menuitemradio" data-language="de" data-flag="🇩🇪" data-language-name="Deutsch">🇩🇪 <span>Deutsch</span></button>
-                                <button type="button" role="menuitemradio" data-language="es" data-flag="🇪🇸" data-language-name="Español">🇪🇸 <span>Español</span></button>
-                                <button type="button" role="menuitemradio" data-language="it" data-flag="🇮🇹" data-language-name="Italiano">🇮🇹 <span>Italiano</span></button>
-                                <button type="button" role="menuitemradio" data-language="pt" data-flag="🇵🇹" data-language-name="Português">🇵🇹 <span>Português</span></button>
-                                <button type="button" role="menuitemradio" data-language="nl" data-flag="🇳🇱" data-language-name="Nederlands">🇳🇱 <span>Nederlands</span></button>
-                                <button type="button" role="menuitemradio" data-language="pl" data-flag="🇵🇱" data-language-name="Polski">🇵🇱 <span>Polski</span></button>
-                                <button type="button" role="menuitemradio" data-language="ro" data-flag="🇷🇴" data-language-name="Română">🇷🇴 <span>Română</span></button>
-                                <button type="button" role="menuitemradio" data-language="sv" data-flag="🇸🇪" data-language-name="Svenska">🇸🇪 <span>Svenska</span></button>
-                                <button type="button" role="menuitemradio" data-language="da" data-flag="🇩🇰" data-language-name="Dansk">🇩🇰 <span>Dansk</span></button>
-                                <button type="button" role="menuitemradio" data-language="fi" data-flag="🇫🇮" data-language-name="Suomi">🇫🇮 <span>Suomi</span></button>
-                                <button type="button" role="menuitemradio" data-language="cs" data-flag="🇨🇿" data-language-name="Čeština">🇨🇿 <span>Čeština</span></button>
-                                <button type="button" role="menuitemradio" data-language="el" data-flag="🇬🇷" data-language-name="Ελληνικά">🇬🇷 <span>Ελληνικά</span></button>
-                                <button type="button" role="menuitemradio" data-language="hu" data-flag="🇭🇺" data-language-name="Magyar">🇭🇺 <span>Magyar</span></button>
-                                <button type="button" role="menuitemradio" data-language="bg" data-flag="🇧🇬" data-language-name="Български">🇧🇬 <span>Български</span></button>
-                                <button type="button" role="menuitemradio" data-language="hr" data-flag="🇭🇷" data-language-name="Hrvatski">🇭🇷 <span>Hrvatski</span></button>
-                                <button type="button" role="menuitemradio" data-language="sk" data-flag="🇸🇰" data-language-name="Slovenčina">🇸🇰 <span>Slovenčina</span></button>
-                                <button type="button" role="menuitemradio" data-language="sl" data-flag="🇸🇮" data-language-name="Slovenščina">🇸🇮 <span>Slovenščina</span></button>
-                                <button type="button" role="menuitemradio" data-language="lt" data-flag="🇱🇹" data-language-name="Lietuvių">🇱🇹 <span>Lietuvių</span></button>
-                                <button type="button" role="menuitemradio" data-language="lv" data-flag="🇱🇻" data-language-name="Latviešu">🇱🇻 <span>Latviešu</span></button>
-                                <button type="button" role="menuitemradio" data-language="et" data-flag="🇪🇪" data-language-name="Eesti">🇪🇪 <span>Eesti</span></button>
-                                <button type="button" role="menuitemradio" data-language="ga" data-flag="🇮🇪" data-language-name="Gaeilge">🇮🇪 <span>Gaeilge</span></button>
+                                <button type="button" role="menuitemradio" data-language="en" data-flag-src="assets/flags/gb.svg" data-language-name="English"><img class="menu-flag" src="assets/flags/gb.svg" alt="" aria-hidden="true"><span>English</span></button>
+                                <button type="button" role="menuitemradio" data-language="fr" data-flag-src="assets/flags/fr.svg" data-language-name="Français"><img class="menu-flag" src="assets/flags/fr.svg" alt="" aria-hidden="true"><span>Français</span></button>
+                                <button type="button" role="menuitemradio" data-language="de" data-flag-src="assets/flags/de.svg" data-language-name="Deutsch"><img class="menu-flag" src="assets/flags/de.svg" alt="" aria-hidden="true"><span>Deutsch</span></button>
+                                <button type="button" role="menuitemradio" data-language="es" data-flag-src="assets/flags/es.svg" data-language-name="Español"><img class="menu-flag" src="assets/flags/es.svg" alt="" aria-hidden="true"><span>Español</span></button>
+                                <button type="button" role="menuitemradio" data-language="it" data-flag-src="assets/flags/it.svg" data-language-name="Italiano"><img class="menu-flag" src="assets/flags/it.svg" alt="" aria-hidden="true"><span>Italiano</span></button>
+                                <button type="button" role="menuitemradio" data-language="pt" data-flag-src="assets/flags/pt.svg" data-language-name="Português"><img class="menu-flag" src="assets/flags/pt.svg" alt="" aria-hidden="true"><span>Português</span></button>
+                                <button type="button" role="menuitemradio" data-language="nl" data-flag-src="assets/flags/nl.svg" data-language-name="Nederlands"><img class="menu-flag" src="assets/flags/nl.svg" alt="" aria-hidden="true"><span>Nederlands</span></button>
+                                <button type="button" role="menuitemradio" data-language="pl" data-flag-src="assets/flags/pl.svg" data-language-name="Polski"><img class="menu-flag" src="assets/flags/pl.svg" alt="" aria-hidden="true"><span>Polski</span></button>
+                                <button type="button" role="menuitemradio" data-language="ro" data-flag-src="assets/flags/ro.svg" data-language-name="Română"><img class="menu-flag" src="assets/flags/ro.svg" alt="" aria-hidden="true"><span>Română</span></button>
+                                <button type="button" role="menuitemradio" data-language="sv" data-flag-src="assets/flags/se.svg" data-language-name="Svenska"><img class="menu-flag" src="assets/flags/se.svg" alt="" aria-hidden="true"><span>Svenska</span></button>
+                                <button type="button" role="menuitemradio" data-language="da" data-flag-src="assets/flags/dk.svg" data-language-name="Dansk"><img class="menu-flag" src="assets/flags/dk.svg" alt="" aria-hidden="true"><span>Dansk</span></button>
+                                <button type="button" role="menuitemradio" data-language="fi" data-flag-src="assets/flags/fi.svg" data-language-name="Suomi"><img class="menu-flag" src="assets/flags/fi.svg" alt="" aria-hidden="true"><span>Suomi</span></button>
+                                <button type="button" role="menuitemradio" data-language="cs" data-flag-src="assets/flags/cz.svg" data-language-name="Čeština"><img class="menu-flag" src="assets/flags/cz.svg" alt="" aria-hidden="true"><span>Čeština</span></button>
+                                <button type="button" role="menuitemradio" data-language="el" data-flag-src="assets/flags/gr.svg" data-language-name="Ελληνικά"><img class="menu-flag" src="assets/flags/gr.svg" alt="" aria-hidden="true"><span>Ελληνικά</span></button>
+                                <button type="button" role="menuitemradio" data-language="hu" data-flag-src="assets/flags/hu.svg" data-language-name="Magyar"><img class="menu-flag" src="assets/flags/hu.svg" alt="" aria-hidden="true"><span>Magyar</span></button>
+                                <button type="button" role="menuitemradio" data-language="bg" data-flag-src="assets/flags/bg.svg" data-language-name="Български"><img class="menu-flag" src="assets/flags/bg.svg" alt="" aria-hidden="true"><span>Български</span></button>
+                                <button type="button" role="menuitemradio" data-language="hr" data-flag-src="assets/flags/hr.svg" data-language-name="Hrvatski"><img class="menu-flag" src="assets/flags/hr.svg" alt="" aria-hidden="true"><span>Hrvatski</span></button>
+                                <button type="button" role="menuitemradio" data-language="sk" data-flag-src="assets/flags/sk.svg" data-language-name="Slovenčina"><img class="menu-flag" src="assets/flags/sk.svg" alt="" aria-hidden="true"><span>Slovenčina</span></button>
+                                <button type="button" role="menuitemradio" data-language="sl" data-flag-src="assets/flags/si.svg" data-language-name="Slovenščina"><img class="menu-flag" src="assets/flags/si.svg" alt="" aria-hidden="true"><span>Slovenščina</span></button>
+                                <button type="button" role="menuitemradio" data-language="lt" data-flag-src="assets/flags/lt.svg" data-language-name="Lietuvių"><img class="menu-flag" src="assets/flags/lt.svg" alt="" aria-hidden="true"><span>Lietuvių</span></button>
+                                <button type="button" role="menuitemradio" data-language="lv" data-flag-src="assets/flags/lv.svg" data-language-name="Latviešu"><img class="menu-flag" src="assets/flags/lv.svg" alt="" aria-hidden="true"><span>Latviešu</span></button>
+                                <button type="button" role="menuitemradio" data-language="et" data-flag-src="assets/flags/ee.svg" data-language-name="Eesti"><img class="menu-flag" src="assets/flags/ee.svg" alt="" aria-hidden="true"><span>Eesti</span></button>
+                                <button type="button" role="menuitemradio" data-language="ga" data-flag-src="assets/flags/ie.svg" data-language-name="Gaeilge"><img class="menu-flag" src="assets/flags/ie.svg" alt="" aria-hidden="true"><span>Gaeilge</span></button>
                             </div>
                         </div>
                     </div>
@@ -143,21 +143,32 @@
 
         <footer class="footer">
             <div class="footer-inner">
-                <div>
-                    <span class="footer-brand">EU AI BRIEFING</span>
-                    <p data-i18n="footerDescription">Independent coverage of European AI policy and innovation.</p>
+                <div class="footer-identity">
+                    <a class="footer-mark" href="./" aria-label="EU AI Briefing home"><img src="assets/eu-ai-briefing-mark.svg" alt="" aria-hidden="true"></a>
+                    <div>
+                        <span class="footer-brand">EU AI BRIEFING</span>
+                        <p data-i18n="footerDescription">Independent coverage of European AI policy and innovation.</p>
+                    </div>
                 </div>
-                <p class="footer-links">
-                    <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank" rel="noopener noreferrer">EU AI Act</a>
-                    <a href="https://github.com/zain-ramzan/euro-ai-briefing" target="_blank" rel="noopener noreferrer">GitHub</a>
-                    <a href="https://github.com/zain-ramzan/euro-ai-briefing#readme" target="_blank" rel="noopener noreferrer" data-i18n="about">About</a>
-                </p>
+                <nav class="footer-nav" aria-label="EU AI Briefing resources">
+                    <span class="footer-nav-label">Resources</span>
+                    <div class="footer-links">
+                        <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank" rel="noopener noreferrer">EU AI Act</a>
+                        <a href="https://digital-strategy.ec.europa.eu/en/policies/ai-office" target="_blank" rel="noopener noreferrer">AI Office</a>
+                        <a href="https://github.com/zain-ramzan/euro-ai-briefing" target="_blank" rel="noopener noreferrer">GitHub</a>
+                        <a href="https://github.com/zain-ramzan/euro-ai-briefing#readme" target="_blank" rel="noopener noreferrer" data-i18n="about">About</a>
+                    </div>
+                </nav>
+            </div>
+            <div class="footer-baseline">
+                <span>Official European sources, checked before publication.</span>
+                <span>EU AI Briefing · 2026</span>
             </div>
         </footer>
     </div>
 
-    <script src="js/i18n.js?v=euai-briefing-3"></script>
+    <script src="js/i18n.js?v=euai-briefing-4"></script>
     <script src="js/api.js?v=euai-briefing-1"></script>
-    <script src="js/app.js?v=euai-briefing-2"></script>
+    <script src="js/app.js?v=euai-briefing-3"></script>
 </body>
 </html>
