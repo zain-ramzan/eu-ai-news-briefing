@@ -1,13 +1,13 @@
-# Euro AI Briefing
+# EU AI News Briefing
 
-> **Euro AI Briefing** is a lightweight, multilingual dashboard for following European artificial-intelligence policy, regulation, research, technology, and security developments. It turns a curated briefing feed into a focused, searchable reading experience.
+> **EU AI News Briefing** is a lightweight, multilingual dashboard for following European artificial-intelligence policy, regulation, research, technology, and security developments. It turns a curated briefing feed into a focused, searchable reading experience.
 
 The project is built as a static web application. It runs without a framework or build step, making it simple to host on GitHub Pages and straightforward to adapt for a different AI-policy briefing workflow.
 
 | Project | Details |
 |---|---|
-| Repository | [`zain-ramzan/euro-ai-briefing`](https://github.com/zain-ramzan/euro-ai-briefing) |
-| Live site | `https://zain-ramzan.github.io/euro-ai-briefing/` once GitHub Pages is enabled for the repository |
+| Repository | [`zain-ramzan/eu-ai-news-briefing`](https://github.com/zain-ramzan/eu-ai-news-briefing) |
+| Live site | `https://zain-ramzan.github.io/eu-ai-news-briefing/` once GitHub Pages is enabled for the repository |
 | Stack | HTML, CSS, vanilla JavaScript, Node.js utility scripts |
 | License | MIT |
 
@@ -20,12 +20,12 @@ The interface uses an editorial “policy intelligence” layout designed for qu
 | Curated briefing feed | Displays the articles stored in `data/news.json`, with source links, dates, tags, and categories. |
 | Search and filters | Supports keyword search, category filtering, and date or title sorting. |
 | Responsive interface | Adapts from a multi-column desktop feed to a single-column mobile reading layout. |
-| Multilingual interface | Offers UI translations for 23 principal EU languages. Article text remains in its original source language. |
+| Multilingual briefings | Offers complete dashboard and briefing-card translations for 23 principal EU languages, with automatic first-visit language selection. |
 | Accessible interaction | Provides visible keyboard focus states, accessible labels, live result counts, and reduced-motion support. |
 
 ## Supported interface languages
 
-The language selector translates the dashboard’s navigation, headings, controls, status text, empty state, and article-card labels. It does **not** machine-translate external article titles or summaries, preserving the wording and attribution supplied by each source.
+The language selector translates dashboard controls and verified briefing-card titles, summaries, tags, categories, dates, and action labels. On a first visit, the site prioritizes a saved selection, then the browser language, then a local European timezone fallback; unsupported locations use English. Original publisher pages always open in their source language.
 
 | Western and Southern Europe | Central and Eastern Europe | Northern and Baltic Europe |
 |---|---|---|
@@ -35,7 +35,7 @@ The language selector translates the dashboard’s navigation, headings, control
 
 The dashboard currently reads from the checked-in file at `data/news.json`. Each article records a title, description, source, category, publication date, URL, and tags. Use the outgoing article links to review the original material before relying on it for policy, regulatory, or commercial decisions.
 
-The included Node.js fetch utility is a development prototype. Its source-integration function is intentionally a placeholder, so production use should connect it to verified publication feeds or APIs, retain source URLs, and implement review and deduplication rules appropriate for the intended editorial standard.
+The included Node.js fetch utility verifies each curated official source page before it is published. The scheduled workflow audits source destinations and confirms all supported briefing translations are complete before deploying the updated feed.
 
 | Reference source | Intended use |
 |---|---|
@@ -49,8 +49,8 @@ The included Node.js fetch utility is a development prototype. Its source-integr
 Clone the repository, install the small set of Node.js dependencies, and start the included static server. Serving the files over HTTP is recommended because the dashboard fetches its news data from `data/news.json`.
 
 ```bash
-git clone https://github.com/zain-ramzan/euro-ai-briefing.git
-cd euro-ai-briefing
+git clone https://github.com/zain-ramzan/eu-ai-news-briefing.git
+cd eu-ai-news-briefing
 npm install
 npm run dev
 ```
@@ -63,10 +63,10 @@ npm run fetch-news
 
 ## Deployment
 
-Euro AI Briefing can be deployed as a static site. For GitHub Pages, configure the repository’s Pages settings to deploy from the desired branch and root directory. After deployment, the expected project URL is:
+EU AI News Briefing can be deployed as a static site. For GitHub Pages, configure the repository’s Pages settings to deploy from the desired branch and root directory. After deployment, the expected project URL is:
 
 ```text
-https://zain-ramzan.github.io/euro-ai-briefing/
+https://zain-ramzan.github.io/eu-ai-news-briefing/
 ```
 
 If the project is hosted under a different owner, organization, or custom domain, update the corresponding links in `README.md` and `index.html`.
@@ -74,7 +74,7 @@ If the project is hosted under a different owner, organization, or custom domain
 ## Project structure
 
 ```text
-euro-ai-briefing/
+eu-ai-news-briefing/
 ├── index.html              # Dashboard structure and language selector
 ├── css/
 │   └── style.css           # Visual system, layout, and responsive rules
