@@ -1,6 +1,7 @@
 # EU AI News Dashboard
 
 A modern, real-time dashboard for European AI news and regulatory updates from official EU sources.
+
 Website: - [EU AI News](https://zain-ramzan.github.io/eu-ai-news-dashboard/)
 
 ## Features
