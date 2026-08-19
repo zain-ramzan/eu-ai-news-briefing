@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EU AI News Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' fill='%234169E1'>🤖</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">🤖</span>
+                    <h1>EU AI News Dashboard</h1>
+                </div>
+                <p class="subtitle">Real-time updates from official European AI sources</p>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Search news..."
+                    class="search-input"
+                >
+                <span class="search-icon">🔍</span>
+            </div>
+            
+            <div class="filter-group">
+                <select id="categoryFilter" class="filter-select">
+                    <option value="">All Categories</option>
+                    <option value="Regulation">Regulation</option>
+                    <option value="Technology">Technology</option>
+                    <option value="Research">Research</option>
+                    <option value="Policy">Policy</option>
+                    <option value="Security">Security</option>
+                </select>
+                
+                <select id="sortBy" class="filter-select">
+                    <option value="date-desc">Latest First</option>
+                    <option value="date-asc">Oldest First</option>
+                    <option value="title-asc">Title A-Z</option>
+                </select>
+            </div>
+            
+            <button id="refreshBtn" class="refresh-btn" title="Refresh news">
+                🔄 Refresh
+            </button>
+        </div>
+
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">Total News</span>
+                <span class="stat-value" id="totalNews">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Last Updated</span>
+                <span class="stat-value" id="lastUpdated">Loading...</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">This Week</span>
+                <span class="stat-value" id="weekNews">0</span>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading EU AI news...</p>
+        </div>
+
+        <!-- News Grid -->
+        <div id="newsContainer" class="news-grid">
+            <!-- News cards will be populated here by JavaScript -->
+        </div>
+
+        <!-- Empty State -->
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <p>📭 No news found matching your criteria</p>
+            <button id="resetFilters" class="reset-btn">Reset Filters</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>Data sourced from official European Commission and AI policy platforms</p>
+        <p class="footer-links">
+            <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank">EU AI Act</a> |
+            <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard" target="_blank">GitHub</a> |
+            <a href="#about">About</a>
+        </p>
+    </footer>
+
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
