@@ -1100,7 +1100,7 @@ const I18n = (() => {
 
         if (trigger) trigger.setAttribute('aria-label', t('language'));
         if (menu) menu.setAttribute('aria-label', t('language'));
-        if (selectedFlag && activeOption) selectedFlag.textContent = activeOption.dataset.flag;
+        if (selectedFlag && activeOption) selectedFlag.src = activeOption.dataset.flagSrc;
         if (selectedName && activeOption) selectedName.textContent = activeOption.dataset.languageName;
         menu?.querySelectorAll('[data-language]').forEach((option) => {
             option.setAttribute('aria-checked', String(option.dataset.language === currentLanguage));

@@ -135,7 +135,6 @@ const App = (() => {
         const url = safeUrl(article.url) || '#';
         const tags = Array.isArray(article.tags) ? article.tags : [];
         const isNew = isCurrentWeek(article.date);
-        const readMinutes = Math.max(1, Number(article.readMinutes) || 1);
 
         return `
             <article class="news-card news-card--${categoryClass}${isNew ? ' news-card--new' : ''}">
@@ -145,7 +144,6 @@ const App = (() => {
                         <span class="news-category">${escapeHtml(category)}</span>
                         <span class="news-card-signals">
                             ${isNew ? `<span class="new-badge">${escapeHtml(t('new'))}</span>` : ''}
-                            <span class="news-reading-time">≈ ${readMinutes} min</span>
                         </span>
                     </div>
                     <h3 class="news-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
