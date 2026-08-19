@@ -7,9 +7,8 @@ The project is built as a static web application. It runs without a framework or
 | Project | Details |
 |---|---|
 | Repository | [`zain-ramzan/eu-ai-news-briefing`](https://github.com/zain-ramzan/eu-ai-news-briefing) |
-| Live site | `https://zain-ramzan.github.io/eu-ai-news-briefing/` once GitHub Pages is enabled for the repository |
-| Stack | HTML, CSS, vanilla JavaScript, Node.js utility scripts |
-| License | MIT |
+| Live site |  [`EU AI News Briefing`](https://zain-ramzan.github.io/eu-ai-news-briefing/) |
+
 
 ## What the dashboard provides
 
