@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A curated dashboard for European AI policy, research, regulation, and technology news.">
-    <title>EU AI News Dashboard</title>
-    <link rel="stylesheet" href="css/style.css?v=ui-refresh-1">
+    <title>Euro AI Briefing</title>
+    <link rel="stylesheet" href="css/style.css?v=multilingual-1">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23052b57'/%3E%3Cpath d='M18 34h28M24 24h16M24 44h16' stroke='%23f4c542' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -13,72 +13,99 @@
         <main class="container">
             <header class="header" aria-labelledby="dashboardTitle">
                 <div class="header-topline">
-                    <a class="brand" href="./" aria-label="EU AI News Dashboard home">
-                        <span class="brand-mark" aria-hidden="true">
-                            <span>AI</span>
-                        </span>
-                        <span class="brand-name">EU AI<br><strong>NEWS DESK</strong></span>
+                    <a class="brand" href="./" aria-label="Euro AI Briefing home">
+                        <span class="brand-mark" aria-hidden="true"><span>AI</span></span>
+                        <span class="brand-name">EURO AI<br><strong>BRIEFING</strong></span>
                     </a>
-                    <span class="status-pill"><span class="status-dot" aria-hidden="true"></span>Live monitoring</span>
+                    <div class="header-utilities">
+                        <span class="status-pill"><span class="status-dot" aria-hidden="true"></span><span data-i18n="liveMonitoring">Live monitoring</span></span>
+                        <div class="language-picker">
+                            <label class="sr-only" for="languageSelector" data-i18n="language">Language</label>
+                            <svg class="language-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg>
+                            <select id="languageSelector" class="language-select" aria-label="Language">
+                                <option value="en">English</option>
+                                <option value="fr">Français</option>
+                                <option value="de">Deutsch</option>
+                                <option value="es">Español</option>
+                                <option value="it">Italiano</option>
+                                <option value="pt">Português</option>
+                                <option value="nl">Nederlands</option>
+                                <option value="pl">Polski</option>
+                                <option value="ro">Română</option>
+                                <option value="sv">Svenska</option>
+                                <option value="da">Dansk</option>
+                                <option value="fi">Suomi</option>
+                                <option value="cs">Čeština</option>
+                                <option value="el">Ελληνικά</option>
+                                <option value="hu">Magyar</option>
+                                <option value="bg">Български</option>
+                                <option value="hr">Hrvatski</option>
+                                <option value="sk">Slovenčina</option>
+                                <option value="sl">Slovenščina</option>
+                                <option value="lt">Lietuvių</option>
+                                <option value="lv">Latviešu</option>
+                                <option value="et">Eesti</option>
+                                <option value="ga">Gaeilge</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="header-content">
                     <div class="header-copy">
-                        <p class="eyebrow">European AI policy intelligence</p>
-                        <h1 id="dashboardTitle">Signals that shape<br><em>Europe’s AI future.</em></h1>
-                        <p class="subtitle">A focused brief of regulation, research, technology, and governance updates from trusted European sources.</p>
+                        <p class="eyebrow" data-i18n="eyebrow">European AI policy intelligence</p>
+                        <h1 id="dashboardTitle"><span data-i18n="heroTitle">Signals that shape</span><br><em data-i18n="heroTitleEm">Europe’s AI future.</em></h1>
+                        <p class="subtitle" data-i18n="subtitle">A focused brief of regulation, research, technology, and governance updates from trusted European sources.</p>
                     </div>
 
                     <aside class="source-card" aria-label="Dashboard source coverage">
-                        <span class="source-card-label">Coverage focus</span>
-                        <strong>Official policy<br>and research signals</strong>
+                        <span class="source-card-label" data-i18n="coverageFocus">Coverage focus</span>
+                        <strong><span data-i18n="coverageLineOne">Official policy</span><br><span data-i18n="coverageLineTwo">and research signals</span></strong>
                         <span class="source-card-rule" aria-hidden="true"></span>
-                        <span class="source-card-note">European Commission · AI Board · Horizon Europe</span>
+                        <span class="source-card-note" data-i18n="coverageSources">European Commission · AI Board · Horizon Europe</span>
                     </aside>
                 </div>
             </header>
 
             <section class="control-panel" aria-label="Search and filter news">
                 <div class="control-intro">
-                    <p class="section-kicker">News intelligence</p>
-                    <h2>Explore the latest briefings</h2>
+                    <p class="section-kicker" data-i18n="newsIntelligence">News intelligence</p>
+                    <h2 data-i18n="exploreBriefings">Explore the latest briefings</h2>
                 </div>
 
                 <div class="controls">
                     <div class="search-field">
-                        <label class="sr-only" for="searchInput">Search news</label>
-                        <span class="field-icon" aria-hidden="true">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path></svg>
-                        </span>
-                        <input type="search" id="searchInput" placeholder="Search titles, topics, or sources" class="search-input" autocomplete="off">
+                        <label class="sr-only" for="searchInput" data-i18n="searchNews">Search news</label>
+                        <span class="field-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path></svg></span>
+                        <input type="search" id="searchInput" placeholder="Search titles, topics, or sources" data-i18n-placeholder="searchPlaceholder" class="search-input" autocomplete="off">
                     </div>
 
                     <div class="filter-group">
                         <div class="select-field">
-                            <label for="categoryFilter">Topic</label>
+                            <label for="categoryFilter" data-i18n="topic">Topic</label>
                             <select id="categoryFilter" class="filter-select">
-                                <option value="">All categories</option>
-                                <option value="Regulation">Regulation</option>
-                                <option value="Technology">Technology</option>
-                                <option value="Research">Research</option>
-                                <option value="Policy">Policy</option>
-                                <option value="Security">Security</option>
+                                <option value="" data-i18n="allCategories">All categories</option>
+                                <option value="Regulation" data-i18n="regulation">Regulation</option>
+                                <option value="Technology" data-i18n="technology">Technology</option>
+                                <option value="Research" data-i18n="research">Research</option>
+                                <option value="Policy" data-i18n="policy">Policy</option>
+                                <option value="Security" data-i18n="security">Security</option>
                             </select>
                         </div>
 
                         <div class="select-field">
-                            <label for="sortBy">Order</label>
+                            <label for="sortBy" data-i18n="order">Order</label>
                             <select id="sortBy" class="filter-select">
-                                <option value="date-desc">Latest first</option>
-                                <option value="date-asc">Oldest first</option>
-                                <option value="title-asc">Title A–Z</option>
+                                <option value="date-desc" data-i18n="latestFirst">Latest first</option>
+                                <option value="date-asc" data-i18n="oldestFirst">Oldest first</option>
+                                <option value="title-asc" data-i18n="titleAZ">Title A–Z</option>
                             </select>
                         </div>
                     </div>
 
-                    <button id="refreshBtn" class="refresh-btn" type="button" title="Refresh news">
+                    <button id="refreshBtn" class="refresh-btn" type="button" title="Refresh" data-i18n-title="refresh">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 11a8.1 8.1 0 0 0-15.5-2M4 5v4h4"></path><path d="M4 13a8.1 8.1 0 0 0 15.5 2M20 19v-4h-4"></path></svg>
-                        <span>Refresh</span>
+                        <span data-i18n="refresh">Refresh</span>
                     </button>
                 </div>
             </section>
@@ -86,15 +113,15 @@
             <section class="feed-section" aria-labelledby="feedTitle">
                 <div class="section-heading feed-heading">
                     <div>
-                        <p class="section-kicker">Latest dispatches</p>
-                        <h2 id="feedTitle">The news feed</h2>
+                        <p class="section-kicker" data-i18n="latestDispatches">Latest dispatches</p>
+                        <h2 id="feedTitle" data-i18n="newsFeed">The news feed</h2>
                     </div>
-                    <p class="results-count" id="resultsCount" aria-live="polite">Loading briefings…</p>
+                    <p class="results-count" id="resultsCount" aria-live="polite" data-i18n="loadingBriefings">Loading briefings…</p>
                 </div>
 
                 <div id="loading" class="loading" role="status">
                     <div class="spinner" aria-hidden="true"></div>
-                    <p>Loading the latest EU AI briefings…</p>
+                    <p data-i18n="loadingFeed">Loading the latest EU AI briefings…</p>
                 </div>
 
                 <div id="newsContainer" class="news-grid" aria-live="polite" aria-busy="true">
@@ -102,12 +129,10 @@
                 </div>
 
                 <div id="emptyState" class="empty-state" style="display: none;" role="status">
-                    <span class="empty-icon" aria-hidden="true">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path><path d="M8.5 11h5"></path></svg>
-                    </span>
-                    <h3>No matching briefings</h3>
-                    <p>Try changing your keywords or restoring the full feed.</p>
-                    <button id="resetFilters" class="reset-btn" type="button">Reset filters</button>
+                    <span class="empty-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 4 4"></path><path d="M8.5 11h5"></path></svg></span>
+                    <h3 data-i18n="noMatchingBriefings">No matching briefings</h3>
+                    <p data-i18n="noMatchingDescription">Try changing your keywords or restoring the full feed.</p>
+                    <button id="resetFilters" class="reset-btn" type="button" data-i18n="resetFilters">Reset filters</button>
                 </div>
             </section>
         </main>
@@ -115,19 +140,20 @@
         <footer class="footer">
             <div class="footer-inner">
                 <div>
-                    <span class="footer-brand">EU AI NEWS DESK</span>
-                    <p>Independent monitoring of European AI policy and innovation.</p>
+                    <span class="footer-brand">EURO AI BRIEFING</span>
+                    <p data-i18n="footerDescription">Independent monitoring of European AI policy and innovation.</p>
                 </div>
                 <p class="footer-links">
                     <a href="https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence" target="_blank" rel="noopener noreferrer">EU AI Act</a>
-                    <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard" target="_blank" rel="noopener noreferrer">GitHub</a>
-                    <a href="https://github.com/zain-ramzan/eu-ai-news-dashboard#readme" target="_blank" rel="noopener noreferrer">About</a>
+                    <a href="https://github.com/zain-ramzan/euro-ai-briefing" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="https://github.com/zain-ramzan/euro-ai-briefing#readme" target="_blank" rel="noopener noreferrer" data-i18n="about">About</a>
                 </p>
             </div>
         </footer>
     </div>
 
-    <script src="js/api.js?v=ui-refresh-1"></script>
-    <script src="js/app.js?v=ui-refresh-1"></script>
+    <script src="js/i18n.js?v=multilingual-2"></script>
+    <script src="js/api.js?v=multilingual-1"></script>
+    <script src="js/app.js?v=multilingual-1"></script>
 </body>
 </html>

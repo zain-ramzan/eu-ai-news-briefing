@@ -199,6 +199,47 @@ select:focus-visible {
     box-shadow: 0 0 0 4px rgba(100, 231, 187, 0.11);
 }
 
+.header-utilities {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.language-picker {
+    display: inline-flex;
+    align-items: center;
+    min-height: 31px;
+    padding: 0 8px 0 9px;
+    border: 1px solid rgba(188, 227, 220, 0.24);
+    border-radius: 999px;
+    color: #d9f1ff;
+    background: rgba(6, 36, 67, 0.34);
+}
+
+.language-icon {
+    flex: 0 0 auto;
+    width: 13px;
+    height: 13px;
+    margin-right: 5px;
+    color: #a9d6ff;
+}
+
+.language-select {
+    max-width: 106px;
+    border: 0;
+    color: #e8f4ff;
+    background: transparent;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.035em;
+    outline: none;
+}
+
+.language-select option {
+    color: var(--ink);
+    background: #fff;
+}
+
 .header-content {
     display: grid;
     grid-template-columns: minmax(0, 1fr) 270px;
@@ -992,8 +1033,25 @@ select:focus-visible {
         align-items: flex-start;
     }
 
+    .header-utilities {
+        align-items: flex-end;
+        flex-direction: column;
+        gap: 5px;
+    }
+
     .status-pill {
         padding: 6px 8px;
+        font-size: 0.54rem;
+    }
+
+    .language-picker {
+        min-height: 28px;
+        padding-right: 6px;
+        padding-left: 7px;
+    }
+
+    .language-select {
+        max-width: 92px;
         font-size: 0.54rem;
     }
 

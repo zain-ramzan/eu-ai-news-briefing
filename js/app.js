@@ -1,5 +1,5 @@
 /**
- * EU AI News Dashboard - Main Application
+ * Euro AI Briefing - Main Application
  */
 
 const App = (() => {
@@ -7,17 +7,19 @@ const App = (() => {
     let currentSearchTerm = '';
     let currentCategory = '';
     let currentSort = 'date-desc';
+    let latestUpdate = null;
 
     /**
      * Initialize the application.
      */
     async function init() {
         setupEventListeners();
+        document.addEventListener('i18n:changed', handleLanguageChange);
         await loadNews();
     }
 
     /**
-     * Setup event listeners for all interactive elements.
+     * Set up user interactions for the dashboard controls.
      */
     function setupEventListeners() {
         const searchInput = document.getElementById('searchInput');
@@ -52,16 +54,29 @@ const App = (() => {
         }
 
         if (resetFilters) {
-            resetFilters.addEventListener('click', () => {
-                currentSearchTerm = '';
-                currentCategory = '';
-                currentSort = 'date-desc';
-                document.getElementById('searchInput').value = '';
-                document.getElementById('categoryFilter').value = '';
-                document.getElementById('sortBy').value = 'date-desc';
-                renderNews();
-            });
+            resetFilters.addEventListener('click', resetAllFilters);
         }
+    }
+
+    /**
+     * Restore the dashboard feed and control values to their defaults.
+     */
+    function resetAllFilters() {
+        currentSearchTerm = '';
+        currentCategory = '';
+        currentSort = 'date-desc';
+        document.getElementById('searchInput').value = '';
+        document.getElementById('categoryFilter').value = '';
+        document.getElementById('sortBy').value = 'date-desc';
+        renderNews();
+    }
+
+    /**
+     * Re-render dynamic content after the selected interface language changes.
+     */
+    function handleLanguageChange() {
+        if (latestUpdate) updateStats({ lastUpdated: latestUpdate });
+        renderNews();
     }
 
     /**
@@ -82,12 +97,13 @@ const App = (() => {
         try {
             const data = await API.fetchNews();
             allNews = data.articles || [];
+            latestUpdate = data.lastUpdated;
             updateStats(data);
             renderNews();
         } catch (error) {
             console.error('Failed to load news:', error);
             updateResultsCount(null, true);
-            showEmptyState('We could not load the briefing feed. Please refresh to try again.');
+            showEmptyState(t('loadErrorMessage'));
         } finally {
             if (loading) loading.style.display = 'none';
             if (newsContainer) newsContainer.setAttribute('aria-busy', 'false');
@@ -99,28 +115,20 @@ const App = (() => {
     }
 
     /**
-     * Update statistics display.
+     * Update overview statistics when those elements are present.
      */
     function updateStats(data) {
         const totalNewsEl = document.getElementById('totalNews');
         const lastUpdatedEl = document.getElementById('lastUpdated');
         const weekNewsEl = document.getElementById('weekNews');
 
-        if (totalNewsEl) {
-            totalNewsEl.textContent = allNews.length;
-        }
-
-        if (lastUpdatedEl) {
-            lastUpdatedEl.textContent = API.formatLastUpdated(data.lastUpdated);
-        }
-
-        if (weekNewsEl) {
-            weekNewsEl.textContent = API.getWeekNews(allNews).length;
-        }
+        if (totalNewsEl) totalNewsEl.textContent = allNews.length;
+        if (lastUpdatedEl && data.lastUpdated) lastUpdatedEl.textContent = API.formatLastUpdated(data.lastUpdated);
+        if (weekNewsEl) weekNewsEl.textContent = API.getWeekNews(allNews).length;
     }
 
     /**
-     * Render news articles based on the current filters.
+     * Render news articles based on the active filters and sort order.
      */
     function renderNews() {
         const filteredNews = API.sortNews(
@@ -139,20 +147,18 @@ const App = (() => {
         }
 
         if (emptyState) emptyState.style.display = 'none';
-        if (newsContainer) {
-            newsContainer.innerHTML = filteredNews.map(createNewsCard).join('');
-        }
+        if (newsContainer) newsContainer.innerHTML = filteredNews.map(createNewsCard).join('');
     }
 
     /**
-     * Create a card for one article.
+     * Create a localized card for one source article.
      */
     function createNewsCard(article) {
         const date = API.formatDate(article.date);
-        const category = escapeHtml(article.category || 'Update');
+        const category = translateCategory(article.category || 'Update');
         const categoryClass = getCategoryClass(article.category);
         const title = escapeHtml(article.title || 'Untitled briefing');
-        const source = escapeHtml(article.source || 'EU AI News Desk');
+        const source = escapeHtml(article.source || 'Euro AI Briefing');
         const description = escapeHtml(article.description || 'No description is available for this briefing.');
         const url = escapeHtml(article.url || '#');
         const tags = Array.isArray(article.tags) ? article.tags : [];
@@ -161,8 +167,8 @@ const App = (() => {
             <article class="news-card news-card--${categoryClass}">
                 <div class="news-card-header">
                     <div class="news-card-top">
-                        <span class="news-category">${category}</span>
-                        <span class="news-reading-time">BRIEFING</span>
+                        <span class="news-category">${escapeHtml(category)}</span>
+                        <span class="news-reading-time">${escapeHtml(t('briefing')).toUpperCase()}</span>
                     </div>
                     <h3 class="news-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
                     <div class="news-meta">
@@ -180,7 +186,7 @@ const App = (() => {
                 <div class="news-footer">
                     <div class="news-tags">${tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join('')}</div>
                     <a href="${url}" target="_blank" rel="noopener noreferrer" class="read-more-btn">
-                        Read briefing<span class="sr-only">: ${title}</span>
+                        ${escapeHtml(t('readBriefing'))}<span class="sr-only">: ${title}</span>
                     </a>
                 </div>
             </article>
@@ -188,23 +194,23 @@ const App = (() => {
     }
 
     /**
-     * Update the visible article count.
+     * Update the visible article count in the selected interface language.
      */
     function updateResultsCount(count, hasError = false) {
         const resultsCount = document.getElementById('resultsCount');
         if (!resultsCount) return;
 
         if (hasError) {
-            resultsCount.textContent = 'Feed unavailable';
+            resultsCount.textContent = t('feedUnavailable');
             return;
         }
 
-        const label = count === 1 ? 'briefing' : 'briefings';
-        resultsCount.textContent = `${count} ${label} in view`;
+        const briefingKey = count === 1 ? 'briefing' : 'briefings';
+        resultsCount.textContent = `${count} ${t(briefingKey)} ${t('inView')}`;
     }
 
     /**
-     * Display the empty state with a useful message.
+     * Display the empty state with a localized message.
      */
     function showEmptyState(message) {
         const newsContainer = document.getElementById('newsContainer');
@@ -214,6 +220,14 @@ const App = (() => {
         if (newsContainer) newsContainer.innerHTML = '';
         if (emptyMessage && message) emptyMessage.textContent = message;
         if (emptyState) emptyState.style.display = 'block';
+    }
+
+    function translateCategory(category) {
+        return typeof I18n !== 'undefined' ? I18n.translateCategory(category) : category;
+    }
+
+    function t(key) {
+        return typeof I18n !== 'undefined' ? I18n.t(key) : key;
     }
 
     /**
@@ -241,7 +255,6 @@ const App = (() => {
     return { init };
 })();
 
-// Initialize the app when the DOM is ready.
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', App.init);
 } else {
