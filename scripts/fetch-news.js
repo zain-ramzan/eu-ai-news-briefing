@@ -260,8 +260,14 @@ async function saveNewsData(newsData) {
 async function main() {
   console.log('EU AI Briefing — verifying official source pages...');
   const existingNews = await loadExistingNews();
-  const verified = await Promise.all(OFFICIAL_SOURCE_PAGES.map(verifyAndBuildArticle));
-  const articles = preservePublishedFields(dedupeAndSort(verified), existingNews.articles || []);
+  const verified = (await Promise.all(OFFICIAL_SOURCE_PAGES.map(verifyAndBuildArticle))).filter(Boolean);
+
+  // Preserve existing articles that were added outside the hardcoded source list
+  // (e.g. by the autonomous daily briefing agent) as long as they are still recent.
+  const verifiedUrls = new Set(verified.map(a => a.url));
+  const existingKept = (existingNews.articles || []).filter(a => !verifiedUrls.has(a.url));
+
+  const articles = preservePublishedFields(dedupeAndSort([...verified, ...existingKept]), existingNews.articles || []);
 
   if (!articles.length) {
     throw new Error('No official source pages were available; preserving existing data/news.json.');
