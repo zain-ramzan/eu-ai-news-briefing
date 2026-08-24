@@ -1,7 +1,736 @@
 {
-  "lastUpdated": "2026-08-23T06:59:53.912Z",
+  "lastUpdated": "2026-08-24T06:02:11Z",
   "sourcePolicy": "Verified official EU pages only. Pages that are unavailable, missing a title, or older than the retention window are not published.",
   "articles": [
+    {
+      "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+      "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+      "content": "The arrangement illustrates a tension at the centre of Europe’s technology-sovereignty strategy: European AI companies need large-scale computing, but the available supply chain remains globally dependent. For policymakers and businesses, the development reinforces the importance of the EU’s planned cloud, AI and gigafactory measures.",
+      "source": "South China Morning Post",
+      "category": "Industry",
+      "date": "2026-08-21T00:00:00Z",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai",
+      "tags": [
+        "Mistral AI",
+        "Tech Sovereignty",
+        "China",
+        "Compute Capacity"
+      ],
+      "id": "eu-ai-6d3317f97a009266",
+      "imageUrl": null,
+      "videoUrl": null,
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-24T06:02:11Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "de": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "es": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "it": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "pt": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "nl": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "pl": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "ro": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "sv": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "da": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "fi": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "cs": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "el": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "hu": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "bg": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "hr": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "sk": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "sl": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "lt": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "lv": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "et": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        },
+        "ga": {
+          "title": "Mistral AI partnership with China’s Z.ai raises questions for EU tech sovereignty",
+          "description": "A reported partnership between French AI company Mistral AI and Chinese infrastructure provider Z.ai highlights the difficulty European firms face in securing sufficient domestic compute capacity.",
+          "tags": [
+            "Mistral AI",
+            "Tech Sovereignty",
+            "China",
+            "Compute Capacity"
+          ]
+        }
+      }
+    },
+    {
+      "title": "European compliance startups emerge as AI Act enforcement begins",
+      "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+      "content": "The market is responding to the practical compliance workload created by the AI Act, including system inventories, risk classification and disclosure processes. The development matters to European companies that need operational support as transparency requirements apply and later high-risk obligations approach.",
+      "source": "EU-Startups",
+      "category": "Industry",
+      "date": "2026-08-20T00:00:00Z",
+      "url": "https://www.eu-startups.com/2026/08/10-european-compliance-startups-to-watch-as-ai-act-enforcement-kicks-in/",
+      "tags": [
+        "AI Compliance",
+        "Startups",
+        "AI Act",
+        "RegTech"
+      ],
+      "id": "eu-ai-491d138fb1b4579a",
+      "imageUrl": null,
+      "videoUrl": null,
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-24T06:02:11Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "de": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "es": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "it": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "pt": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "nl": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "pl": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "ro": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "sv": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "da": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "fi": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "cs": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "el": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "hu": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "bg": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "hr": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "sk": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "sl": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "lt": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "lv": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "et": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        },
+        "ga": {
+          "title": "European compliance startups emerge as AI Act enforcement begins",
+          "description": "European regulatory-technology startups are developing tools for AI documentation, risk assessment and transparency as enforcement of the EU AI Act enters a new phase.",
+          "tags": [
+            "AI Compliance",
+            "Startups",
+            "AI Act",
+            "RegTech"
+          ]
+        }
+      }
+    },
+    {
+      "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+      "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+      "content": "The ECB President linked Europe’s weakening growth model to the need for stronger competitiveness in AI. Her remarks put capital-market integration and access to finance alongside infrastructure and skills as practical conditions for European AI companies to grow.",
+      "source": "Brussels Signal",
+      "category": "Policy",
+      "date": "2026-08-19T00:00:00Z",
+      "url": "https://brusselssignal.eu/2026/08/lagarde-says-europe-cannot-afford-to-miss-ai-as-its-growth-model-erodes/",
+      "tags": [
+        "ECB",
+        "AI Strategy",
+        "Capital Markets",
+        "Competitiveness"
+      ],
+      "id": "eu-ai-d8d3963acfe0a642",
+      "imageUrl": null,
+      "videoUrl": null,
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-24T06:02:11Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "de": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "es": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "it": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "pt": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "nl": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "pl": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "ro": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "sv": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "da": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "fi": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "cs": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "el": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "hu": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "bg": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "hr": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "sk": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "sl": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "lt": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "lv": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "et": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        },
+        "ga": {
+          "title": "ECB President Lagarde warns Europe cannot afford to miss the AI transition",
+          "description": "Christine Lagarde warned that fragmented European markets and finance are limiting the ability of European firms to scale in artificial intelligence.",
+          "tags": [
+            "ECB",
+            "AI Strategy",
+            "Capital Markets",
+            "Competitiveness"
+          ]
+        }
+      }
+    },
     {
       "id": "eu-ai-4a9d7b6a5f2bfd7b",
       "title": "European AI Office expands enforcement team ahead of autumn deadline",
