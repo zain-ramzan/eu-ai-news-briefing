@@ -1,7 +1,516 @@
 {
-  "lastUpdated": "2026-08-27T17:37:02.932Z",
+  "lastUpdated": "2026-08-28T06:04:10Z",
   "sourcePolicy": "Verified official EU pages only. Pages that are unavailable, missing a title, or older than the retention window are not published.",
   "articles": [
+    {
+      "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+      "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+      "content": "The prototype orchestrates specialised components for query classification, code generation, document retrieval and synthesis across integrated datasets with global coverage. User testing found it useful as a first-pass analytical and briefing tool, while identifying limitations with complex, time-sensitive and multi-step queries; the report prioritises further work on usability, analytical robustness and data coverage.",
+      "source": "European Commission Joint Research Centre",
+      "category": "Agents",
+      "date": "2026-08-27T00:00:00Z",
+      "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC147669",
+      "tags": [
+        "JRC",
+        "AI Agents",
+        "Conflict Analysis",
+        "Crisis Data"
+      ],
+      "id": "eu-ai-9567a185017cd69f",
+      "imageUrl": null,
+      "videoUrl": null,
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-28T06:04:10Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "de": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "es": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "it": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "pt": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "nl": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "pl": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "ro": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "sv": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "da": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "fi": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "cs": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "el": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "hu": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "bg": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "hr": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "sk": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "sl": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "lt": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "lv": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "et": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        },
+        "ga": {
+          "title": "JRC publishes multi-agent AI assistant for conflict and crisis analysis",
+          "description": "The European Commission’s Joint Research Centre has published a report on the CoRA-AI Assistant, a multi-agent system using large language models to help analysts work with conflict and crisis data.",
+          "tags": [
+            "JRC",
+            "AI Agents",
+            "Conflict Analysis",
+            "Crisis Data"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+      "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+      "content": "The 27 August review describes applications including AI-based ecosystem monitoring, deep-learning wastewater analysis, leak detection and autonomous maritime operations. The examples show how emerging technology is being applied to reduce pollution, improve resource efficiency and make activity at sea safer and more data-driven.",
+      "source": "EU Blue Economy Observatory",
+      "category": "Robotics",
+      "date": "2026-08-27T00:00:00Z",
+      "url": "https://blue-economy-observatory.ec.europa.eu/news/ten-european-startups-reshaping-blue-economy-2026-08-27_en",
+      "tags": [
+        "Blue Economy",
+        "AI",
+        "Robotics",
+        "Maritime Technology",
+        "Startups"
+      ],
+      "id": "eu-ai-fc73ba664285ce70",
+      "imageUrl": null,
+      "videoUrl": null,
+      "readMinutes": 1,
+      "verifiedAt": "2026-08-28T06:04:10Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "de": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "es": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "it": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "pt": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "nl": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "pl": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "ro": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "sv": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "da": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "fi": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "cs": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "el": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "hu": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "bg": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "hr": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "sk": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "sl": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "lt": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "lv": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "et": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        },
+        "ga": {
+          "title": "Commission highlights AI and robotics startups reshaping Europe’s blue economy",
+          "description": "The EU Blue Economy Observatory has profiled ten European startups applying AI, robotics and other technologies to marine operations, water treatment, environmental monitoring and shipping.",
+          "tags": [
+            "Blue Economy",
+            "AI",
+            "Robotics",
+            "Maritime Technology",
+            "Startups"
+          ]
+        }
+      }
+    },
     {
       "title": "AI adoption and the productivity promise: what workers report",
       "description": "A new European Central Bank blog post reports that the use of artificial intelligence at work has doubled over the last two years and examines what workers say about its productivity effects.",
