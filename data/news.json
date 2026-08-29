@@ -1,1 +1,2338 @@
-{"lastUpdated":"2026-08-29T06:00:00Z","sourcePolicy":"Official EU institutions, national sources and quality European tech journalism. Stories without a clear EU or European-country angle are excluded. Retention window is 120 days.","articles":[{"id":"eu-ai-5d722768f6cef9c6","title":"Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent","description":"Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.","content":"Founded in Maastricht in 2024, Clementine positions itself as an AI hearing-activation platform. Its agent answers clinic inquiries around the clock, educates prospective patients and guides them into care. The seed funding will deepen the product and expand partnerships with hearing clinics and related healthcare organisations in Europe and North America.","source":"EU-Startups","category":"Business","date":"2026-08-28T12:00:00Z","url":"https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/","imageUrl":null,"videoUrl":null,"tags":["Clementine","AI Agents","HealthTech","Netherlands","Funding"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"nl"},{"id":"eu-ai-f4380c9fafee5a6e","title":"Paris-based Hugging Face launches $399 open-source Microduck robot","description":"Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.","content":"The 25-centimetre robot can walk, pick up objects with its beak, recover from falls and even roller-skate. It ships with camera, lidar and motion sensors, and its SDK and training stack are open source. Pre-orders topped $2.6 million in the first 24 hours. The product continues Hugging Face’s push from models into physical AI after acquiring Pollen Robotics.","source":"TechCrunch","category":"Technology","date":"2026-08-27T15:00:00Z","url":"https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/","imageUrl":null,"videoUrl":null,"tags":["Hugging Face","Pollen Robotics","Robotics","Physical AI","France"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"fr"},{"id":"eu-ai-6784974d909b53ba","title":"German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence","description":"PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.","content":"Helsing, Quantum Systems and Stark Defence together raised more than €3 billion earlier in the year, with Neura Robotics adding more than €1 billion in July. Investors expect a new annual record. Unlike the pandemic-era consumer boom, the 2026 surge is concentrated in companies already established in industrial, defence and AI markets.","source":"Handelsblatt","category":"Business","date":"2026-08-27T04:39:00Z","url":"https://www.handelsblatt.com/unternehmen/start-ups/technologie-deutsche-start-ups-sammeln-rekordsumme-ein/100247773.html","imageUrl":null,"videoUrl":null,"tags":["Germany","Funding","AI","Robotics","Defence"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"de"},{"id":"eu-ai-6c47a52f32428fdd","title":"Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion","description":"Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.","content":"Poland signed the EuroHPC joint procurement agreement and adopted a resolution guaranteeing access, with an initial national commitment of more than PLN 400 million to buy compute. Public support for a Polish site could reach €1 billion. Officials describe a mid-scale facility of at least 75,000 AI accelerators. Demand from member states already exceeds the seven sites the EU programme envisages.","source":"Bankier.pl","category":"Policy","date":"2026-08-26T07:27:00Z","url":"https://www.bankier.pl/wiadomosc/Specustawa-przyspieszy-budowe-gigafabryki-AI-Polska-walczy-o-inwestycje-za-10-miliardow-9187146.html","imageUrl":null,"videoUrl":null,"tags":["AI Gigafactory","Poland","EuroHPC","Compute","Tech Sovereignty"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"pl"},{"id":"eu-ai-4d4dbfed93f0e675","title":"Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium","description":"SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.","content":"El Economista reports that Germany, France, Italy, Portugal and Poland are backing bids with public money or offtake commitments but have not taken controlling equity. Spain’s structure makes the state the largest shareholder. France has pledged about €100 million as a compute customer rather than an owner. The contrast highlights different national approaches to EU compute sovereignty.","source":"El Economista","category":"Business","date":"2026-08-26T06:00:00Z","url":"https://www.eleconomista.es/infraestructuras-servicios/noticias/14009907/08/26/espana-es-el-unico-pais-europeo-que-opta-a-una-gigafactoria-bajo-control-estatal.html","imageUrl":null,"videoUrl":null,"tags":["AI Gigafactory","Spain","SETT","Tech Sovereignty","Compute"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"es"},{"id":"eu-ai-c97572735710bfcf","title":"UK startup Callosum raises $100 million seed to run AI across mixed chips and models","description":"Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.","content":"Plural, DCVC and the UK Sovereign AI programme also participated. Callosum argues that real-world problems need mixed models and hardware rather than a single model on identical GPUs. The company has partnered with Cerebras and previously raised $10.25 million when it left stealth. The round is one of Europe’s largest AI seed financings of 2026.","source":"Tech.eu","category":"Business","date":"2026-08-20T11:00:00Z","url":"https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/","imageUrl":null,"videoUrl":null,"tags":["Callosum","AI Infrastructure","Funding","United Kingdom","Compute"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"gb"},{"id":"eu-ai-0ad72e9f5c165431","title":"CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28","description":"A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.","content":"Regulation 2026/1744 deferred Annex III high-risk rules by 16 months and product-embedded high-risk AI to August 2028. What remains in force is the duty to tell people when they interact with AI and to mark synthetic media. The authors say the delay preserves some competitiveness but weakens the EU’s claim to set the first fully operational high-risk AI regime.","source":"CEPR VoxEU","category":"Regulation","date":"2026-08-14T00:00:00Z","url":"https://cepr.org/voxeu/columns/europes-regulatory-double-bind","imageUrl":null,"videoUrl":null,"tags":["AI Act","AI Omnibus","Transparency","High-risk AI"],"readMinutes":2,"verifiedAt":"2026-08-29T06:00:00Z","sourceLanguage":"en","region":"eu"}]}
+{
+  "lastUpdated": "2026-08-29T06:03:00Z",
+  "sourcePolicy": "Official EU institutions, national sources and quality European tech journalism. Stories without a clear EU or European-country angle are excluded. Retention window is 120 days.",
+  "articles": [
+    {
+      "id": "eu-ai-5d722768f6cef9c6",
+      "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+      "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+      "content": "Founded in Maastricht in 2024, Clementine positions itself as an AI hearing-activation platform. Its agent answers clinic inquiries around the clock, educates prospective patients and guides them into care. The seed funding will deepen the product and expand partnerships with hearing clinics and related healthcare organisations in Europe and North America.",
+      "source": "EU-Startups",
+      "category": "Business",
+      "date": "2026-08-28T12:00:00Z",
+      "url": "https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Clementine",
+        "AI Agents",
+        "HealthTech",
+        "Netherlands",
+        "Funding"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "nl",
+      "translations": {
+        "fr": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "de": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "es": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "it": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "pt": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "nl": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "pl": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "ro": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "sv": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "da": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "fi": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "cs": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "el": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "hu": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "bg": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "hr": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "sk": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "sl": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "lt": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "lv": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "et": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        },
+        "ga": {
+          "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
+          "description": "Dutch startup Clementine closed a €1.7 million seed round led by Healthy.Capital to expand Matthew, an AI agent that helps hearing clinics convert inquiries into patients.",
+          "tags": [
+            "Clementine",
+            "AI Agents",
+            "HealthTech",
+            "Netherlands",
+            "Funding"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-f4380c9fafee5a6e",
+      "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+      "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+      "content": "The 25-centimetre robot can walk, pick up objects with its beak, recover from falls and even roller-skate. It ships with camera, lidar and motion sensors, and its SDK and training stack are open source. Pre-orders topped $2.6 million in the first 24 hours. The product continues Hugging Face’s push from models into physical AI after acquiring Pollen Robotics.",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "date": "2026-08-27T15:00:00Z",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Hugging Face",
+        "Pollen Robotics",
+        "Robotics",
+        "Physical AI",
+        "France"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "fr",
+      "translations": {
+        "fr": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "de": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "es": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "it": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "pt": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "nl": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "pl": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "ro": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "sv": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "da": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "fi": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "cs": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "el": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "hu": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "bg": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "hr": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "sk": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "sl": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "lt": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "lv": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "et": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        },
+        "ga": {
+          "title": "Paris-based Hugging Face launches $399 open-source Microduck robot",
+          "description": "Hugging Face and Bordeaux subsidiary Pollen Robotics unveiled Microduck, a $399 open-source robot that developers can train with reinforcement learning.",
+          "tags": [
+            "Hugging Face",
+            "Pollen Robotics",
+            "Robotics",
+            "Physical AI",
+            "France"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-e8e7441ac397b526",
+      "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+      "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+      "content": "The Model Hardware Standard gives agents a common interface for equipment such as microscopes, liquid handlers and robotic arms, allowing multiple instruments to be coordinated in parallel. The proposal extends the interoperability idea behind software tool protocols into physical-world systems, while raising new questions about permissions, safety and auditability.",
+      "source": "Anthropic",
+      "category": "Agents",
+      "date": "2026-08-27T15:00:00Z",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Agents",
+        "Model Hardware Standard",
+        "Robotics",
+        "Automation"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:03:00Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "de": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "es": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "it": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "pt": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "nl": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "pl": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "ro": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "sv": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "da": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "fi": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "cs": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "el": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "hu": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "bg": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "hr": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "sk": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "sl": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "lt": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "lv": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "et": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        },
+        "ga": {
+          "title": "Anthropic previews Model Hardware Standard for AI-controlled lab equipment",
+          "description": "Anthropic has opened a research preview of a standard that lets AI agents connect to and operate compatible laboratory and manufacturing instruments.",
+          "tags": [
+            "AI Agents",
+            "Model Hardware Standard",
+            "Robotics",
+            "Automation"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-20d4159890afc007",
+      "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+      "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+      "content": "ROCm.AI brings together AI-assisted development, performance tooling and the broader ROCm software stack. The release is part of AMD’s effort to make its accelerators easier to use for production AI and to narrow the developer-experience gap with incumbent GPU platforms.",
+      "source": "AMD",
+      "category": "Technology",
+      "date": "2026-08-27T13:00:00Z",
+      "url": "https://newsroom.amd.com/news/rocm-10-software-ai-native-developer-experiences/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "ROCm",
+        "AMD",
+        "AI Infrastructure",
+        "Developer Tools"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:03:00Z",
+      "sourceLanguage": "en",
+      "translations": {
+        "fr": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "de": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "es": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "it": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "pt": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "nl": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "pl": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "ro": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "sv": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "da": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "fi": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "cs": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "el": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "hu": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "bg": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "hr": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "sk": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "sl": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "lt": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "lv": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "et": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        },
+        "ga": {
+          "title": "AMD brings ROCm 10 and ROCm.AI developer experiences to its platforms",
+          "description": "AMD has announced ROCm 10 software and an AI-native developer experience intended to simplify building and optimising AI workloads on AMD hardware.",
+          "tags": [
+            "ROCm",
+            "AMD",
+            "AI Infrastructure",
+            "Developer Tools"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-6784974d909b53ba",
+      "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+      "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+      "content": "Helsing, Quantum Systems and Stark Defence together raised more than €3 billion earlier in the year, with Neura Robotics adding more than €1 billion in July. Investors expect a new annual record. Unlike the pandemic-era consumer boom, the 2026 surge is concentrated in companies already established in industrial, defence and AI markets.",
+      "source": "Handelsblatt",
+      "category": "Business",
+      "date": "2026-08-27T04:39:00Z",
+      "url": "https://www.handelsblatt.com/unternehmen/start-ups/technologie-deutsche-start-ups-sammeln-rekordsumme-ein/100247773.html",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Germany",
+        "Funding",
+        "AI",
+        "Robotics",
+        "Defence"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "de",
+      "translations": {
+        "fr": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "de": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "es": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "it": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "pt": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "nl": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "pl": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "ro": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "sv": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "da": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "fi": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "cs": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "el": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "hu": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "bg": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "hr": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "sk": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "sl": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "lt": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "lv": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "et": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        },
+        "ga": {
+          "title": "German startups raise a record €9.36 billion as capital shifts to AI, robotics and defence",
+          "description": "PitchBook data reported by Handelsblatt show German startups raised €9.36 billion from January to July 2026, already above the 2022 full-year pace, led by AI, robotics and defence firms.",
+          "tags": [
+            "Germany",
+            "Funding",
+            "AI",
+            "Robotics",
+            "Defence"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-6c47a52f32428fdd",
+      "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+      "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+      "content": "Poland signed the EuroHPC joint procurement agreement and adopted a resolution guaranteeing access, with an initial national commitment of more than PLN 400 million to buy compute. Public support for a Polish site could reach €1 billion. Officials describe a mid-scale facility of at least 75,000 AI accelerators. Demand from member states already exceeds the seven sites the EU programme envisages.",
+      "source": "Bankier.pl",
+      "category": "Policy",
+      "date": "2026-08-26T07:27:00Z",
+      "url": "https://www.bankier.pl/wiadomosc/Specustawa-przyspieszy-budowe-gigafabryki-AI-Polska-walczy-o-inwestycje-za-10-miliardow-9187146.html",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Gigafactory",
+        "Poland",
+        "EuroHPC",
+        "Compute",
+        "Tech Sovereignty"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "pl",
+      "translations": {
+        "fr": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "de": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "es": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "it": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "pt": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "nl": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "pl": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "ro": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "sv": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "da": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "fi": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "cs": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "el": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "hu": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "bg": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "hr": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "sk": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "sl": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "lt": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "lv": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "et": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        },
+        "ga": {
+          "title": "Poland prepares a special law to speed an AI Gigafactory bid of up to €10 billion",
+          "description": "Warsaw is considering fast-track legislation and has already pledged compute offtake as it competes for a mid-sized EU AI Gigafactory.",
+          "tags": [
+            "AI Gigafactory",
+            "Poland",
+            "EuroHPC",
+            "Compute",
+            "Tech Sovereignty"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-4d4dbfed93f0e675",
+      "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+      "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+      "content": "El Economista reports that Germany, France, Italy, Portugal and Poland are backing bids with public money or offtake commitments but have not taken controlling equity. Spain’s structure makes the state the largest shareholder. France has pledged about €100 million as a compute customer rather than an owner. The contrast highlights different national approaches to EU compute sovereignty.",
+      "source": "El Economista",
+      "category": "Business",
+      "date": "2026-08-26T06:00:00Z",
+      "url": "https://www.eleconomista.es/infraestructuras-servicios/noticias/14009907/08/26/espana-es-el-unico-pais-europeo-que-opta-a-una-gigafactoria-bajo-control-estatal.html",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Gigafactory",
+        "Spain",
+        "SETT",
+        "Tech Sovereignty",
+        "Compute"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "es",
+      "translations": {
+        "fr": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "de": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "es": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "it": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "pt": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "nl": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "pl": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "ro": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "sv": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "da": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "fi": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "cs": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "el": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "hu": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "bg": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "hr": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "sk": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "sl": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "lt": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "lv": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "et": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        },
+        "ga": {
+          "title": "Spain is the only EU bidder putting the state in control of an AI Gigafactory consortium",
+          "description": "SETT, Spain’s public digital-transformation company, holds 47.99% of the consortium bidding for an EU AI Gigafactory, plus a 1% Catalan government stake.",
+          "tags": [
+            "AI Gigafactory",
+            "Spain",
+            "SETT",
+            "Tech Sovereignty",
+            "Compute"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-c97572735710bfcf",
+      "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+      "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+      "content": "Plural, DCVC and the UK Sovereign AI programme also participated. Callosum argues that real-world problems need mixed models and hardware rather than a single model on identical GPUs. The company has partnered with Cerebras and previously raised $10.25 million when it left stealth. The round is one of Europe’s largest AI seed financings of 2026.",
+      "source": "Tech.eu",
+      "category": "Business",
+      "date": "2026-08-20T11:00:00Z",
+      "url": "https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Callosum",
+        "AI Infrastructure",
+        "Funding",
+        "United Kingdom",
+        "Compute"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "gb",
+      "translations": {
+        "fr": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "de": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "es": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "it": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "pt": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "nl": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "pl": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "ro": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "sv": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "da": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "fi": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "cs": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "el": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "hu": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "bg": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "hr": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "sk": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "sl": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "lt": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "lv": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "et": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        },
+        "ga": {
+          "title": "UK startup Callosum raises $100 million seed to run AI across mixed chips and models",
+          "description": "Cambridge-founded Callosum closed a $100 million seed led by Atomico to build software that runs AI workloads across heterogeneous chips and models.",
+          "tags": [
+            "Callosum",
+            "AI Infrastructure",
+            "Funding",
+            "United Kingdom",
+            "Compute"
+          ]
+        }
+      }
+    },
+    {
+      "id": "eu-ai-0ad72e9f5c165431",
+      "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+      "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+      "content": "Regulation 2026/1744 deferred Annex III high-risk rules by 16 months and product-embedded high-risk AI to August 2028. What remains in force is the duty to tell people when they interact with AI and to mark synthetic media. The authors say the delay preserves some competitiveness but weakens the EU’s claim to set the first fully operational high-risk AI regime.",
+      "source": "World Commerce Review (CEPR analysis)",
+      "category": "Regulation",
+      "date": "2026-08-14T00:00:00Z",
+      "url": "https://worldcommercereview.com/europes-regulatory-double-bind/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "AI Act",
+        "AI Omnibus",
+        "Transparency",
+        "High-risk AI"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-29T06:00:00Z",
+      "sourceLanguage": "en",
+      "region": "eu",
+      "translations": {
+        "fr": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "de": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "es": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "it": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "pt": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "nl": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "pl": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "ro": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "sv": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "da": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "fi": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "cs": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "el": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "hu": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "bg": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "hr": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "sk": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "sl": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "lt": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "lv": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "et": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        },
+        "ga": {
+          "title": "CEPR analysis: AI Act transparency applies while high-risk rules slip to 2027–28",
+          "description": "A VoxEU column argues that the Digital Omnibus left Europe in a double bind: Article 50 transparency took effect on 2 August 2026, but standalone high-risk obligations move to December 2027.",
+          "tags": [
+            "AI Act",
+            "AI Omnibus",
+            "Transparency",
+            "High-risk AI"
+          ]
+        }
+      }
+    }
+  ]
+}
