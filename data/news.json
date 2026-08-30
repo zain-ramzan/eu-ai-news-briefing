@@ -1,7 +1,274 @@
 {
-  "lastUpdated": "2026-08-29T06:03:00Z",
+  "lastUpdated": "2026-08-30T06:01:00Z",
   "sourcePolicy": "Official EU institutions, national sources and quality European tech journalism. Stories without a clear EU or European-country angle are excluded. Retention window is 120 days.",
   "articles": [
+    {
+      "id": "eu-ai-aa17eb89d5d9d40e",
+      "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+      "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+      "content": "The report captures investors, founders and operators debating control and agency as AI becomes embedded in products, companies and public life. For Europe, that discussion connects technical capability with dependence on foreign platforms, governance choices and the practical question of who remains accountable when AI systems act.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "date": "2026-08-29T17:51:00Z",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": [
+        "Europe",
+        "AI Governance",
+        "AI Industry",
+        "TechBBQ",
+        "Digital Sovereignty"
+      ],
+      "readMinutes": 2,
+      "verifiedAt": "2026-08-30T06:01:00Z",
+      "sourceLanguage": "en",
+      "region": "eu",
+      "translations": {
+        "fr": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "de": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "es": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "it": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "pt": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "nl": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "pl": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "ro": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "sv": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "da": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "fi": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "cs": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "el": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "hu": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "bg": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "hr": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "sk": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "sl": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "lt": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "lv": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "et": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        },
+        "ga": {
+          "title": "At TechBBQ, Europe's AI conversations kept coming back to who's actually in control",
+          "description": "TechCrunch's coverage of Copenhagen's TechBBQ conference highlights a central European AI question: who controls the models, infrastructure and decisions shaping the region's AI future?",
+          "tags": [
+            "Europe",
+            "AI Governance",
+            "AI Industry",
+            "TechBBQ",
+            "Digital Sovereignty"
+          ]
+        }
+      }
+    },
     {
       "id": "eu-ai-5d722768f6cef9c6",
       "title": "Maastricht’s Clementine raises €1.7M to scale its AI hearing-care agent",
