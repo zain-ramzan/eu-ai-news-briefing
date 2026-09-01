@@ -1,1 +1,23 @@
-see-file
+{
+  "lastUpdated": "2026-09-01T06:20:00Z",
+  "sourcePolicy": "Official EU institutions, national sources and quality European tech journalism. Stories without a clear EU or European-country angle are excluded. Retention window is 120 days.",
+  "articles": [
+    {
+      "title": "EuroHPC signs \u20ac387.8M contract for LUMI-AI supercomputer in Finland",
+      "description": "EuroHPC JU awarded French vendor Bull a \u20ac387.8 million contract to deploy LUMI-AI in Kajaani, the sixth AI Factory machine, aiming for a tenfold rise in AI capacity versus current LUMI.",
+      "content": "The system will sit at CSC's Kajaani data centre and serve the LUMI AI Factory consortium of Finland, Czechia, Denmark, Estonia, Norway and Poland. It will use AMD Instinct MI430X GPUs and 6th-gen EPYC CPUs, with installation planned for the second half of 2027. EuroHPC and the consortium split the cost 50/50. EuroHPC says the machine is the sixth next-generation AI Factory procurement and is aimed first at European startups and SMEs.",
+      "source": "EuroHPC Joint Undertaking",
+      "category": "Technology",
+      "date": "2026-08-31T12:00:00Z",
+      "url": "https://www.eurohpc-ju.europa.eu/eurohpc-ju-signs-contract-deploy-lumi-ai-supercomputer-2026-08-31_en",
+      "imageUrl": null,
+      "videoUrl": null,
+      "tags": ["EuroHPC", "LUMI-AI", "Compute", "Finland", "AI Factory"],
+      "readMinutes": 2,
+      "verifiedAt": "2026-09-01T06:20:00Z",
+      "sourceLanguage": "en",
+      "region": "fi",
+      "id": "eu-ai-8235c21b18324a81"
+    }
+  ]
+}
