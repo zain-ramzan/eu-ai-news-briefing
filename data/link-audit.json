@@ -1,5 +1,104 @@
 [
   {
+    "id": "eu-ai-3f939d8e154f92c1",
+    "articleTitle": "Survey shows Europeans are more pragmatic about AI than their prophets, with lower alarm than Americans",
+    "sourceUrl": "https://www.socialeurope.eu/europeans-are-more-pragmatic-about-ai-than-their-prophets",
+    "status": 200,
+    "finalUrl": "https://www.socialeurope.eu/europeans-are-more-pragmatic-about-ai-than-their-prophets",
+    "title": "Europeans Are More Pragmatic About AI Than Their Prophets",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-a5d0a2cd144ca977",
+    "articleTitle": "US foreign-made robotics rules create knock-on effects for European automation market",
+    "sourceUrl": "https://logisticsbusiness.com/materials-handling/robotic-picking/u-s-foreign-made-robotics-rules-impact-europe/",
+    "status": 200,
+    "finalUrl": "https://logisticsbusiness.com/materials-handling/robotic-picking/u-s-foreign-made-robotics-rules-impact-europe/",
+    "title": "U.S. Foreign-made Robotics Rules Impact Europe",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-aec30366dac971d4",
+    "articleTitle": "Germany inaugurates JION ion-trap quantum computer linked to Europe's top supercomputer at Jülich",
+    "sourceUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
+    "status": 200,
+    "finalUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
+    "title": "HPCwire - Since 1987 &#8211; Covering the Fastest Computers in the World and the People Who Run Them",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-cac1ba53dbb44683",
+    "articleTitle": "Open Markets Institute analyses Europe's tech sovereignty efforts to reduce dependence on US corporations",
+    "sourceUrl": "https://www.openmarketsinstitute.org/publications/the-corner-newsletter-europes-tech-sovereignty-efforts",
+    "status": 200,
+    "finalUrl": "https://www.openmarketsinstitute.org/publications/the-corner-newsletter-europes-tech-sovereignty-efforts",
+    "title": "The Corner Newsletter: Europe’s Tech Sovereignty Efforts (September 8th, 2026)",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3cb67796a89d361c",
+    "articleTitle": "Deutsche Bank report maps AI-powered transformation of European technology, media and telecoms sectors",
+    "sourceUrl": "https://www.db.com/news/detail/20260918-the-new-tmt-playbook-navigating-disruption-and-seizing-opportunity-in-an-ai-powered-world?language_id=1",
+    "status": 200,
+    "finalUrl": "https://www.db.com/news/detail/20260918-the-new-tmt-playbook-navigating-disruption-and-seizing-opportunity-in-an-ai-powered-world?language_id=1",
+    "title": "The New TMT Playbook: Navigating disruption and seizing opportunity in an AI-powered world",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d98a5078976427cb",
+    "articleTitle": "CEPS experts call on EU to adopt unified strategy for AI risks from discrimination to loss of control",
+    "sourceUrl": "https://www.ceps.eu/europe-needs-a-more-strategic-approach-for-tackling-ai-risks/",
+    "status": 200,
+    "finalUrl": "https://www.ceps.eu/europe-needs-a-more-strategic-approach-for-tackling-ai-risks/",
+    "title": "Europe needs a more strategic approach for tackling AI risks",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-8f1bb6bc8bb0ff87",
+    "articleTitle": "OpenAI claims AI has solved the Navier-Stokes Millennium Prize Problem, one of mathematics' greatest challenges",
+    "sourceUrl": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "status": 200,
+    "finalUrl": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-80d284f58871ce28",
+    "articleTitle": "Google DeepMind releases AlphaGenome Atlas predicting effects of all 9 billion human DNA mutations",
+    "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "status": 200,
+    "finalUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-035cdff8bf280806",
+    "articleTitle": "Italian VC Techshop launches second fund with €43 million first close targeting AI startups",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/italian-vc-techshop-launches-second-fund-with-e43-million-first-close/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/italian-vc-techshop-launches-second-fund-with-e43-million-first-close/",
+    "title": "Italian VC Techshop launches second fund with €43 million first close",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c0b510d79a7440cd",
+    "articleTitle": "SEMI urges EU to strengthen Chips Act 2.0 for semiconductor competitiveness",
+    "sourceUrl": "https://www.eenewseurope.com/en/semi-urges-broader-chips-act-2-0-to-boost-europes-chip-competitiveness/",
+    "status": 200,
+    "finalUrl": "https://www.eenewseurope.com/en/semi-urges-broader-chips-act-2-0-to-boost-europes-chip-competitiveness/",
+    "title": "SEMI urges broader Chips Act 2.0 to boost Europe’s chip competitiveness",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3045481d86a55253",
+    "articleTitle": "Mistral AI raises €3 billion in Samsung-led Series D, largest equity round in European tech history",
+    "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "status": 200,
+    "finalUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "title": "Making sovereign, open-weight AI the technology frontier | Mistral",
+    "ok": true
+  },
+  {
     "id": "eu-ai-26d5084109313a0c",
     "articleTitle": "India and Sweden establish bilateral AI corridor to foster responsible AI ecosystems and technology collaboration",
     "sourceUrl": "https://m.economictimes.com/tech/artificial-intelligence/india-sweden-aim-to-leverage-ai-and-emerging-tech-to-foster-innovation/articleshow/133908010.cms",
@@ -168,105 +267,6 @@
     "status": 200,
     "finalUrl": "https://www.stibbe.com/publications-and-insights/ai-copyright-claims-in-europe-key-considerations",
     "title": "AI Copyright Claims in Europe: Key Considerations",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-7061cfc2e12a5f98",
-    "articleTitle": "Europe funds Giesecke+Devrient in uPQComing project to shield identity cards from quantum attacks",
-    "sourceUrl": "https://quantumzeitgeist.com/giesecke-devrient-europe-funds-upqcoming-project/",
-    "status": 200,
-    "finalUrl": "https://quantumzeitgeist.com/giesecke-devrient-europe-funds-upqcoming-project/",
-    "title": "Europe funds G+D in uPQComing project to shield IDs from quantum attacks",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-1ce156fd085f133f",
-    "articleTitle": "Europe looks to Quantum Act to turn research strength into industrial capacity",
-    "sourceUrl": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
-    "status": 200,
-    "finalUrl": "https://thequantuminsider.com/2026/09/04/europe-looks-to-quantum-act-to-turn-research-strength-into-industry/",
-    "title": "Europe Looks to Quantum Act to Turn Research Strength Into Industry",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2eb091e58b49ed01",
-    "articleTitle": "JAKA Robotics strikes back at Teradyne in European patent dispute over collaborative robot technology",
-    "sourceUrl": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
-    "status": 200,
-    "finalUrl": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
-    "title": "JAKA hits Teradyne Robotics back over patent dispute",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ef33e6f07d5a30ae",
-    "articleTitle": "Finnish DefenceTech startup Creoir secures seed funding to scale voice AI for European defence systems",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/oulu-based-creoir-secures-seed-funding-to-scale-voice-ai-for-defence-and-mission-critical-systems/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/oulu-based-creoir-secures-seed-funding-to-scale-voice-ai-for-defence-and-mission-critical-systems/",
-    "title": "Oulu-based Creoir secures Seed funding to scale voice AI for defence and mission-critical systems",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-4bed01e572303494",
-    "articleTitle": "France's ANSSI leads G7 push for immediate transition to post-quantum cryptography",
-    "sourceUrl": "https://quantumzeitgeist.com/quantum-resistant-encryption-anssi-leads-push/",
-    "status": 200,
-    "finalUrl": "https://quantumzeitgeist.com/quantum-resistant-encryption-anssi-leads-push/",
-    "title": "ANSSI leads G7 push for quantum-resistant encryption",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ddfa1ad4fe8ca613",
-    "articleTitle": "QuTech establishes Quantum Systems Integration Unit to build full-stack superconducting quantum computers",
-    "sourceUrl": "https://qutech.nl/2026/09/04/qutech-establishes-quantum-systems-integration-unit/",
-    "status": 200,
-    "finalUrl": "https://qutech.nl/2026/09/04/qutech-establishes-quantum-systems-integration-unit/",
-    "title": "QuTech establishes Quantum Systems Integration Unit - QuTech",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-01fdd576192dc688",
-    "articleTitle": "G20 endorses US deregulatory AI framework in Carolina Principles, isolating EU's regulatory approach",
-    "sourceUrl": "https://forkast.news/g20-endorses-us-deregulatory-ai-framework-in-carolina-principles-first-multilateral-pushback-against-ai-specific-rules/",
-    "status": 200,
-    "finalUrl": "https://forkast.news/g20-endorses-us-deregulatory-ai-framework-in-carolina-principles-first-multilateral-pushback-against-ai-specific-rules/",
-    "title": "G20 Endorses US Deregulatory AI Framework in Carolina Principles — First Multilateral Pushback Against AI-Specific Rules",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-54dbf68f850a4ac1",
-    "articleTitle": "European Cybersecurity Competence Centre opens new Digital Europe Programme call for proposals",
-    "sourceUrl": "https://island.is/en/o/rannis/news/new-eccc-call-for-proposals-under-the-digital-europe-programme-is-open-for-applications",
-    "status": 200,
-    "finalUrl": "https://island.is/en/o/rannis/news/new-eccc-call-for-proposals-under-the-digital-europe-programme-is-open-for-applications",
-    "title": "The Icelandic Centre for Research",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-1caa3f22a28ba037",
-    "articleTitle": "EU leaders debate funding future for AI and start-ups at Prague talks",
-    "sourceUrl": "https://www.brusselstimes.com/2301368/eu-debates-funding-future-for-ai-and-start-ups-at-prague-talks",
-    "status": 200,
-    "finalUrl": "https://www.brusselstimes.com/2301368/eu-debates-funding-future-for-ai-and-start-ups-at-prague-talks",
-    "title": "The Brussels Times",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3993a9173f22c295",
-    "articleTitle": "Council of Europe drafts privacy rules for AI chatbots and agents covering 55 nations",
-    "sourceUrl": "https://ppc.land/council-of-europe-drafts-privacy-rules-for-ai-chatbots-and-agents/",
-    "status": 200,
-    "finalUrl": "https://ppc.land/council-of-europe-drafts-privacy-rules-for-ai-chatbots-and-agents/",
-    "title": "Council of Europe drafts privacy rules for AI chatbots and agents",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a04f8f6f6e24087b",
-    "articleTitle": "Quantum Foundry Copenhagen announces 5,300-square-meter quantum chip fabrication facility",
-    "sourceUrl": "https://novonordiskfonden.dk/en/news/special-quantum-fabrication-facility-will-help-to-create-a-generally-applicable-quantum-computer/",
-    "status": 200,
-    "finalUrl": "https://novonordiskfonden.dk/en/news/special-quantum-fabrication-facility-will-help-to-create-a-generally-applicable-quantum-computer/",
-    "title": "Special quantum fabrication facility will help to create a generally applicable quantum computer",
     "ok": true
   }
 ]
