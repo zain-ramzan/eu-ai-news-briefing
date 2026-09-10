@@ -1,5 +1,104 @@
 [
   {
+    "id": "eu-ai-1bb67f88c89c07ba",
+    "articleTitle": "UK NHS doctors' commission publishes blueprint to accelerate safe AI adoption in healthcare",
+    "sourceUrl": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
+    "status": 200,
+    "finalUrl": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
+    "title": "Independent Commission led by NHS doctors sets out blueprint to accelerate safe AI adoption in healthcare",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-864729b02368c5a6",
+    "articleTitle": "University of Bonn researchers win €1.5 million in EU ERC grants for quantum systems and brain research",
+    "sourceUrl": "https://quantumzeitgeist.com/quantum-systems-bonn-win-grants/",
+    "status": 200,
+    "finalUrl": "https://quantumzeitgeist.com/quantum-systems-bonn-win-grants/",
+    "title": "Bonn Researchers Win EU Grants to Study Brains and Quantum Systems",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-b6d47c2c35704027",
+    "articleTitle": "EU Cyber Resilience Act deadline arrives September 11, leaving smart home AI companies unprepared for agent compliance",
+    "sourceUrl": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance/",
+    "status": 200,
+    "finalUrl": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance/",
+    "title": "The CRA Deadline Is Thursday. Smart Home AI Companies Are Flying Blind on Agent Compliance.",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-49106ad76d7b75b0",
+    "articleTitle": "Apple launches iPhone 18 Pro with 2nm A20 Pro chip but withholds Siri AI from EU at launch",
+    "sourceUrl": "https://thenextweb.com/news/apple-iphone-18-pro-variable-aperture-siri-ai-eu",
+    "status": 200,
+    "finalUrl": "https://thenextweb.com/news/apple-iphone-18-pro-variable-aperture-siri-ai-eu",
+    "title": "-->",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-9b0e9ca6758eacfb",
+    "articleTitle": "Innovate Finance urges UK government to accelerate Open Finance and AI policy to protect FinTech leadership",
+    "sourceUrl": "https://ffnews.com/news/news-innovate-finance-calls-for-faster-action-on-policy-to-keep-pace-with-fintec-22dcdd17",
+    "status": 200,
+    "finalUrl": "https://ffnews.com/news/news-innovate-finance-calls-for-faster-action-on-policy-to-keep-pace-with-fintec-22dcdd17",
+    "title": "FF News - The Fintech News Network",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-7b10619c6ac4d8ba",
+    "articleTitle": "QUDORA Technologies wins EuroHPC backing to scale microwave qubit control technology for quantum computing",
+    "sourceUrl": "https://quantumzeitgeist.com/qudora-win-qubit-wins-backing/",
+    "status": 200,
+    "finalUrl": "https://quantumzeitgeist.com/qudora-wins-eu-backing-microwave-qubit-control/",
+    "title": "QUDORA wins EU backing to scale its microwave qubit control tech",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-293bdc660c5b109f",
+    "articleTitle": "Icelandic AI maritime company Hefring Marine advances to NATO DIANA Mission Track",
+    "sourceUrl": "https://oceannews.com/news/defense/hefring-marine-advances-to-nato-diana-mission-track-with-maritime-ai-system/",
+    "status": 200,
+    "finalUrl": "https://oceannews.com/news/defense/hefring-marine-advances-to-nato-diana-mission-track-with-maritime-ai-system/",
+    "title": "Hefring Marine Advances to NATO DIANA Mission Track with Maritime AI System",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e2c8cd335a5e8e15",
+    "articleTitle": "UK quantum computing firm Universal Quantum opens first R&D centre outside Europe in Singapore",
+    "sourceUrl": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
+    "status": 200,
+    "finalUrl": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
+    "title": "Universal Quantum Opens R&amp;D Competency Centre Outside Europe in Singapore",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-919e723765b18f23",
+    "articleTitle": "UN warns AI data centres pose growing threat to global electricity systems as demand outpaces supply",
+    "sourceUrl": "https://news.un.org/en/story/2026/09/1168296",
+    "status": 200,
+    "finalUrl": "https://news.un.org/en/story/2026/09/1168296",
+    "title": "AI datacentres pose growing threat to electricity systems worldwide",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d62a9b7cc561f0a7",
+    "articleTitle": "Google commits €13 billion to AI infrastructure in Finland, its largest-ever European investment",
+    "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+    "status": 200,
+    "finalUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
+    "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-54b7b66495f0c6b4",
+    "articleTitle": "Europe's AI revolution runs on public infrastructure as data centre energy demand strains grids",
+    "sourceUrl": "https://www.socialeurope.eu/europes-ai-revolution-runs-on-public-infrastructure",
+    "status": 200,
+    "finalUrl": "https://www.socialeurope.eu/europes-ai-revolution-runs-on-public-infrastructure",
+    "title": "Europe&#8217;s AI Revolution Runs on Public Infrastructure",
+    "ok": true
+  },
+  {
     "id": "eu-ai-3f939d8e154f92c1",
     "articleTitle": "Survey shows Europeans are more pragmatic about AI than their prophets, with lower alarm than Americans",
     "sourceUrl": "https://www.socialeurope.eu/europeans-are-more-pragmatic-about-ai-than-their-prophets",
@@ -23,7 +122,7 @@
     "sourceUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
     "status": 200,
     "finalUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
-    "title": "HPCwire - Since 1987 &#8211; Covering the Fastest Computers in the World and the People Who Run Them",
+    "title": "HPCwire - Since 1987 &ndash; Covering the Fastest Computers in the World and the People Who Run Them",
     "ok": true
   },
   {
@@ -168,105 +267,6 @@
     "status": 200,
     "finalUrl": "https://startupfortune.com/robots-marched-on-polands-digital-ministry-to-demand-ai-regulation/",
     "title": "Robots Marched On Poland's Digital Ministry To Demand AI Regulation",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-f6d0563d18055f48",
-    "articleTitle": "Taiwan turns chip dominance into diplomatic leverage as US and EU seek AI investment commitments",
-    "sourceUrl": "https://startupfortune.com/taiwan-turns-its-chip-dominance-into-diplomatic-leverage-over-the-us-and-eu/",
-    "status": 200,
-    "finalUrl": "https://startupfortune.com/taiwan-turns-its-chip-dominance-into-diplomatic-leverage-over-the-us-and-eu/",
-    "title": "Taiwan Turns Its Chip Dominance Into Diplomatic Leverage Over the US and EU",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8fa92c250e3b72fe",
-    "articleTitle": "EU AI compliance stack crystallizing into three disconnected layers as AI Act, CRA, and MiCA/DORA overlap without coordination",
-    "sourceUrl": "https://forkast.news/the-eu-ai-compliance-stack-is-crystallizing-into-three-layers-and-none-of-them-talk-to-each-other/",
-    "status": 200,
-    "finalUrl": "https://forkast.news/the-eu-ai-compliance-stack-is-crystallizing-into-three-layers-and-none-of-them-talk-to-each-other/",
-    "title": "The EU AI Compliance Stack Is Crystallizing Into Three Layers &#8211; and None of Them Talk to Each Other",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3577fb2322bff145",
-    "articleTitle": "EU Commission official calls for consolidation among Europe's 78 quantum startups, says Quantum Act will have no dedicated budget",
-    "sourceUrl": "https://thenextweb.com/news/eu-quantum-act-no-budget-consolidation",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/eu-quantum-act-no-budget-consolidation",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-23a18edb6a54c251",
-    "articleTitle": "Japan's $550 billion US investment pact puts AI and chips at center, exposing gap with EU approach",
-    "sourceUrl": "https://thenextweb.com/news/japan-550-billion-us-investment-pact-ai-chips-third-tranche-eu-turnberry-600-billion-40-billion-us-ai-chips-gigafactories",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/japan-550-billion-us-investment-pact-ai-chips-third-tranche-eu-turnberry-600-billion-40-billion-us-ai-chips-gigafactories",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-1fa945adf2173783",
-    "articleTitle": "European Parliament appoints rapporteur for Cloud and AI Development Act governing EU data center infrastructure",
-    "sourceUrl": "https://www.techtimes.com/articles/326756/20260905/cloud-ai-development-act-gets-lead-drafter-via-party-vote-not-public-process.htm",
-    "status": 200,
-    "finalUrl": "https://www.techtimes.com/articles/326756/20260905/cloud-ai-development-act-gets-lead-drafter-via-party-vote-not-public-process.htm",
-    "title": "Cloud and AI Development Act Gets Lead Drafter Via Party Vote, Not Public Process",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-06ecad82224048e8",
-    "articleTitle": "China's humanoid-robot industrial offensive leverages automotive scale and embodied-AI policy",
-    "sourceUrl": "https://debuglies.com/2026/09/05/chinas-humanoid-robot-industrial-offensive/",
-    "status": 200,
-    "finalUrl": "https://debuglies.com/2026/09/05/chinas-humanoid-robot-industrial-offensive/",
-    "title": "China’s Humanoid-Robot Industrial Offensive",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-32305edfc4d608a4",
-    "articleTitle": "Qualcomm introduces Dragonwing Q-2390 and IQ-2390 processors for on-device AI at IFA Berlin",
-    "sourceUrl": "https://www.qualcomm.com/news/releases/2026/09/-qualcomm-introduces-dragonwing-q-2390-and-iq-2390-processors--e",
-    "status": 200,
-    "finalUrl": "https://www.qualcomm.com/news/releases/2026/09/-qualcomm-introduces-dragonwing-q-2390-and-iq-2390-processors--e",
-    "title": "Qualcomm Introduces Dragonwing Q-2390 and IQ-2390 Processors, Expanding Access to Intelligent Connected Devices | Qualcomm",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-efe45f02060c6de8",
-    "articleTitle": "Unitree humanoid robots hacked from 30 meters at IFA Berlin, EU buyers face no import restriction",
-    "sourceUrl": "https://www.techtimes.com/articles/326651/20260904/unitree-humanoid-robots-hacked-30-meters-eu-buyers-ifa-face-no-import-restriction.htm",
-    "status": 200,
-    "finalUrl": "https://www.techtimes.com/articles/326651/20260904/unitree-humanoid-robots-hacked-30-meters-eu-buyers-ifa-face-no-import-restriction.htm",
-    "title": "Unitree Humanoid Robots Hacked From 30 Meters; EU Buyers at IFA Face No Import Restriction",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e4a731114a4ba50a",
-    "articleTitle": "EU Cyber Resilience Act Article 14 creates 24-hour vulnerability disclosure clock for AI agent products",
-    "sourceUrl": "https://forkast.news/eu-cra-article-14-hits-sep-11-every-ai-agent-product-now-has-a-24-hour-disclosure-clock/",
-    "status": 200,
-    "finalUrl": "https://forkast.news/eu-cra-article-14-hits-sep-11-every-ai-agent-product-now-has-a-24-hour-disclosure-clock/",
-    "title": "EU CRA Article 14 Hits Sep 11 — Every AI Agent Product Now Has a 24-Hour Disclosure Clock",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-4ef6fda081e7b076",
-    "articleTitle": "August European tech funding falls 63% as dealmaking slows sharply from July",
-    "sourceUrl": "https://tech.eu/2026/09/04/august-european-tech-funding-falls-63-as-dealmaking-slows/",
-    "status": 200,
-    "finalUrl": "https://tech.eu/2026/09/04/august-european-tech-funding-falls-63-as-dealmaking-slows/",
-    "title": "August European tech funding falls 63% as dealmaking slows",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-32d90201171b5584",
-    "articleTitle": "AI copyright claims in Europe face structurally different legal landscape compared to US litigation",
-    "sourceUrl": "https://www.stibbe.com/publications-and-insights/ai-copyright-claims-in-europe-key-considerations",
-    "status": 200,
-    "finalUrl": "https://www.stibbe.com/publications-and-insights/ai-copyright-claims-in-europe-key-considerations",
-    "title": "AI Copyright Claims in Europe: Key Considerations",
     "ok": true
   }
 ]
