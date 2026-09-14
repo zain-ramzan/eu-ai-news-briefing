@@ -1,5 +1,104 @@
 [
   {
+    "id": "eu-ai-544afffb1ce94fe0",
+    "articleTitle": "Trump's former AI czar David Sacks tells OpenAI and Anthropic to pace frontier without antitrust waivers",
+    "sourceUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
+    "status": 200,
+    "finalUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
+    "title": "Trump&#8217;s Ex-AI Czar Tells 2 AI Labs: No Waiver [2026]",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d61fe3d4c91e790c",
+    "articleTitle": "Trump rejects AI slowdown from Ireland, calls safety concerns 'exaggerated'",
+    "sourceUrl": "https://www.michiganpublic.org/2026-09-13/trump-downplays-calls-for-ai-slow-down",
+    "status": 200,
+    "finalUrl": "https://www.michiganpublic.org/2026-09-13/trump-downplays-calls-for-ai-slowdown",
+    "title": "Trump downplays calls for AI slowdown",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-71fd78063ade5cab",
+    "articleTitle": "Polish companies DL Invest and Beyond.pl plan bids to build an AI gigafactory in Poland",
+    "sourceUrl": "https://xyz.pl/poland-unpacked/polish-companies-want-to-build-an-ai-gigafactory-two-projects-are-taking-shape-3900/",
+    "status": 200,
+    "finalUrl": "https://xyz.pl/poland-unpacked/polish-companies-want-to-build-an-ai-gigafactory-two-projects-are-taking-shape-3900/",
+    "title": "Polish companies want to build an AI gigafactory. Two projects are taking shape",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5779d8d905959a07",
+    "articleTitle": "King Charles to convene AI leaders in Scotland amid mounting calls to slow development",
+    "sourceUrl": "https://www.independent.co.uk/tech/king-charles-ai-warning-anthropic-b3049352.html",
+    "status": 200,
+    "finalUrl": "https://www.the-independent.com/tech/king-charles-ai-warning-anthropic-b3049352.html",
+    "title": "King Charles to meet AI bosses in plea to use technology for ‘good of humanity’",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-fa8218a70b7987db",
+    "articleTitle": "EU eyes action against 'pervert' AI smart glasses as privacy concerns mount",
+    "sourceUrl": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
+    "status": 200,
+    "finalUrl": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
+    "title": "Europe eyes battle over &#039;pervert&#039; AI glasses",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5da0e1cc313665b6",
+    "articleTitle": "Anthropic CEO Amodei calls for AI slowdown, OpenAI's Altman hints at industry safety pact",
+    "sourceUrl": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
+    "status": 200,
+    "finalUrl": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
+    "title": "Trending now",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ddd0403b2ed1991f",
+    "articleTitle": "NATO Innovation Fund hails Isar Aerospace as first European private company to reach orbit",
+    "sourceUrl": "https://fortune.com/2026/09/11/nato-innovation-fund-first-european-private-company-in-orbit/",
+    "status": 200,
+    "finalUrl": "https://fortune.com/2026/09/11/nato-innovation-fund-first-european-private-company-in-orbit/",
+    "title": "Trending now",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-310d3f5fa2c061af",
+    "articleTitle": "European defence AI lab NestAI opens R&D centre in Latvia on NATO's eastern flank",
+    "sourceUrl": "https://balticnews.com/nestai-expands-operations-in-latvia-to-advance-defence-ai-on-natos-eastern-flank/",
+    "status": 200,
+    "finalUrl": "https://balticnews.com/nestai-expands-operations-in-latvia-to-advance-defence-ai-on-natos-eastern-flank/",
+    "title": "NestAI expands operations in Latvia to advance defence AI on NATO’s eastern flank",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-39dc7521b92eaf8d",
+    "articleTitle": "EUObserver warns von der Leyen's SOTEU AI data-centre vision 'will be a nightmare'",
+    "sourceUrl": "https://euobserver.com/236303/von-der-leyens-state-of-the-union-ai-data-centre-dream-will-be-a-nightmare/",
+    "status": 200,
+    "finalUrl": "https://euobserver.com/236303/von-der-leyens-state-of-the-union-ai-data-centre-dream-will-be-a-nightmare/",
+    "title": "Von der Leyen&#8217;s State of the Union AI data-centre dream will be a nightmare",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-eccd0da67a8b035e",
+    "articleTitle": "Bruegel analysis maps China's AI strategic goals and implications for Europe",
+    "sourceUrl": "https://www.bruegel.org/analysis/chinas-artificial-intelligence-goals-and-strategic-choices-europe",
+    "status": 200,
+    "finalUrl": "https://www.bruegel.org/analysis/chinas-artificial-intelligence-goals-and-strategic-choices-europe",
+    "title": "China’s artificial intelligence goals and strategic choices for Europe",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-992a40f39459f2c6",
+    "articleTitle": "Shield AI targets European markets with X-BAT uncrewed strike fighter, seeks Polish production partnership",
+    "sourceUrl": "https://defence-industry.eu/shield-ai-targets-european-markets-with-x-bat-uncrewed-strike-fighter-seeking-polish-production-partnership-with-pgz-group/",
+    "status": 200,
+    "finalUrl": "https://defence-industry.eu/shield-ai-targets-european-markets-with-x-bat-uncrewed-strike-fighter-seeking-polish-production-partnership-with-pgz-group/",
+    "title": "Shield AI targets European markets with X-BAT uncrewed strike fighter, seeking Polish production partnership with PGZ Group",
+    "ok": true
+  },
+  {
     "id": "eu-ai-1bb67f88c89c07ba",
     "articleTitle": "UK NHS doctors' commission publishes blueprint to accelerate safe AI adoption in healthcare",
     "sourceUrl": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
@@ -24,6 +123,42 @@
     "status": 200,
     "finalUrl": "https://forkast.news/the-cra-deadline-is-thursday-smart-home-ai-companies-are-flying-blind-on-agent-compliance/",
     "title": "The CRA Deadline Is Thursday. Smart Home AI Companies Are Flying Blind on Agent Compliance.",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-cc95e1ae06511f53",
+    "articleTitle": "Bruegel policy brief: Europe's AI compute infrastructure shortfall cannot close through capital alone",
+    "sourceUrl": "https://www.bruegel.org/policy-brief/how-can-europe-address-its-pressing-ai-compute-infrastructure-shortfall",
+    "status": 200,
+    "finalUrl": "https://www.bruegel.org/policy-brief/how-can-europe-address-its-pressing-ai-compute-infrastructure-shortfall",
+    "title": "How can Europe address its pressing AI compute infrastructure shortfall?",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-348626d9ce7a6f9b",
+    "articleTitle": "Anthropic threat intelligence report details eight months of disrupted AI misuse operations",
+    "sourceUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "status": 200,
+    "finalUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-036c7b5f26379eb2",
+    "articleTitle": "Anthropic discloses fourth AI hacking incident as safety researcher resigns over 'gambling with our lives'",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety",
+    "status": 200,
+    "finalUrl": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety",
+    "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d2a95992270c6679",
+    "articleTitle": "SAFENet expands with five new members joining European router and network technology alliance",
+    "sourceUrl": "https://www.sttinfo.fi/tiedote/72308331/safenet-expands-new-members-join-european-router-and-network-technology-alliance-five-companies-from-four-countries-join-the-alliance-for-europes-technological-sovereignty?publisherId=69825033&lang=en",
+    "status": 200,
+    "finalUrl": "https://www.sttinfo.fi/tiedote/72308331/safenet-expands-new-members-join-european-router-and-network-technology-alliance-five-companies-from-four-countries-join-the-alliance-for-europes-technological-sovereignty?publisherId=69825033&lang=en",
+    "title": "SAFENet Expands: New members join European router and network technology alliance / Five companies from four countries join the alliance for Europe&#x27;s technological sovereignty",
     "ok": true
   },
   {
@@ -117,12 +252,12 @@
     "ok": true
   },
   {
-    "id": "eu-ai-aec30366dac971d4",
+    "id": "eu-ai-4a3a1188f928beda",
     "articleTitle": "Germany inaugurates JION ion-trap quantum computer linked to Europe's top supercomputer at Jülich",
-    "sourceUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
+    "sourceUrl": "https://www.eleqtron.com/news/jion-inauguration",
     "status": 200,
-    "finalUrl": "https://www.hpcwire.com/off-the-wire/julich-and-eleqtron-inaugurate-jion-trapped-ion-quantum-computer/",
-    "title": "HPCwire - Since 1987 &ndash; Covering the Fastest Computers in the World and the People Who Run Them",
+    "finalUrl": "https://eleqtron.com/en/event/jion-inauguration-2026-quantum-computing-made-in-nrw/",
+    "title": "JION Inauguration 2026: Quantum Computing Made in NRW",
     "ok": true
   },
   {
@@ -132,141 +267,6 @@
     "status": 200,
     "finalUrl": "https://www.openmarketsinstitute.org/publications/the-corner-newsletter-europes-tech-sovereignty-efforts",
     "title": "The Corner Newsletter: Europe’s Tech Sovereignty Efforts (September 8th, 2026)",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3cb67796a89d361c",
-    "articleTitle": "Deutsche Bank report maps AI-powered transformation of European technology, media and telecoms sectors",
-    "sourceUrl": "https://www.db.com/news/detail/20260918-the-new-tmt-playbook-navigating-disruption-and-seizing-opportunity-in-an-ai-powered-world?language_id=1",
-    "status": 200,
-    "finalUrl": "https://www.db.com/news/detail/20260918-the-new-tmt-playbook-navigating-disruption-and-seizing-opportunity-in-an-ai-powered-world?language_id=1",
-    "title": "The New TMT Playbook: Navigating disruption and seizing opportunity in an AI-powered world",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d98a5078976427cb",
-    "articleTitle": "CEPS experts call on EU to adopt unified strategy for AI risks from discrimination to loss of control",
-    "sourceUrl": "https://www.ceps.eu/europe-needs-a-more-strategic-approach-for-tackling-ai-risks/",
-    "status": 200,
-    "finalUrl": "https://www.ceps.eu/europe-needs-a-more-strategic-approach-for-tackling-ai-risks/",
-    "title": "Europe needs a more strategic approach for tackling AI risks",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8f1bb6bc8bb0ff87",
-    "articleTitle": "OpenAI claims AI has solved the Navier-Stokes Millennium Prize Problem, one of mathematics' greatest challenges",
-    "sourceUrl": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-    "status": 200,
-    "finalUrl": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-    "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-80d284f58871ce28",
-    "articleTitle": "Google DeepMind releases AlphaGenome Atlas predicting effects of all 9 billion human DNA mutations",
-    "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "status": 200,
-    "finalUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-035cdff8bf280806",
-    "articleTitle": "Italian VC Techshop launches second fund with €43 million first close targeting AI startups",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/italian-vc-techshop-launches-second-fund-with-e43-million-first-close/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/italian-vc-techshop-launches-second-fund-with-e43-million-first-close/",
-    "title": "Italian VC Techshop launches second fund with €43 million first close",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c0b510d79a7440cd",
-    "articleTitle": "SEMI urges EU to strengthen Chips Act 2.0 for semiconductor competitiveness",
-    "sourceUrl": "https://www.eenewseurope.com/en/semi-urges-broader-chips-act-2-0-to-boost-europes-chip-competitiveness/",
-    "status": 200,
-    "finalUrl": "https://www.eenewseurope.com/en/semi-urges-broader-chips-act-2-0-to-boost-europes-chip-competitiveness/",
-    "title": "SEMI urges broader Chips Act 2.0 to boost Europe’s chip competitiveness",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3045481d86a55253",
-    "articleTitle": "Mistral AI raises €3 billion in Samsung-led Series D, largest equity round in European tech history",
-    "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "status": 200,
-    "finalUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "title": "Making sovereign, open-weight AI the technology frontier | Mistral",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-26d5084109313a0c",
-    "articleTitle": "India and Sweden establish bilateral AI corridor to foster responsible AI ecosystems and technology collaboration",
-    "sourceUrl": "https://m.economictimes.com/tech/artificial-intelligence/india-sweden-aim-to-leverage-ai-and-emerging-tech-to-foster-innovation/articleshow/133908010.cms",
-    "status": 200,
-    "finalUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-sweden-aim-to-leverage-ai-and-emerging-tech-to-foster-innovation/articleshow/133908010.cms?from=mdr",
-    "title": "India, Sweden aim to leverage AI and emerging tech to foster innovation",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-265f2bec086cf951",
-    "articleTitle": "Arm CEO Rene Haas says chip shortages are slowing down AI cancer research and humanoid robotics",
-    "sourceUrl": "https://startupfortune.com/arm-ceo-rene-haas-says-chip-shortages-are-slowing-down-ai-cancer-research/",
-    "status": 200,
-    "finalUrl": "https://startupfortune.com/arm-ceo-rene-haas-says-chip-shortages-are-slowing-down-ai-cancer-research/",
-    "title": "Arm CEO Rene Haas Says Chip Shortages Are Slowing Down AI Cancer Research",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c2948486ef4d2a53",
-    "articleTitle": "OpenAI chief scientist Jakub Pachocki warns 'no one is prepared' for AI consequences after GPT-6 Astra launch",
-    "sourceUrl": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-    "status": 200,
-    "finalUrl": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-    "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-7bf889ce44d170de",
-    "articleTitle": "Anthropic drops plan to acquire AI startup Decart AI amid IPO speculation",
-    "sourceUrl": "https://www.communicationstoday.co.in/anthropic-drops-plans-to-acquire-ai-startup-decart/",
-    "status": 200,
-    "finalUrl": "https://www.communicationstoday.co.in/anthropic-drops-plans-to-acquire-ai-startup-decart/",
-    "title": "Anthropic drops plans to acquire AI startup Decart",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-4ee2d676823d8c02",
-    "articleTitle": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI launches GPT-6 Astra",
-    "sourceUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-artificial-general-intelligence-has-arrived-with-new-openai-model/",
-    "status": 200,
-    "finalUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-artificial-general-intelligence-has-arrived-with-new-openai-model/",
-    "title": "Nvidia CEO Says GPT-6 Astra Brings AGI Closer",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a308bbd621f609be",
-    "articleTitle": "European Commission investigates OpenAI agents' hijacking of German website, demands incident report",
-    "sourceUrl": "https://thenextweb.com/news/openai-eu-incident-report-german-wiki",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/openai-eu-incident-report-german-wiki",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-06fdaa90bed65b38",
-    "articleTitle": "China's open-source AI models becoming global backbone as European companies 'wrap' Chinese model weights",
-    "sourceUrl": "https://finance.biggo.com/news/997a4e5f-de53-4435-945d-fa20fd3f0a46",
-    "status": 200,
-    "finalUrl": "https://finance.biggo.com/news/997a4e5f-de53-4435-945d-fa20fd3f0a46",
-    "title": "China&#x27;s Open-Source AI Models Become the Global Backbone: Saudi Arabia, Japan, and Europe &#x27;Wrap&#x27; Chinese Weights",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c19c9f902e80ca70",
-    "articleTitle": "Robots march on Poland's Digital Ministry in Warsaw demanding AI regulation and worker protections",
-    "sourceUrl": "https://startupfortune.com/robots-marched-on-polands-digital-ministry-to-demand-ai-regulation/",
-    "status": 200,
-    "finalUrl": "https://startupfortune.com/robots-marched-on-polands-digital-ministry-to-demand-ai-regulation/",
-    "title": "Robots Marched On Poland's Digital Ministry To Demand AI Regulation",
     "ok": true
   }
 ]
