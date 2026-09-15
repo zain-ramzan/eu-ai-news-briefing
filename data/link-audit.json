@@ -1,5 +1,77 @@
 [
   {
+    "id": "eu-ai-7ea538c6fefeb5c1",
+    "articleTitle": "EUCLYD raises over 200 million euros in Samsung-backed Series A for AI silicon in the Netherlands",
+    "sourceUrl": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+    "status": 200,
+    "finalUrl": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+    "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-9fe330d4f572318f",
+    "articleTitle": "OpenAI may have violated California's AI safety law with Astra model releases, watchdog says",
+    "sourceUrl": "https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/",
+    "status": 200,
+    "finalUrl": "https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/",
+    "title": "Trending now",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-fe1e1cc79c04499d",
+    "articleTitle": "Trump calls AI risk a 'hoax' as Microsoft, Google and Anthropic write their own safety rules",
+    "sourceUrl": "https://www.techi.com/trump-ai-hoax-microsoft-code-of-conduct-labs-standards-body/",
+    "status": 200,
+    "finalUrl": "https://www.techi.com/trump-ai-hoax-microsoft-code-of-conduct-labs-standards-body/",
+    "title": "Trump calls AI risk a &#x27;hoax.&#x27; Microsoft, Google and Anthropic are writing their own rules",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-2552c8905a14a3f2",
+    "articleTitle": "Apple ships Siri AI to EU Macs but withholds it from EU iPhones at launch",
+    "sourceUrl": "https://ppc.land/apple-ships-siri-ai-to-eu-macs-but-not-to-eu-iphones/",
+    "status": 200,
+    "finalUrl": "https://ppc.land/apple-ships-siri-ai-to-eu-macs-but-not-to-eu-iphones/",
+    "title": "Apple ships Siri AI to EU Macs but not to EU iPhones",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-a884af08bb5f6b43",
+    "articleTitle": "AI safety warnings hit ASML as European semiconductor stocks fall sharply",
+    "sourceUrl": "https://eutoday.net/ai-safety-warnings-hit-european-semiconductor-stocks/",
+    "status": 200,
+    "finalUrl": "https://eutoday.net/ai-safety-warnings-hit-european-semiconductor-stocks/",
+    "title": "AI safety warnings hit ASML as Europe’s exposure to AI investment boom comes into focus",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c12b1fa3a9c57dc4",
+    "articleTitle": "Swedish drone detection startup Freya raises 533k euros for European expansion",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/",
+    "title": "Swedish drone detection company Freya raises €533k to aid European rollout",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-97eaa7a055d3b3d2",
+    "articleTitle": "European fintech Chift raises 10.5M euros to connect Europe's fragmented financial software",
+    "sourceUrl": "https://fintech.global/2026/09/14/chift-lands-e10-5m-to-connect-europes-fragmented-finance/",
+    "status": 200,
+    "finalUrl": "https://fintech.global/2026/09/14/chift-lands-e10-5m-to-connect-europes-fragmented-finance/",
+    "title": "Chift lands €10.5m to connect Europe&#8217;s fragmented finance",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3b3a44f3b8f182c1",
+    "articleTitle": "EU to propose ban on social media and AI chatbots for under-15s in sweeping Kids Act",
+    "sourceUrl": "https://www.rte.ie/news/2026/0914/1591453-social-media-ban-eu/",
+    "status": 200,
+    "finalUrl": "https://www.rte.ie/news/2026/0914/1591453-social-media-ban-eu/",
+    "title": "EU set to propose social media, AI ban for under-15s",
+    "ok": true
+  },
+  {
     "id": "eu-ai-544afffb1ce94fe0",
     "articleTitle": "Trump's former AI czar David Sacks tells OpenAI and Anthropic to pace frontier without antitrust waivers",
     "sourceUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
@@ -54,6 +126,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-961dc584327a680e",
+    "articleTitle": "European Commission tightens AI Act enforcement on systemic-risk models from OpenAI and Anthropic",
+    "sourceUrl": "https://www.lawxyai.com/news/european-commission-tightens-ai-act-enforcement-for-openai-anthropic",
+    "status": 200,
+    "finalUrl": "https://www.lawxyai.com/news/european-commission-tightens-ai-act-enforcement-for-openai-anthropic",
+    "title": "EU Tightens AI Act Checks on Systemic-Risk AI Models Now",
+    "ok": true
+  },
+  {
     "id": "eu-ai-ddd0403b2ed1991f",
     "articleTitle": "NATO Innovation Fund hails Isar Aerospace as first European private company to reach orbit",
     "sourceUrl": "https://fortune.com/2026/09/11/nato-innovation-fund-first-european-private-company-in-orbit/",
@@ -96,6 +177,15 @@
     "status": 200,
     "finalUrl": "https://defence-industry.eu/shield-ai-targets-european-markets-with-x-bat-uncrewed-strike-fighter-seeking-polish-production-partnership-with-pgz-group/",
     "title": "Shield AI targets European markets with X-BAT uncrewed strike fighter, seeking Polish production partnership with PGZ Group",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-645b12933bbc9acd",
+    "articleTitle": "LUMI AI Factory selects IQM to build Europe's first quantum computer with logical qubits",
+    "sourceUrl": "https://www.stocktitan.net/news/IQMX/lumi-ai-factory-selects-iqm-s-staged-path-to-europe-s-first-u2qwope7796g.html",
+    "status": 200,
+    "finalUrl": "https://www.stocktitan.net/news/IQMX/lumi-ai-factory-selects-iqm-s-staged-path-to-europe-s-first-u2qwope7796g.html",
+    "title": "LUMI AI Factory Selects IQM's Staged Path to Europe's First Superconducting Quantum Computer With Logical Qubits",
     "ok": true
   },
   {
@@ -177,96 +267,6 @@
     "status": 200,
     "finalUrl": "https://ffnews.com/news/news-innovate-finance-calls-for-faster-action-on-policy-to-keep-pace-with-fintec-22dcdd17",
     "title": "FF News - The Fintech News Network",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-7b10619c6ac4d8ba",
-    "articleTitle": "QUDORA Technologies wins EuroHPC backing to scale microwave qubit control technology for quantum computing",
-    "sourceUrl": "https://quantumzeitgeist.com/qudora-win-qubit-wins-backing/",
-    "status": 200,
-    "finalUrl": "https://quantumzeitgeist.com/qudora-wins-eu-backing-microwave-qubit-control/",
-    "title": "QUDORA wins EU backing to scale its microwave qubit control tech",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-293bdc660c5b109f",
-    "articleTitle": "Icelandic AI maritime company Hefring Marine advances to NATO DIANA Mission Track",
-    "sourceUrl": "https://oceannews.com/news/defense/hefring-marine-advances-to-nato-diana-mission-track-with-maritime-ai-system/",
-    "status": 200,
-    "finalUrl": "https://oceannews.com/news/defense/hefring-marine-advances-to-nato-diana-mission-track-with-maritime-ai-system/",
-    "title": "Hefring Marine Advances to NATO DIANA Mission Track with Maritime AI System",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e2c8cd335a5e8e15",
-    "articleTitle": "UK quantum computing firm Universal Quantum opens first R&D centre outside Europe in Singapore",
-    "sourceUrl": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
-    "status": 200,
-    "finalUrl": "https://thequantuminsider.com/2026/09/09/universal-quantum-opens-first-rd-centre-outside-europe-singapore/",
-    "title": "Universal Quantum Opens R&amp;D Competency Centre Outside Europe in Singapore",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-919e723765b18f23",
-    "articleTitle": "UN warns AI data centres pose growing threat to global electricity systems as demand outpaces supply",
-    "sourceUrl": "https://news.un.org/en/story/2026/09/1168296",
-    "status": 200,
-    "finalUrl": "https://news.un.org/en/story/2026/09/1168296",
-    "title": "AI datacentres pose growing threat to electricity systems worldwide",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d62a9b7cc561f0a7",
-    "articleTitle": "Google commits €13 billion to AI infrastructure in Finland, its largest-ever European investment",
-    "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
-    "status": 200,
-    "finalUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
-    "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-54b7b66495f0c6b4",
-    "articleTitle": "Europe's AI revolution runs on public infrastructure as data centre energy demand strains grids",
-    "sourceUrl": "https://www.socialeurope.eu/europes-ai-revolution-runs-on-public-infrastructure",
-    "status": 200,
-    "finalUrl": "https://www.socialeurope.eu/europes-ai-revolution-runs-on-public-infrastructure",
-    "title": "Europe&#8217;s AI Revolution Runs on Public Infrastructure",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3f939d8e154f92c1",
-    "articleTitle": "Survey shows Europeans are more pragmatic about AI than their prophets, with lower alarm than Americans",
-    "sourceUrl": "https://www.socialeurope.eu/europeans-are-more-pragmatic-about-ai-than-their-prophets",
-    "status": 200,
-    "finalUrl": "https://www.socialeurope.eu/europeans-are-more-pragmatic-about-ai-than-their-prophets",
-    "title": "Europeans Are More Pragmatic About AI Than Their Prophets",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a5d0a2cd144ca977",
-    "articleTitle": "US foreign-made robotics rules create knock-on effects for European automation market",
-    "sourceUrl": "https://logisticsbusiness.com/materials-handling/robotic-picking/u-s-foreign-made-robotics-rules-impact-europe/",
-    "status": 200,
-    "finalUrl": "https://logisticsbusiness.com/materials-handling/robotic-picking/u-s-foreign-made-robotics-rules-impact-europe/",
-    "title": "U.S. Foreign-made Robotics Rules Impact Europe",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-4a3a1188f928beda",
-    "articleTitle": "Germany inaugurates JION ion-trap quantum computer linked to Europe's top supercomputer at Jülich",
-    "sourceUrl": "https://www.eleqtron.com/news/jion-inauguration",
-    "status": 200,
-    "finalUrl": "https://eleqtron.com/en/event/jion-inauguration-2026-quantum-computing-made-in-nrw/",
-    "title": "JION Inauguration 2026: Quantum Computing Made in NRW",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-cac1ba53dbb44683",
-    "articleTitle": "Open Markets Institute analyses Europe's tech sovereignty efforts to reduce dependence on US corporations",
-    "sourceUrl": "https://www.openmarketsinstitute.org/publications/the-corner-newsletter-europes-tech-sovereignty-efforts",
-    "status": 200,
-    "finalUrl": "https://www.openmarketsinstitute.org/publications/the-corner-newsletter-europes-tech-sovereignty-efforts",
-    "title": "The Corner Newsletter: Europe’s Tech Sovereignty Efforts (September 8th, 2026)",
     "ok": true
   }
 ]
