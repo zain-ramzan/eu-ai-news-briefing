@@ -1,11 +1,119 @@
 [
   {
+    "id": "eu-ai-ad069208f35bfa8a",
+    "articleTitle": "CUBE and IBM partner to automate global AI compliance via watsonx.governance",
+    "sourceUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
+    "status": 200,
+    "finalUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
+    "title": "FF News - The Fintech News Network",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-be8b12ee0faa45c4",
+    "articleTitle": "MEPs clash over AI and social media rules in European Parliament debate following State of the Union",
+    "sourceUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
+    "status": 200,
+    "finalUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
+    "title": "The Brussels Times",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-6a5885f399b42148",
+    "articleTitle": "Spain's AEPD logs first AI agent-linked data breach",
+    "sourceUrl": "https://shattered.io/aepd-first-ai-agent-data-breach-spain-2026/",
+    "status": 200,
+    "finalUrl": "https://shattered.io/aepd-first-ai-agent-data-breach-spain-2026/",
+    "title": "Spain&#8217;s AEPD Logs 1st AI Agent Data Breach [2026]",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-2ad6b078d6317f30",
+    "articleTitle": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
+    "title": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ecf6f58ed76ac187",
+    "articleTitle": "UK's Burnham and Canada's Carney discuss AI risks and defence cooperation in first bilateral meeting",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting",
+    "status": 200,
+    "finalUrl": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting",
+    "title": "UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-28126e03635e5451",
+    "articleTitle": "Bruegel analysis: Europe still needs to do more to provide real AI reassurance",
+    "sourceUrl": "https://www.bruegel.org/first-glance/europe-still-needs-do-more-provide-real-artificial-intelligence-reassurance",
+    "status": 200,
+    "finalUrl": "https://www.bruegel.org/first-glance/europe-still-needs-do-more-provide-real-artificial-intelligence-reassurance",
+    "title": "Europe still needs to do more to provide real artificial intelligence reassurance",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-9e0b386152f614d6",
+    "articleTitle": "'Godfather of AI' Geoffrey Hinton says humanity is 'losing control' of the technology",
+    "sourceUrl": "https://www.straitstimes.com/world/godfather-of-ai-says-humanity-is-losing-control-of-the-technology",
+    "status": 200,
+    "finalUrl": "https://www.straitstimes.com/world/godfather-of-ai-says-humanity-is-losing-control-of-the-technology",
+    "title": "‘Godfather of AI’ says humanity is ‘losing control’ of the technology",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c1340c258d86b583",
+    "articleTitle": "Multiverse Computing and Zylon bring AI inside Europe's secure networks with quantum-inspired compression",
+    "sourceUrl": "https://quantumzeitgeist.com/ai-inside-europe-multiverse-zylon/",
+    "status": 200,
+    "finalUrl": "https://quantumzeitgeist.com/ai-inside-europe-multiverse-zylon/",
+    "title": "Multiverse and Zylon bring AI inside Europe’s secure networks",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-1a9bc05761eae901",
+    "articleTitle": "EU closes consultation on data sovereignty and cross-border data flows",
+    "sourceUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
+    "status": 200,
+    "finalUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
+    "title": "EU closes consultation on data sovereignty and cross-border flows",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ac66dbcc8824530f",
+    "articleTitle": "Axelera AI launches Europa AIPU for enterprise and data centre AI inference",
+    "sourceUrl": "https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro",
+    "status": 200,
+    "finalUrl": "https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro",
+    "title": "Axelera AI Launches Europa: Delivers Physical and Enterprise AI Through Growing Partner Ecosystem Including Dell and Supermicro",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ee1789faa0e44781",
+    "articleTitle": "JD Vance dismisses AI regulation: 'If you're building Frankenstein, stop'",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+    "status": 200,
+    "finalUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+    "title": "‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation",
+    "ok": true
+  },
+  {
     "id": "eu-ai-ab6387cac09006dc",
     "articleTitle": "Von der Leyen calls for EU solidarity on AI, climate and China in 2026 State of the Union address",
     "sourceUrl": "https://www.globalbankingandfinance.com/eu-head-call-european-solidarity-top-challenges-closer/",
     "status": 200,
     "finalUrl": "https://www.globalbankingandfinance.com/eu-head-call-european-solidarity-top-challenges-closer/",
-    "title": "EU head to call for European solidarity on top challenges, closer Canada ties",
+    "title": "EU&#39;s von der Leyen backs partnership with Canada in &#39;openly hostile world&#39;",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-dc2fbdb30551fe41",
+    "articleTitle": "EIB and Angelini Ventures partnership reaches €48.5 million in European life sciences and robotics investments",
+    "sourceUrl": "https://markets.businessinsider.com/news/stocks/eib-and-angelini-ventures-partnership-reaches-48-5-million-in-investments-1036549287",
+    "status": 200,
+    "finalUrl": "https://markets.businessinsider.com/news/stocks/eib-and-angelini-ventures-partnership-reaches-48-5-million-in-investments-1036549287",
+    "title": "EIB and Angelini Ventures’ Partnership Reaches €48.5 Million in Investments",
     "ok": true
   },
   {
@@ -159,105 +267,6 @@
     "status": 200,
     "finalUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
     "title": "Trump&#8217;s Ex-AI Czar Tells 2 AI Labs: No Waiver [2026]",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d61fe3d4c91e790c",
-    "articleTitle": "Trump rejects AI slowdown from Ireland, calls safety concerns 'exaggerated'",
-    "sourceUrl": "https://www.michiganpublic.org/2026-09-13/trump-downplays-calls-for-ai-slow-down",
-    "status": 200,
-    "finalUrl": "https://www.michiganpublic.org/2026-09-13/trump-downplays-calls-for-ai-slowdown",
-    "title": "Trump downplays calls for AI slowdown",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-290deb1c9c40beda",
-    "articleTitle": "South Africa's Ramaphosa calls for international mechanism to oversee AI at BRICS summit",
-    "sourceUrl": "https://www.capmad.com/post/within-bricks-ramaphosa-calls-for-an-international-mechanism-to-oversee-ai",
-    "status": 200,
-    "finalUrl": "https://www.capmad.com/post/within-bricks-ramaphosa-calls-for-an-international-mechanism-to-oversee-ai",
-    "title": "Capmad.com | All Economic Trends from the African Continent",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-71fd78063ade5cab",
-    "articleTitle": "Polish companies DL Invest and Beyond.pl plan bids to build an AI gigafactory in Poland",
-    "sourceUrl": "https://xyz.pl/poland-unpacked/polish-companies-want-to-build-an-ai-gigafactory-two-projects-are-taking-shape-3900/",
-    "status": 200,
-    "finalUrl": "https://xyz.pl/poland-unpacked/polish-companies-want-to-build-an-ai-gigafactory-two-projects-are-taking-shape-3900/",
-    "title": "Polish companies want to build an AI gigafactory. Two projects are taking shape",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-5779d8d905959a07",
-    "articleTitle": "King Charles to convene AI leaders in Scotland amid mounting calls to slow development",
-    "sourceUrl": "https://www.independent.co.uk/tech/king-charles-ai-warning-anthropic-b3049352.html",
-    "status": 200,
-    "finalUrl": "https://www.the-independent.com/tech/king-charles-ai-warning-anthropic-b3049352.html",
-    "title": "King Charles to meet AI bosses in plea to use technology for ‘good of humanity’",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-fa8218a70b7987db",
-    "articleTitle": "EU eyes action against 'pervert' AI smart glasses as privacy concerns mount",
-    "sourceUrl": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
-    "status": 200,
-    "finalUrl": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
-    "title": "Europe eyes battle over &#039;pervert&#039; AI glasses",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-5da0e1cc313665b6",
-    "articleTitle": "Anthropic CEO Amodei calls for AI slowdown, OpenAI's Altman hints at industry safety pact",
-    "sourceUrl": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
-    "status": 200,
-    "finalUrl": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
-    "title": "Trending now",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-961dc584327a680e",
-    "articleTitle": "European Commission tightens AI Act enforcement on systemic-risk models from OpenAI and Anthropic",
-    "sourceUrl": "https://www.lawxyai.com/news/european-commission-tightens-ai-act-enforcement-for-openai-anthropic",
-    "status": 200,
-    "finalUrl": "https://www.lawxyai.com/news/european-commission-tightens-ai-act-enforcement-for-openai-anthropic",
-    "title": "EU Tightens AI Act Checks on Systemic-Risk AI Models Now",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ddd0403b2ed1991f",
-    "articleTitle": "NATO Innovation Fund hails Isar Aerospace as first European private company to reach orbit",
-    "sourceUrl": "https://fortune.com/2026/09/11/nato-innovation-fund-first-european-private-company-in-orbit/",
-    "status": 200,
-    "finalUrl": "https://fortune.com/2026/09/11/nato-innovation-fund-first-european-private-company-in-orbit/",
-    "title": "Trending now",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-310d3f5fa2c061af",
-    "articleTitle": "European defence AI lab NestAI opens R&D centre in Latvia on NATO's eastern flank",
-    "sourceUrl": "https://balticnews.com/nestai-expands-operations-in-latvia-to-advance-defence-ai-on-natos-eastern-flank/",
-    "status": 200,
-    "finalUrl": "https://balticnews.com/nestai-expands-operations-in-latvia-to-advance-defence-ai-on-natos-eastern-flank/",
-    "title": "NestAI expands operations in Latvia to advance defence AI on NATO’s eastern flank",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-39dc7521b92eaf8d",
-    "articleTitle": "EUObserver warns von der Leyen's SOTEU AI data-centre vision 'will be a nightmare'",
-    "sourceUrl": "https://euobserver.com/236303/von-der-leyens-state-of-the-union-ai-data-centre-dream-will-be-a-nightmare/",
-    "status": 200,
-    "finalUrl": "https://euobserver.com/236303/von-der-leyens-state-of-the-union-ai-data-centre-dream-will-be-a-nightmare/",
-    "title": "Von der Leyen&#8217;s State of the Union AI data-centre dream will be a nightmare",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-eccd0da67a8b035e",
-    "articleTitle": "Bruegel analysis maps China's AI strategic goals and implications for Europe",
-    "sourceUrl": "https://www.bruegel.org/analysis/chinas-artificial-intelligence-goals-and-strategic-choices-europe",
-    "status": 200,
-    "finalUrl": "https://www.bruegel.org/analysis/chinas-artificial-intelligence-goals-and-strategic-choices-europe",
-    "title": "China’s artificial intelligence goals and strategic choices for Europe",
     "ok": true
   }
 ]
