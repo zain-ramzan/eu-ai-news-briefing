@@ -1,5 +1,68 @@
 [
   {
+    "id": "eu-ai-897231c3aaedd3ac",
+    "articleTitle": "Italian firms face advertising bans under new AI-generated content offences decree",
+    "sourceUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
+    "status": 200,
+    "finalUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
+    "title": "Italian firms face ad bans over AI-generated content offences",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5cc2ac0014827b4d",
+    "articleTitle": "Unsealed court documents reveal Microsoft and OpenAI internal concerns about AI content theft",
+    "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "status": 200,
+    "finalUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-eb0e6547b6b96cab",
+    "articleTitle": "OpenAI discloses six AI safety incidents and launches model misalignment reporting framework",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+    "status": 200,
+    "finalUrl": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+    "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ddb216ed1b18d0c0",
+    "articleTitle": "Anthropic reveals Claude leads 26 percent of AI R&D work with 30,000 concurrent agents",
+    "sourceUrl": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
+    "status": 200,
+    "finalUrl": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
+    "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-8d960e6561be9ff2",
+    "articleTitle": "Pew survey finds China edges US and EU on AI regulation trust in middle-income countries",
+    "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries",
+    "status": 200,
+    "finalUrl": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries",
+    "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3fecd9333acc6f3e",
+    "articleTitle": "German court rules Meta liable for fake ads on Instagram and Facebook",
+    "sourceUrl": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
+    "status": 200,
+    "finalUrl": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
+    "title": "-->",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c41367b2f2238703",
+    "articleTitle": "EU Commission officially proposes under-13 social media ban in Kids Act",
+    "sourceUrl": "https://en.ilsole24ore.com/art/europe-von-der-leyen-says-no-social-media-for-children-under-13-canada-becomes-first-eu-associate-member-AJRbukEB",
+    "status": 200,
+    "finalUrl": "https://en.ilsole24ore.com/art/europe-von-der-leyen-no-social-media-for-under-13s-canada-first-eu-associate-member-AJRbukEB",
+    "title": "Europe, von der Leyen: no social media for children under 13. Canada becomes the first EU associate member",
+    "ok": true
+  },
+  {
     "id": "eu-ai-ad069208f35bfa8a",
     "articleTitle": "CUBE and IBM partner to automate global AI compliance via watsonx.governance",
     "sourceUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
@@ -9,12 +72,30 @@
     "ok": true
   },
   {
+    "id": "eu-ai-2da64486ff446767",
+    "articleTitle": "DIREKTION Awards 2026: Ten EU-funded innovations leverage AI, robotics and sensor systems for disaster resilience",
+    "sourceUrl": "https://home-affairs.ec.europa.eu/news/direktion-awards-2026-ten-eu-funded-innovations-leverage-ai-robotics-and-advanced-sensor-systems-2026-09-17_en",
+    "status": 200,
+    "finalUrl": "https://home-affairs.ec.europa.eu/news/direktion-awards-2026-ten-eu-funded-innovations-leverage-ai-robotics-and-advanced-sensor-systems-2026-09-17_en",
+    "title": "DIREKTION Awards 2026: Ten EU-funded innovations leverage AI, robotics and advanced sensor systems to drive modern security and disaster resilience",
+    "ok": true
+  },
+  {
     "id": "eu-ai-be8b12ee0faa45c4",
     "articleTitle": "MEPs clash over AI and social media rules in European Parliament debate following State of the Union",
     "sourceUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
     "status": 200,
     "finalUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
     "title": "The Brussels Times",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-bf58c8bd120e15b8",
+    "articleTitle": "EU supports AI innovation but insists on compliance with bloc's safety rules amid concerns",
+    "sourceUrl": "https://www.aa.com.tr/en/europe/eu-supports-ai-innovation-but-insists-on-compliance-with-blocs-safety-rules-amid-concerns/4056713",
+    "status": 200,
+    "finalUrl": "https://www.aa.com.tr/en/europe/eu-supports-ai-innovation-but-insists-on-compliance-with-blocs-safety-rules-amid-concerns/4056713",
+    "title": "EU supports AI innovation but insists on compliance with bloc&#x27;s safety rules amid concerns",
     "ok": true
   },
   {
@@ -33,6 +114,15 @@
     "status": 200,
     "finalUrl": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
     "title": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-140d281d578a42ba",
+    "articleTitle": "Hackuity raises 19 million dollars as AI fuels vulnerability explosion in cybersecurity",
+    "sourceUrl": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
+    "status": 200,
+    "finalUrl": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
+    "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
     "ok": true
   },
   {
@@ -72,6 +162,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-b401551046a0c350",
+    "articleTitle": "Novo Nordisk partners with Anthropic to accelerate drug discovery using Claude AI",
+    "sourceUrl": "https://www.rdworldonline.com/anthropic-and-novo-nordisk-expand-claude-work-including-in-drug-discovery/",
+    "status": 200,
+    "finalUrl": "https://www.rdworldonline.com/anthropic-and-novo-nordisk-expand-claude-work-including-in-drug-discovery/",
+    "title": "Anthropic and Novo Nordisk expand Claude work, including in drug discovery",
+    "ok": true
+  },
+  {
     "id": "eu-ai-1a9bc05761eae901",
     "articleTitle": "EU closes consultation on data sovereignty and cross-border data flows",
     "sourceUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
@@ -90,12 +189,30 @@
     "ok": true
   },
   {
+    "id": "eu-ai-9c763821ec949e9f",
+    "articleTitle": "London-based Jack and Jill raises 34.68 million euros for AI agents in recruitment",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/",
+    "title": "London-based Jack &#038; Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers",
+    "ok": true
+  },
+  {
     "id": "eu-ai-ee1789faa0e44781",
     "articleTitle": "JD Vance dismisses AI regulation: 'If you're building Frankenstein, stop'",
     "sourceUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
     "status": 200,
     "finalUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
     "title": "‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-426b70a8b0687e45",
+    "articleTitle": "Crane Venture Partners raises 419 million euros for European and global expansion",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
+    "title": "Crane Venture Partners raises €419 million as it expands across Europe, APAC and the US",
     "ok": true
   },
   {
@@ -150,123 +267,6 @@
     "status": 200,
     "finalUrl": "https://ppc.land/eu-kids-act-draft-sets-15-as-age-for-unsupervised-social-media-accounts/",
     "title": "EU Kids Act draft sets 15 as age for unsupervised social media accounts",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-64493a4099ffaf3f",
-    "articleTitle": "Swiss AI health startup Aeon acquires Aware Health as total seed funding surpasses 12 million euros",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/",
-    "title": "EXCLUSIVE: Switzerland&#8217;s Aeon acquires Aware Health as total Seed funding surpasses €12 million",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-81eccdae8f9baaa1",
-    "articleTitle": "Finnish startup Zero raises 10.3 million dollars seed to replace traditional CRM with AI agents",
-    "sourceUrl": "https://bebeez.eu/2026/09/15/finnish-startup-raises-10-3-million-seed-to-replace-the-traditional-crm-with-ai-agents/",
-    "status": 200,
-    "finalUrl": "https://bebeez.eu/2026/09/15/finnish-startup-raises-10-3-million-seed-to-replace-the-traditional-crm-with-ai-agents/",
-    "title": "Finnish startup raises $10.3 million seed to replace the traditional CRM with AI agents",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-83e31eee20b26037",
-    "articleTitle": "UK workers spend nearly one billion pounds of their own money on AI tools for work, Deloitte finds",
-    "sourceUrl": "https://www.deloitte.com/uk/en/about/press-room/british-workers-spend-one-billion-pounds-of-their-own-money-on-gen-ai-for-work.html",
-    "status": 200,
-    "finalUrl": "https://www.deloitte.com/uk/en/about/press-room/british-workers-spend-one-billion-pounds-of-their-own-money-on-gen-ai-for-work.html",
-    "title": "British workers spend nearly £1bn of their own money on GenAI for work, landmark Deloitte research finds",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-bf6debc71ef0bb02",
-    "articleTitle": "Europe's push for AI sovereignty is deepening dependency on US Big Tech, analysis warns",
-    "sourceUrl": "https://www.rosalux.de/en/news/id/55228/artificial-intelligence-at-any-cost",
-    "status": 200,
-    "finalUrl": "https://www.rosalux.de/en/news/id/55228/artificial-intelligence-at-any-cost",
-    "title": "Essay , | 09/15/2026 : Artificial Intelligence At Any Cost?",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-7ea538c6fefeb5c1",
-    "articleTitle": "EUCLYD raises over 200 million euros in Samsung-backed Series A for AI silicon in the Netherlands",
-    "sourceUrl": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
-    "status": 200,
-    "finalUrl": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
-    "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-9fe330d4f572318f",
-    "articleTitle": "OpenAI may have violated California's AI safety law with Astra model releases, watchdog says",
-    "sourceUrl": "https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/",
-    "status": 200,
-    "finalUrl": "https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/",
-    "title": "Trending now",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-fe1e1cc79c04499d",
-    "articleTitle": "Trump calls AI risk a 'hoax' as Microsoft, Google and Anthropic write their own safety rules",
-    "sourceUrl": "https://www.techi.com/trump-ai-hoax-microsoft-code-of-conduct-labs-standards-body/",
-    "status": 200,
-    "finalUrl": "https://www.techi.com/trump-ai-hoax-microsoft-code-of-conduct-labs-standards-body/",
-    "title": "Trump calls AI risk a &#x27;hoax.&#x27; Microsoft, Google and Anthropic are writing their own rules",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2552c8905a14a3f2",
-    "articleTitle": "Apple ships Siri AI to EU Macs but withholds it from EU iPhones at launch",
-    "sourceUrl": "https://ppc.land/apple-ships-siri-ai-to-eu-macs-but-not-to-eu-iphones/",
-    "status": 200,
-    "finalUrl": "https://ppc.land/apple-ships-siri-ai-to-eu-macs-but-not-to-eu-iphones/",
-    "title": "Apple ships Siri AI to EU Macs but not to EU iPhones",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a884af08bb5f6b43",
-    "articleTitle": "AI safety warnings hit ASML as European semiconductor stocks fall sharply",
-    "sourceUrl": "https://eutoday.net/ai-safety-warnings-hit-european-semiconductor-stocks/",
-    "status": 200,
-    "finalUrl": "https://eutoday.net/ai-safety-warnings-hit-european-semiconductor-stocks/",
-    "title": "AI safety warnings hit ASML as Europe’s exposure to AI investment boom comes into focus",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c12b1fa3a9c57dc4",
-    "articleTitle": "Swedish drone detection startup Freya raises 533k euros for European expansion",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/",
-    "title": "Swedish drone detection company Freya raises €533k to aid European rollout",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-97eaa7a055d3b3d2",
-    "articleTitle": "European fintech Chift raises 10.5M euros to connect Europe's fragmented financial software",
-    "sourceUrl": "https://fintech.global/2026/09/14/chift-lands-e10-5m-to-connect-europes-fragmented-finance/",
-    "status": 200,
-    "finalUrl": "https://fintech.global/2026/09/14/chift-lands-e10-5m-to-connect-europes-fragmented-finance/",
-    "title": "Chift lands €10.5m to connect Europe&#8217;s fragmented finance",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3b3a44f3b8f182c1",
-    "articleTitle": "EU to propose ban on social media and AI chatbots for under-15s in sweeping Kids Act",
-    "sourceUrl": "https://www.rte.ie/news/2026/0914/1591453-social-media-ban-eu/",
-    "status": 200,
-    "finalUrl": "https://www.rte.ie/news/2026/0914/1591453-social-media-ban-eu/",
-    "title": "EU set to propose social media, AI ban for under-15s",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-544afffb1ce94fe0",
-    "articleTitle": "Trump's former AI czar David Sacks tells OpenAI and Anthropic to pace frontier without antitrust waivers",
-    "sourceUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
-    "status": 200,
-    "finalUrl": "https://shattered.io/david-sacks-ai-czar-openai-anthropic-antitrust-waiver-2026/",
-    "title": "Trump&#8217;s Ex-AI Czar Tells 2 AI Labs: No Waiver [2026]",
     "ok": true
   }
 ]
