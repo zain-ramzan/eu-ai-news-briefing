@@ -1,11 +1,83 @@
 [
   {
+    "id": "eu-ai-e0c900be14f3f9b9",
+    "articleTitle": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of illegal agreement to slow AI",
+    "sourceUrl": "https://www.independent.co.uk/news/world/americas/google-anthropic-openai-spacexai-lawsuit-antitrust-laws-b3052994.html",
+    "status": 200,
+    "finalUrl": "https://www.independent.co.uk/news/world/americas/google-anthropic-openai-spacexai-lawsuit-antitrust-laws-b3052994.html",
+    "title": "Lawsuit accuses Anthropic, OpenAI, Google and SpaceXAI of illegal agreement to slow AI",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-750dafa994c41656",
+    "articleTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
+    "sourceUrl": "https://www.tekedia.com/imf-says-ai-could-lift-europes-productivity-1-but-deepen-inequality-and-energy-strain/",
+    "status": 200,
+    "finalUrl": "https://www.tekedia.com/imf-says-ai-could-lift-europes-productivity-1-but-deepen-inequality-and-energy-strain/",
+    "title": "IMF Says AI Could Lift Europe’s Productivity 1% But Deepen Inequality and Energy Strain",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-a4b8c81bbfdd099f",
+    "articleTitle": "OpenAI CEO Sam Altman to brief UN Security Council on AI safety and global coordination",
+    "sourceUrl": "https://www.aninews.in/news/world/us/openai-ceo-sam-altman-to-brief-unsc-amid-growing-calls-for-ai-safeguards20260919085216",
+    "status": 200,
+    "finalUrl": "https://www.aninews.in/news/world/us/openai-ceo-sam-altman-to-brief-unsc-amid-growing-calls-for-ai-safeguards20260919085216/",
+    "title": "OpenAI CEO Sam Altman to brief UNSC amid growing calls for AI safeguards",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-2fa1657a5731f40c",
+    "articleTitle": "Europe does not want to depend on foreign technology in the new digital order",
+    "sourceUrl": "https://english.elpais.com/technology/2026-09-19/europe-does-not-want-to-depend-on-foreign-technology-in-the-new-digital-order.html",
+    "status": 200,
+    "finalUrl": "https://english.elpais.com/technology/2026-09-19/europe-does-not-want-to-depend-on-foreign-technology-in-the-new-digital-order.html",
+    "title": "Europe does not want to depend on foreign technology in the new digital order",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-6ddca775b503fb0a",
+    "articleTitle": "European startups secure major capital deals across tech sector in mid-September",
+    "sourceUrl": "https://n24.com.tr/en/business/european-startups-secure-major-capital-deals-across-tech-sector-977",
+    "status": 200,
+    "finalUrl": "https://n24.com.tr/en/business/european-startups-secure-major-capital-deals-across-tech-sector-977",
+    "title": "European Startups Secure Major Capital Deals Across Tech Sector",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-b27fb7cf65344ef0",
+    "articleTitle": "Google says its Gemini AI model hacked three other companies during security test",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+    "status": 200,
+    "finalUrl": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-fa5289b1c01f73b6",
+    "articleTitle": "OpenAI faces EU scrutiny over unreported AI safety incident involving RubyGems registry",
+    "sourceUrl": "https://caliber.az/en/post/openai-faces-eu-scrutiny-over-unreported-ai-safety-incident",
+    "status": 200,
+    "finalUrl": "https://caliber.az/en/post/openai-faces-eu-scrutiny-over-unreported-ai-safety-incident",
+    "title": "OpenAI faces EU scrutiny over unreported AI safety incident",
+    "ok": true
+  },
+  {
     "id": "eu-ai-897231c3aaedd3ac",
     "articleTitle": "Italian firms face advertising bans under new AI-generated content offences decree",
     "sourceUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
     "status": 200,
     "finalUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
     "title": "Italian firms face ad bans over AI-generated content offences",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e05de698a3b2eba9",
+    "articleTitle": "Eight ERC grantees win 2026 Public Engagement with Research Awards including AI in hospitals",
+    "sourceUrl": "https://erc.europa.eu/news-events/news/Eight-researchers-win-ERC-public-engagement-awards-2026",
+    "status": 200,
+    "finalUrl": "https://erc.europa.eu/news-events/news/Eight-researchers-win-ERC-public-engagement-awards-2026",
+    "title": "From tickling to AI in hospitals: Eight researchers win ERC public engagement awards",
     "ok": true
   },
   {
@@ -153,6 +225,24 @@
     "ok": true
   },
   {
+    "id": "eu-ai-e3d5330f16b17b09",
+    "articleTitle": "European Commission welcomes first Important Project of Common European Interest in AI",
+    "sourceUrl": "https://www.pubaffairsbruxelles.eu/eu-institution-news/commission-welcomes-the-design-of-first-important-project-of-common-european-interest-in-ai/",
+    "status": 200,
+    "finalUrl": "https://www.pubaffairsbruxelles.eu/eu-institution-news/commission-welcomes-the-design-of-first-important-project-of-common-european-interest-in-ai/",
+    "title": "Commission welcomes the design of first Important Project of Common European Interest in AI",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-69c67cc01445b17a",
+    "articleTitle": "EU-funded researcher awarded 2026 Balzan Prize for social science of digital technology",
+    "sourceUrl": "https://cordis.europa.eu/article/id/467378-eu-funded-researcher-awarded-2026-balzan-prize-for-the-social-science-of-digital-technology",
+    "status": 200,
+    "finalUrl": "https://cordis.europa.eu/article/id/467378-eu-funded-researcher-awarded-2026-balzan-prize-for-the-social-science-of-digital-technology",
+    "title": "EU-funded researcher awarded 2026 Balzan Prize for The Social Science of Digital Technology",
+    "ok": true
+  },
+  {
     "id": "eu-ai-c1340c258d86b583",
     "articleTitle": "Multiverse Computing and Zylon bring AI inside Europe's secure networks with quantum-inspired compression",
     "sourceUrl": "https://quantumzeitgeist.com/ai-inside-europe-multiverse-zylon/",
@@ -177,96 +267,6 @@
     "status": 200,
     "finalUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
     "title": "EU closes consultation on data sovereignty and cross-border flows",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ac66dbcc8824530f",
-    "articleTitle": "Axelera AI launches Europa AIPU for enterprise and data centre AI inference",
-    "sourceUrl": "https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro",
-    "status": 200,
-    "finalUrl": "https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro",
-    "title": "Axelera AI Launches Europa: Delivers Physical and Enterprise AI Through Growing Partner Ecosystem Including Dell and Supermicro",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-9c763821ec949e9f",
-    "articleTitle": "London-based Jack and Jill raises 34.68 million euros for AI agents in recruitment",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/",
-    "title": "London-based Jack &#038; Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ee1789faa0e44781",
-    "articleTitle": "JD Vance dismisses AI regulation: 'If you're building Frankenstein, stop'",
-    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
-    "status": 200,
-    "finalUrl": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
-    "title": "‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-426b70a8b0687e45",
-    "articleTitle": "Crane Venture Partners raises 419 million euros for European and global expansion",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
-    "title": "Crane Venture Partners raises €419 million as it expands across Europe, APAC and the US",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ab6387cac09006dc",
-    "articleTitle": "Von der Leyen calls for EU solidarity on AI, climate and China in 2026 State of the Union address",
-    "sourceUrl": "https://www.globalbankingandfinance.com/eu-head-call-european-solidarity-top-challenges-closer/",
-    "status": 200,
-    "finalUrl": "https://www.globalbankingandfinance.com/eu-head-call-european-solidarity-top-challenges-closer/",
-    "title": "EU&#39;s von der Leyen backs partnership with Canada in &#39;openly hostile world&#39;",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-dc2fbdb30551fe41",
-    "articleTitle": "EIB and Angelini Ventures partnership reaches €48.5 million in European life sciences and robotics investments",
-    "sourceUrl": "https://markets.businessinsider.com/news/stocks/eib-and-angelini-ventures-partnership-reaches-48-5-million-in-investments-1036549287",
-    "status": 200,
-    "finalUrl": "https://markets.businessinsider.com/news/stocks/eib-and-angelini-ventures-partnership-reaches-48-5-million-in-investments-1036549287",
-    "title": "EIB and Angelini Ventures’ Partnership Reaches €48.5 Million in Investments",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-078e671378a64a20",
-    "articleTitle": "Anthropic to open Singapore office in October, chasing OpenAI for Southeast Asia's AI market",
-    "sourceUrl": "https://fortune.com/2026/09/16/anthropic-open-singapore-office-october-chasing-openai-southeast-asia/",
-    "status": 200,
-    "finalUrl": "https://fortune.com/2026/09/16/anthropic-open-singapore-office-october-chasing-openai-southeast-asia/",
-    "title": "Trending now",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-951d1aeb7e149691",
-    "articleTitle": "Meta's Zuckerberg and Nvidia's Huang reject coordinated AI slowdown as Amodei and Altman call for restraint",
-    "sourceUrl": "https://theedgemalaysia.com/node/818291",
-    "status": 200,
-    "finalUrl": "https://theedgemalaysia.com/node/818291",
-    "title": "Meta&#x27;s Zuckerberg says AI labs have enough incentive to build safely",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2fad4d2b96428b3d",
-    "articleTitle": "Legal analysis: EU AI Act and GDPR compliance intersect through existing data governance frameworks",
-    "sourceUrl": "https://www.jdsupra.com/legalnews/trust-issues-september-2026-2271969/",
-    "status": 202,
-    "finalUrl": "https://www.jdsupra.com/legalnews/trust-issues-september-2026-2271969/",
-    "title": "JavaScript is disabled",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-9c1231f99b58b817",
-    "articleTitle": "EU Kids Act draft sets 15 as minimum age for unsupervised social media, with platform pre-clearance rules",
-    "sourceUrl": "https://ppc.land/eu-kids-act-draft-sets-15-as-age-for-unsupervised-social-media-accounts/",
-    "status": 200,
-    "finalUrl": "https://ppc.land/eu-kids-act-draft-sets-15-as-age-for-unsupervised-social-media-accounts/",
-    "title": "EU Kids Act draft sets 15 as age for unsupervised social media accounts",
     "ok": true
   }
 ]
