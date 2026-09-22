@@ -1,5 +1,113 @@
 [
   {
+    "id": "eu-ai-d2ea0c7ae0f9d4e3",
+    "articleTitle": "Analysis reveals Europe's structural semiconductor fragility despite high economic complexity",
+    "sourceUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
+    "status": 200,
+    "finalUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
+    "title": "European Fragility in Semiconductors: Between Technological Complexity and Global Dependencies",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-fb7bf39341720ef8",
+    "articleTitle": "Leuven-based Spott raises EUR 18.3 million for AI-native recruitment platform",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/",
+    "title": "Leuven-based Spott raises €18.3 million to build the AI-native operating system for recruitment agencies",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-b9b4c6df9741d6b3",
+    "articleTitle": "More than 20 countries call for binding AI safety measures at United Nations",
+    "sourceUrl": "https://www.freemalaysiatoday.com/category/highlight/2026/09/22/leaders-push-for-global-ai-safeguards-as-un-week-opens",
+    "status": 200,
+    "finalUrl": "https://www.freemalaysiatoday.com/category/highlight/2026/09/22/leaders-push-for-global-ai-safeguards-as-un-week-opens",
+    "title": "Leaders push for global AI safeguards as UN week opens",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-98e458046cfc812f",
+    "articleTitle": "UN scientific panel warns AI safeguards are unravelling as agents advance",
+    "sourceUrl": "https://news.un.org/en/story/2026/09/1168380",
+    "status": 200,
+    "finalUrl": "https://news.un.org/en/story/2026/09/1168380",
+    "title": "UN panel calls for stronger safeguards as AI agents advance",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-bcfae76f285c56ee",
+    "articleTitle": "NATO DIANA announces first 24 investors joining trusted capital network",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/the-21-european-investors-funding-natos-defence/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/the-21-european-investors-funding-natos-defence/",
+    "title": "The 20 European investors funding NATO’s defence and innovation",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-db5827de591fc458",
+    "articleTitle": "Irish DPC fines Google EUR 403 million over location data tracking",
+    "sourceUrl": "https://shattered.io/google-fined-403-million-location-data-2026/",
+    "status": 200,
+    "finalUrl": "https://shattered.io/google-fined-403-million-location-data-2026/",
+    "title": "Google Fined €403M Over Location Data Tracking [2026]",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-56e871e11bdc8a71",
+    "articleTitle": "Anthropic and OpenAI agent incidents put Brussels AI Act reporting rules to the test",
+    "sourceUrl": "https://150sec.com/anthropic-openai-agent-incidents-put-brussels-reporting-rules-to-the-test/",
+    "status": 200,
+    "finalUrl": "https://150sec.com/anthropic-openai-agent-incidents-put-brussels-reporting-rules-to-the-test/",
+    "title": "Anthropic, OpenAI agent incidents put Brussels reporting rules to the test",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d695c8a49771d482",
+    "articleTitle": "Project Ventures debuts EUR 5.8 million fund targeting DeepTech and AI startups at Imperial College London",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
+    "title": "Project Ventures debuts €5.8 million fund targeting DeepTech and AI startups linked to Imperial College London",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c2d7f593abaf9eb7",
+    "articleTitle": "European Commission proposes common data centre energy and water rating system",
+    "sourceUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+    "status": 200,
+    "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+    "title": "Making data centres energy efficient thanks to a new EU rating system",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ceffbb8fa3b3f0c0",
+    "articleTitle": "EU Cyber Resilience Act reporting obligations go live as ENISA launches single platform",
+    "sourceUrl": "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched",
+    "status": 200,
+    "finalUrl": "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched",
+    "title": "The CRA Single Reporting Platform is launched",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-eb3ca6c81e9b23b5",
+    "articleTitle": "EU AI Board advances enforcement coordination but sets no new compliance deadline",
+    "sourceUrl": "https://quasa.io/insights/the-eu-ai-board-turns-to-enforcement-but-its-september-meeting-set-no-new-deadline",
+    "status": 200,
+    "finalUrl": "https://quasa.io/insights/the-eu-ai-board-turns-to-enforcement-but-its-september-meeting-set-no-new-deadline",
+    "title": "The EU AI Board Turns to Enforcement—but Its September Meeting Set No New Deadline",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-06a81feafdb56688",
+    "articleTitle": "Europe faces up to EUR 600 billion AI infrastructure gap over next decade",
+    "sourceUrl": "https://sana.sy/en/economic/2344255/",
+    "status": 200,
+    "finalUrl": "https://sana.sy/en/economic/2344255/",
+    "title": "Europe faces up to €600 billion AI infrastructure gap as race accelerates",
+    "ok": true
+  },
+  {
     "id": "eu-ai-e0c900be14f3f9b9",
     "articleTitle": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of illegal agreement to slow AI",
     "sourceUrl": "https://www.independent.co.uk/news/world/americas/google-anthropic-openai-spacexai-lawsuit-antitrust-laws-b3052994.html",
@@ -90,6 +198,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-8c882516618222e1",
+    "articleTitle": "EU-backed Scaleup Europe Fund in talks to invest in ElevenLabs EUR 500 million round",
+    "sourceUrl": "https://www.briefs.co/news/eqt-s-scaleup-europe-fund-weighs-investment-in-uk-voice-ai-s",
+    "status": 200,
+    "finalUrl": "https://www.briefs.co/news/eqt-s-scaleup-europe-fund-weighs-investment-in-uk-voice-ai-s/",
+    "title": "EQT's Scaleup Europe Fund weighs investment in UK voice-AI startup ElevenLabs",
+    "ok": true
+  },
+  {
     "id": "eu-ai-eb0e6547b6b96cab",
     "articleTitle": "OpenAI discloses six AI safety incidents and launches model misalignment reporting framework",
     "sourceUrl": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
@@ -105,6 +222,15 @@
     "status": 200,
     "finalUrl": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
     "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ef0913af78c30aa0",
+    "articleTitle": "Thales unveils HexaForce AI-powered sovereign command and control system for NATO",
+    "sourceUrl": "https://www.edrmagazine.eu/thales-unveils-hexaforce-ai-powered-sovereign-command-and-control-for-nato-and-allied-nations",
+    "status": 200,
+    "finalUrl": "https://www.edrmagazine.eu/thales-unveils-hexaforce-ai-powered-sovereign-command-and-control-for-nato-and-allied-nations",
+    "title": "Thales unveils HexaForce: AI-powered, sovereign command and control for NATO and allied nations",
     "ok": true
   },
   {
@@ -141,132 +267,6 @@
     "status": 200,
     "finalUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
     "title": "FF News - The Fintech News Network",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2da64486ff446767",
-    "articleTitle": "DIREKTION Awards 2026: Ten EU-funded innovations leverage AI, robotics and sensor systems for disaster resilience",
-    "sourceUrl": "https://home-affairs.ec.europa.eu/news/direktion-awards-2026-ten-eu-funded-innovations-leverage-ai-robotics-and-advanced-sensor-systems-2026-09-17_en",
-    "status": 200,
-    "finalUrl": "https://home-affairs.ec.europa.eu/news/direktion-awards-2026-ten-eu-funded-innovations-leverage-ai-robotics-and-advanced-sensor-systems-2026-09-17_en",
-    "title": "DIREKTION Awards 2026: Ten EU-funded innovations leverage AI, robotics and advanced sensor systems to drive modern security and disaster resilience",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-be8b12ee0faa45c4",
-    "articleTitle": "MEPs clash over AI and social media rules in European Parliament debate following State of the Union",
-    "sourceUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
-    "status": 200,
-    "finalUrl": "https://www.brusselstimes.com/eu-affairs/2320368/social-media-rules-one-market-reforms-spark-clash-in-eu-state-of-the-union-debate/",
-    "title": "The Brussels Times",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-bf58c8bd120e15b8",
-    "articleTitle": "EU supports AI innovation but insists on compliance with bloc's safety rules amid concerns",
-    "sourceUrl": "https://www.aa.com.tr/en/europe/eu-supports-ai-innovation-but-insists-on-compliance-with-blocs-safety-rules-amid-concerns/4056713",
-    "status": 200,
-    "finalUrl": "https://www.aa.com.tr/en/europe/eu-supports-ai-innovation-but-insists-on-compliance-with-blocs-safety-rules-amid-concerns/4056713",
-    "title": "EU supports AI innovation but insists on compliance with bloc&#x27;s safety rules amid concerns",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-6a5885f399b42148",
-    "articleTitle": "Spain's AEPD logs first AI agent-linked data breach",
-    "sourceUrl": "https://shattered.io/aepd-first-ai-agent-data-breach-spain-2026/",
-    "status": 200,
-    "finalUrl": "https://shattered.io/aepd-first-ai-agent-data-breach-spain-2026/",
-    "title": "Spain&#8217;s AEPD Logs 1st AI Agent Data Breach [2026]",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2ad6b078d6317f30",
-    "articleTitle": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
-    "title": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-140d281d578a42ba",
-    "articleTitle": "Hackuity raises 19 million dollars as AI fuels vulnerability explosion in cybersecurity",
-    "sourceUrl": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-    "status": 200,
-    "finalUrl": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-    "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ecf6f58ed76ac187",
-    "articleTitle": "UK's Burnham and Canada's Carney discuss AI risks and defence cooperation in first bilateral meeting",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting",
-    "status": 200,
-    "finalUrl": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting",
-    "title": "UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-28126e03635e5451",
-    "articleTitle": "Bruegel analysis: Europe still needs to do more to provide real AI reassurance",
-    "sourceUrl": "https://www.bruegel.org/first-glance/europe-still-needs-do-more-provide-real-artificial-intelligence-reassurance",
-    "status": 200,
-    "finalUrl": "https://www.bruegel.org/first-glance/europe-still-needs-do-more-provide-real-artificial-intelligence-reassurance",
-    "title": "Europe still needs to do more to provide real artificial intelligence reassurance",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-9e0b386152f614d6",
-    "articleTitle": "'Godfather of AI' Geoffrey Hinton says humanity is 'losing control' of the technology",
-    "sourceUrl": "https://www.straitstimes.com/world/godfather-of-ai-says-humanity-is-losing-control-of-the-technology",
-    "status": 200,
-    "finalUrl": "https://www.straitstimes.com/world/godfather-of-ai-says-humanity-is-losing-control-of-the-technology",
-    "title": "‘Godfather of AI’ says humanity is ‘losing control’ of the technology",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e3d5330f16b17b09",
-    "articleTitle": "European Commission welcomes first Important Project of Common European Interest in AI",
-    "sourceUrl": "https://www.pubaffairsbruxelles.eu/eu-institution-news/commission-welcomes-the-design-of-first-important-project-of-common-european-interest-in-ai/",
-    "status": 200,
-    "finalUrl": "https://www.pubaffairsbruxelles.eu/eu-institution-news/commission-welcomes-the-design-of-first-important-project-of-common-european-interest-in-ai/",
-    "title": "Commission welcomes the design of first Important Project of Common European Interest in AI",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-69c67cc01445b17a",
-    "articleTitle": "EU-funded researcher awarded 2026 Balzan Prize for social science of digital technology",
-    "sourceUrl": "https://cordis.europa.eu/article/id/467378-eu-funded-researcher-awarded-2026-balzan-prize-for-the-social-science-of-digital-technology",
-    "status": 200,
-    "finalUrl": "https://cordis.europa.eu/article/id/467378-eu-funded-researcher-awarded-2026-balzan-prize-for-the-social-science-of-digital-technology",
-    "title": "EU-funded researcher awarded 2026 Balzan Prize for The Social Science of Digital Technology",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c1340c258d86b583",
-    "articleTitle": "Multiverse Computing and Zylon bring AI inside Europe's secure networks with quantum-inspired compression",
-    "sourceUrl": "https://quantumzeitgeist.com/ai-inside-europe-multiverse-zylon/",
-    "status": 200,
-    "finalUrl": "https://quantumzeitgeist.com/ai-inside-europe-multiverse-zylon/",
-    "title": "Multiverse and Zylon bring AI inside Europe’s secure networks",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-b401551046a0c350",
-    "articleTitle": "Novo Nordisk partners with Anthropic to accelerate drug discovery using Claude AI",
-    "sourceUrl": "https://www.rdworldonline.com/anthropic-and-novo-nordisk-expand-claude-work-including-in-drug-discovery/",
-    "status": 200,
-    "finalUrl": "https://www.rdworldonline.com/anthropic-and-novo-nordisk-expand-claude-work-including-in-drug-discovery/",
-    "title": "Anthropic and Novo Nordisk expand Claude work, including in drug discovery",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-1a9bc05761eae901",
-    "articleTitle": "EU closes consultation on data sovereignty and cross-border data flows",
-    "sourceUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
-    "status": 200,
-    "finalUrl": "https://dig.watch/updates/eu-data-sovereignty-and-cross-border-flows",
-    "title": "EU closes consultation on data sovereignty and cross-border flows",
     "ok": true
   }
 ]
