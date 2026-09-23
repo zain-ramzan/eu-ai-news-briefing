@@ -1,11 +1,173 @@
 [
   {
+    "id": "eu-ai-6e069aa051423971",
+    "articleTitle": "UN Secretary-General names AI as one of four defining tests of power for humanity",
+    "sourceUrl": "https://news.un.org/en/story/2026/09/1168392",
+    "status": 200,
+    "finalUrl": "https://news.un.org/en/story/2026/09/1168392",
+    "title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-a78e185d31c2fb5c",
+    "articleTitle": "AI governance must not become a geopolitical battlefield, analysts warn",
+    "sourceUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
+    "status": 200,
+    "finalUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
+    "title": "AI Governance Must Not Become a Geopolitical Battlefield",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-8912245d2d2eb2e6",
+    "articleTitle": "German and Dutch strategic innovation agencies partner on AI chip design",
+    "sourceUrl": "https://www.globalbankingandfinance.com/german-dutch-strategic-innovation-agencies-collaborate-ai/",
+    "status": 200,
+    "finalUrl": "https://www.globalbankingandfinance.com/german-dutch-strategic-innovation-agencies-collaborate-ai/",
+    "title": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-9f2ccfdf67becd6f",
+    "articleTitle": "Alibaba to add data centres in Europe and Middle East in AI infrastructure push",
+    "sourceUrl": "https://www.rttnews.com/3693031/alibaba-unveils-new-ai-chip-plans-20-gigawatt-data-center-expansion.aspx",
+    "status": 200,
+    "finalUrl": "https://www.rttnews.com/3693031/alibaba-unveils-new-ai-chip-plans-20-gigawatt-data-center-expansion.aspx",
+    "title": "Alibaba Unveils New AI Chip, Plans 20-Gigawatt Data Center Expansion",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c44b4da51a149007",
+    "articleTitle": "India and EU advance cooperation on AI, quantum and semiconductors",
+    "sourceUrl": "https://opengovasia.com/india-eu-talks-advance-cooperation-on-ai-quantum-and-semiconductors/",
+    "status": 200,
+    "finalUrl": "https://opengovasia.com/india-eu-talks-advance-cooperation-on-ai-quantum-and-semiconductors/?c=us",
+    "title": "India, EU Talks Advance Cooperation on AI, Quantum and Semiconductors",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c29368db46b07240",
+    "articleTitle": "Trump renames AI 'super intelligence' in US documents, rejects international AI regulation",
+    "sourceUrl": "https://gulfnews.com/technology/trump-renames-ai-super-intelligence-at-un-assembly-as-leaders-jostle-over-dangers-1.500684131",
+    "status": 200,
+    "finalUrl": "https://gulfnews.com/technology/trump-renames-ai-super-intelligence-at-un-assembly-as-leaders-jostle-over-dangers-1.500684131",
+    "title": "Trump renames AI &#x27;super intelligence&#x27; at UN Assembly as leaders jostle over dangers",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-23b05835e46b90c4",
+    "articleTitle": "Anthropic and OpenAI roll out cheaper models in first release since slowdown call",
+    "sourceUrl": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+    "status": 200,
+    "finalUrl": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-b0a7ba939a21a332",
+    "articleTitle": "EU prepares Chips Act 2.0 as Brussels rethinks competition rules for global scale",
+    "sourceUrl": "https://eutoday.net/eu-chips-act-2-merger-rules-global-scale/",
+    "status": 200,
+    "finalUrl": "https://eutoday.net/eu-chips-act-2-merger-rules-global-scale/",
+    "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-095396d77199f176",
+    "articleTitle": "Four MEPs push for standalone AI Liability Act to close gaps left by the AI Act",
+    "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/four-meps-push-for-standalone-ai-liability-law-to-close-gaps-left-by-the/70159753",
+    "status": 200,
+    "finalUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/four-meps-push-for-standalone-ai-liability-law-to-close-gaps-left-by-the/70159753",
+    "title": "BÖRSE",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-495cd0b1b30b894f",
+    "articleTitle": "EU AI Act Digital Omnibus extends compliance deadlines and reshapes risk classification",
+    "sourceUrl": "https://www.jdsupra.com/legalnews/what-changed-under-the-eu-ai-act-5679575/",
+    "status": 202,
+    "finalUrl": "https://www.jdsupra.com/legalnews/what-changed-under-the-eu-ai-act-5679575/",
+    "title": "JavaScript is disabled",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-14c0b09be5dbfb41",
+    "articleTitle": "Helsinki's Verda becomes Europe's latest unicorn after raising EUR 164.8M for full-stack AI cloud",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/",
+    "title": "Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-7f500af0015c4673",
+    "articleTitle": "European shoppers are already buying through AI as retailers race to catch up",
+    "sourceUrl": "https://150sec.com/european-shoppers-are-already-buying-through-ai-retailers-are-hurrying-to-keep-up/",
+    "status": 200,
+    "finalUrl": "https://150sec.com/european-shoppers-are-already-buying-through-ai-retailers-are-hurrying-to-keep-up/",
+    "title": "European shoppers are already buying through AI. Retailers are hurrying to keep up.",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-4b9389a8e36c045a",
+    "articleTitle": "ENISA Threat Landscape 2026 warns that cyber dependencies weaken EU resilience",
+    "sourceUrl": "https://www.enisa.europa.eu/news/exploring-the-evolution-of-the-cyber-threat-landscape-how-dependencies-weaken-our-digital-resilience",
+    "status": 200,
+    "finalUrl": "https://www.enisa.europa.eu/news/exploring-the-evolution-of-the-cyber-threat-landscape-how-dependencies-weaken-our-digital-resilience",
+    "title": "Exploring the evolution of the cyber threat landscape: How dependencies weaken our digital resilience",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5cf22060022b71be",
+    "articleTitle": "UK Parliament summons OpenAI, Anthropic, Google and Meta to urgent AI safety hearing",
+    "sourceUrl": "https://www.cityam.com/openai-and-anthropic-summoned-to-parliament-on-fears-uk-ai-rules-not-fit-for-future/",
+    "status": 200,
+    "finalUrl": "https://www.cityam.com/openai-and-anthropic-summoned-to-parliament-on-fears-uk-ai-rules-not-fit-for-future/",
+    "title": "OpenAI and Anthropic summoned to parliament on fears UK AI rules &lsquo;not fit for future&rsquo;",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c67489893f6e7a2d",
+    "articleTitle": "Besancon-based Lightspring raises over EUR 3.5M to industrialise photonic chip packaging",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/",
+    "title": "Besançon-based Lightspring raises over €3.5 million to industrialise photonic chip packaging",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-2e3ace459051ab87",
+    "articleTitle": "Paris-based Primo raises EUR 6.9M to deploy autonomous AI agents for IT operations",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/",
+    "title": "Paris-based Primo raises €6.9 million to deploy autonomous AI agents for IT teams",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-a887945525e8d476",
+    "articleTitle": "AI boom puts pressure on Europe's data centre construction capacity",
+    "sourceUrl": "https://www.consultancy.eu/news/14354/ai-boom-puts-pressure-on-europes-data-centre-construction-capacity",
+    "status": 200,
+    "finalUrl": "https://www.consultancy.eu/news/14354/ai-boom-puts-pressure-on-europes-data-centre-construction-capacity",
+    "title": "AI boom puts pressure on Europe’s data centre construction capacity",
+    "ok": true
+  },
+  {
     "id": "eu-ai-d2ea0c7ae0f9d4e3",
     "articleTitle": "Analysis reveals Europe's structural semiconductor fragility despite high economic complexity",
     "sourceUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
     "status": 200,
     "finalUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
     "title": "European Fragility in Semiconductors: Between Technological Complexity and Global Dependencies",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ea0aff91fd112f62",
+    "articleTitle": "Europe says its AI rules are enough, but AI agents are testing that claim",
+    "sourceUrl": "https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/",
+    "status": 200,
+    "finalUrl": "https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/",
+    "title": "Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim",
     "ok": true
   },
   {
@@ -72,6 +234,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-08d6ed0ce211f7f5",
+    "articleTitle": "New Europol proposal pushes for deregulation and expanded AI use in policing",
+    "sourceUrl": "https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/",
+    "status": 200,
+    "finalUrl": "https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/",
+    "title": "New Europol proposal pushes for deregulation and more AI in policing",
+    "ok": true
+  },
+  {
     "id": "eu-ai-c2d7f593abaf9eb7",
     "articleTitle": "European Commission proposes common data centre energy and water rating system",
     "sourceUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
@@ -96,177 +267,6 @@
     "status": 200,
     "finalUrl": "https://quasa.io/insights/the-eu-ai-board-turns-to-enforcement-but-its-september-meeting-set-no-new-deadline",
     "title": "The EU AI Board Turns to Enforcement—but Its September Meeting Set No New Deadline",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-06a81feafdb56688",
-    "articleTitle": "Europe faces up to EUR 600 billion AI infrastructure gap over next decade",
-    "sourceUrl": "https://sana.sy/en/economic/2344255/",
-    "status": 200,
-    "finalUrl": "https://sana.sy/en/economic/2344255/",
-    "title": "Europe faces up to €600 billion AI infrastructure gap as race accelerates",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e0c900be14f3f9b9",
-    "articleTitle": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of illegal agreement to slow AI",
-    "sourceUrl": "https://www.independent.co.uk/news/world/americas/google-anthropic-openai-spacexai-lawsuit-antitrust-laws-b3052994.html",
-    "status": 200,
-    "finalUrl": "https://www.independent.co.uk/news/world/americas/google-anthropic-openai-spacexai-lawsuit-antitrust-laws-b3052994.html",
-    "title": "Lawsuit accuses Anthropic, OpenAI, Google and SpaceXAI of illegal agreement to slow AI",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-750dafa994c41656",
-    "articleTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
-    "sourceUrl": "https://www.tekedia.com/imf-says-ai-could-lift-europes-productivity-1-but-deepen-inequality-and-energy-strain/",
-    "status": 200,
-    "finalUrl": "https://www.tekedia.com/imf-says-ai-could-lift-europes-productivity-1-but-deepen-inequality-and-energy-strain/",
-    "title": "IMF Says AI Could Lift Europe’s Productivity 1% But Deepen Inequality and Energy Strain",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a4b8c81bbfdd099f",
-    "articleTitle": "OpenAI CEO Sam Altman to brief UN Security Council on AI safety and global coordination",
-    "sourceUrl": "https://www.aninews.in/news/world/us/openai-ceo-sam-altman-to-brief-unsc-amid-growing-calls-for-ai-safeguards20260919085216",
-    "status": 200,
-    "finalUrl": "https://www.aninews.in/news/world/us/openai-ceo-sam-altman-to-brief-unsc-amid-growing-calls-for-ai-safeguards20260919085216/",
-    "title": "OpenAI CEO Sam Altman to brief UNSC amid growing calls for AI safeguards",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2fa1657a5731f40c",
-    "articleTitle": "Europe does not want to depend on foreign technology in the new digital order",
-    "sourceUrl": "https://english.elpais.com/technology/2026-09-19/europe-does-not-want-to-depend-on-foreign-technology-in-the-new-digital-order.html",
-    "status": 200,
-    "finalUrl": "https://english.elpais.com/technology/2026-09-19/europe-does-not-want-to-depend-on-foreign-technology-in-the-new-digital-order.html",
-    "title": "Europe does not want to depend on foreign technology in the new digital order",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-6ddca775b503fb0a",
-    "articleTitle": "European startups secure major capital deals across tech sector in mid-September",
-    "sourceUrl": "https://n24.com.tr/en/business/european-startups-secure-major-capital-deals-across-tech-sector-977",
-    "status": 200,
-    "finalUrl": "https://n24.com.tr/en/business/european-startups-secure-major-capital-deals-across-tech-sector-977",
-    "title": "European Startups Secure Major Capital Deals Across Tech Sector",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-b27fb7cf65344ef0",
-    "articleTitle": "Google says its Gemini AI model hacked three other companies during security test",
-    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-    "status": 200,
-    "finalUrl": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-    "title": "Google says its Gemini AI model hacked three other companies",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-fa5289b1c01f73b6",
-    "articleTitle": "OpenAI faces EU scrutiny over unreported AI safety incident involving RubyGems registry",
-    "sourceUrl": "https://caliber.az/en/post/openai-faces-eu-scrutiny-over-unreported-ai-safety-incident",
-    "status": 200,
-    "finalUrl": "https://caliber.az/en/post/openai-faces-eu-scrutiny-over-unreported-ai-safety-incident",
-    "title": "OpenAI faces EU scrutiny over unreported AI safety incident",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-897231c3aaedd3ac",
-    "articleTitle": "Italian firms face advertising bans under new AI-generated content offences decree",
-    "sourceUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
-    "status": 200,
-    "finalUrl": "https://ppc.land/italian-firms-face-ad-bans-over-ai-generated-content-offences/",
-    "title": "Italian firms face ad bans over AI-generated content offences",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e05de698a3b2eba9",
-    "articleTitle": "Eight ERC grantees win 2026 Public Engagement with Research Awards including AI in hospitals",
-    "sourceUrl": "https://erc.europa.eu/news-events/news/Eight-researchers-win-ERC-public-engagement-awards-2026",
-    "status": 200,
-    "finalUrl": "https://erc.europa.eu/news-events/news/Eight-researchers-win-ERC-public-engagement-awards-2026",
-    "title": "From tickling to AI in hospitals: Eight researchers win ERC public engagement awards",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-5cc2ac0014827b4d",
-    "articleTitle": "Unsealed court documents reveal Microsoft and OpenAI internal concerns about AI content theft",
-    "sourceUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "status": 200,
-    "finalUrl": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8c882516618222e1",
-    "articleTitle": "EU-backed Scaleup Europe Fund in talks to invest in ElevenLabs EUR 500 million round",
-    "sourceUrl": "https://www.briefs.co/news/eqt-s-scaleup-europe-fund-weighs-investment-in-uk-voice-ai-s",
-    "status": 200,
-    "finalUrl": "https://www.briefs.co/news/eqt-s-scaleup-europe-fund-weighs-investment-in-uk-voice-ai-s/",
-    "title": "EQT's Scaleup Europe Fund weighs investment in UK voice-AI startup ElevenLabs",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-eb0e6547b6b96cab",
-    "articleTitle": "OpenAI discloses six AI safety incidents and launches model misalignment reporting framework",
-    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-    "status": 200,
-    "finalUrl": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-    "title": "OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ddb216ed1b18d0c0",
-    "articleTitle": "Anthropic reveals Claude leads 26 percent of AI R&D work with 30,000 concurrent agents",
-    "sourceUrl": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
-    "status": 200,
-    "finalUrl": "https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/",
-    "title": "Anthropic Says Claude Leads 26% of Its AI Research and Development",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ef0913af78c30aa0",
-    "articleTitle": "Thales unveils HexaForce AI-powered sovereign command and control system for NATO",
-    "sourceUrl": "https://www.edrmagazine.eu/thales-unveils-hexaforce-ai-powered-sovereign-command-and-control-for-nato-and-allied-nations",
-    "status": 200,
-    "finalUrl": "https://www.edrmagazine.eu/thales-unveils-hexaforce-ai-powered-sovereign-command-and-control-for-nato-and-allied-nations",
-    "title": "Thales unveils HexaForce: AI-powered, sovereign command and control for NATO and allied nations",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8d960e6561be9ff2",
-    "articleTitle": "Pew survey finds China edges US and EU on AI regulation trust in middle-income countries",
-    "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries",
-    "status": 200,
-    "finalUrl": "https://www.scmp.com/news/china/diplomacy/article/3367776/china-trusted-more-us-eu-ai-regulation-pew-survey-middle-income-countries",
-    "title": "China trusted more than US, EU on AI regulation in Pew survey of middle-income countries",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3fecd9333acc6f3e",
-    "articleTitle": "German court rules Meta liable for fake ads on Instagram and Facebook",
-    "sourceUrl": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/meta-scam-ads-ruling-germany-frankfurt-court",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c41367b2f2238703",
-    "articleTitle": "EU Commission officially proposes under-13 social media ban in Kids Act",
-    "sourceUrl": "https://en.ilsole24ore.com/art/europe-von-der-leyen-says-no-social-media-for-children-under-13-canada-becomes-first-eu-associate-member-AJRbukEB",
-    "status": 200,
-    "finalUrl": "https://en.ilsole24ore.com/art/europe-von-der-leyen-no-social-media-for-under-13s-canada-first-eu-associate-member-AJRbukEB",
-    "title": "Europe, von der Leyen: no social media for children under 13. Canada becomes the first EU associate member",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ad069208f35bfa8a",
-    "articleTitle": "CUBE and IBM partner to automate global AI compliance via watsonx.governance",
-    "sourceUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
-    "status": 200,
-    "finalUrl": "https://ffnews.com/news/leading-global-regtech-cube-announces-new-collaboration-with-ibm-to-help-enterpr-6b4810e4",
-    "title": "FF News - The Fintech News Network",
     "ok": true
   }
 ]
