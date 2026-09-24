@@ -1,5 +1,68 @@
 [
   {
+    "id": "eu-ai-85cd326244e7764f",
+    "articleTitle": "Australia says OpenAI agent hacked government health data portal",
+    "sourceUrl": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371",
+    "status": 200,
+    "finalUrl": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371",
+    "title": "OpenAI agent hacked Australia government portal: PM Albanese",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e587ed980f176e1d",
+    "articleTitle": "OpenAI and Anthropic CEOs urge UN Security Council to regulate AI globally",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation",
+    "status": 200,
+    "finalUrl": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation",
+    "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c5e5664032ab3d15",
+    "articleTitle": "US lawmakers introduce bill to ban artificial superintelligence",
+    "sourceUrl": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban",
+    "status": 200,
+    "finalUrl": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban",
+    "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-f7e621a878413b0a",
+    "articleTitle": "Anthropic's Claude discovers novel enzyme system with CRISPR-like repeats",
+    "sourceUrl": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
+    "status": 200,
+    "finalUrl": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
+    "title": "-->",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3166e3da17dc345f",
+    "articleTitle": "Global study finds quantum industry heavily dependent on cross-border supply chains",
+    "sourceUrl": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
+    "status": 200,
+    "finalUrl": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
+    "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-8b6b7e958d721611",
+    "articleTitle": "Italy publishes national AI framework to operationalize the EU AI Act",
+    "sourceUrl": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
+    "status": 200,
+    "finalUrl": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
+    "title": "Italy&#x27;s AI framework: Operationalizing the EU AI Act",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d2a32daaa251b072",
+    "articleTitle": "UK Prime Minister Burnham announces AI defence partnership with US at UN speech",
+    "sourceUrl": "https://thenextweb.com/news/burnham-un-speech-ai-defence-partnership-disinformation-centre",
+    "status": 200,
+    "finalUrl": "https://thenextweb.com/news/burnham-un-speech-ai-defence-partnership-disinformation-centre",
+    "title": "-->",
+    "ok": true
+  },
+  {
     "id": "eu-ai-6e069aa051423971",
     "articleTitle": "UN Secretary-General names AI as one of four defining tests of power for humanity",
     "sourceUrl": "https://news.un.org/en/story/2026/09/1168392",
@@ -9,12 +72,39 @@
     "ok": true
   },
   {
+    "id": "eu-ai-0b3ac42bc0bcfeea",
+    "articleTitle": "Stockholm's Spiich raises EUR 3 million for AI sales agent platform",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/",
+    "title": "Stockholm’s Spiich raises €3 million to let AI handle admin work while sales teams focus on customers",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e090636be4704db4",
+    "articleTitle": "CNIL survey reveals evolving role of Data Protection Officers in the age of AI",
+    "sourceUrl": "https://www.cnil.fr/en/role-of-dpo-ai-survey",
+    "status": 200,
+    "finalUrl": "https://www.cnil.fr/en/role-of-dpo-ai-survey",
+    "title": "The role of the Data Protection Officer (DPO) in the age of artificial intelligence: survey results released",
+    "ok": true
+  },
+  {
     "id": "eu-ai-a78e185d31c2fb5c",
     "articleTitle": "AI governance must not become a geopolitical battlefield, analysts warn",
     "sourceUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
     "status": 200,
     "finalUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
     "title": "AI Governance Must Not Become a Geopolitical Battlefield",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-1661422a47409cd4",
+    "articleTitle": "OVHcloud CEO says EU AI gigafactory public funding commitment is too small",
+    "sourceUrl": "https://www.thestar.com.my/tech/tech-news/2026/09/23/ovhcloud-ceo-says-public-commitment-for-eu-ai-gigafactories-too-small",
+    "status": 200,
+    "finalUrl": "https://www.thestar.com.my/tech/tech-news/2026/09/23/ovhcloud-ceo-says-public-commitment-for-eu-ai-gigafactories-too-small",
+    "title": "OVHcloud CEO says public commitment for EU AI gigafactories too small",
     "ok": true
   },
   {
@@ -63,6 +153,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-70b95d427a1e0afe",
+    "articleTitle": "Monzo's EU chief leaves to launch AI robotics startup for people with disabilities",
+    "sourceUrl": "https://www.pymnts.com/personnel/2026/monzos-eu-chief-leaves-neobank-to-launch-robotics-startup/",
+    "status": 200,
+    "finalUrl": "https://www.pymnts.com/personnel/2026/monzos-eu-chief-leaves-neobank-to-launch-robotics-startup/",
+    "title": "Monzo’s EU Chief Leaves Neobank to Launch Robotics Startup",
+    "ok": true
+  },
+  {
     "id": "eu-ai-b0a7ba939a21a332",
     "articleTitle": "EU prepares Chips Act 2.0 as Brussels rethinks competition rules for global scale",
     "sourceUrl": "https://eutoday.net/eu-chips-act-2-merger-rules-global-scale/",
@@ -78,6 +177,15 @@
     "status": 200,
     "finalUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/four-meps-push-for-standalone-ai-liability-law-to-close-gaps-left-by-the/70159753",
     "title": "BÖRSE",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-da1efeb4dd35e502",
+    "articleTitle": "SiPearl delivers first Rhea1 CPUs for Europe's JUPITER exascale supercomputer",
+    "sourceUrl": "https://quantumzeitgeist.com/rhea1-chips-sipearls-quantum-boost/",
+    "status": 200,
+    "finalUrl": "https://quantumzeitgeist.com/rhea1-chips-sipearls-quantum-boost/",
+    "title": "SiPearl’s Rhea1 chips bring quantum boost to Europe’s fastest supercomputer",
     "ok": true
   },
   {
@@ -159,114 +267,6 @@
     "status": 200,
     "finalUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
     "title": "European Fragility in Semiconductors: Between Technological Complexity and Global Dependencies",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ea0aff91fd112f62",
-    "articleTitle": "Europe says its AI rules are enough, but AI agents are testing that claim",
-    "sourceUrl": "https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/",
-    "status": 200,
-    "finalUrl": "https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/",
-    "title": "Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-fb7bf39341720ef8",
-    "articleTitle": "Leuven-based Spott raises EUR 18.3 million for AI-native recruitment platform",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/",
-    "title": "Leuven-based Spott raises €18.3 million to build the AI-native operating system for recruitment agencies",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-b9b4c6df9741d6b3",
-    "articleTitle": "More than 20 countries call for binding AI safety measures at United Nations",
-    "sourceUrl": "https://www.freemalaysiatoday.com/category/highlight/2026/09/22/leaders-push-for-global-ai-safeguards-as-un-week-opens",
-    "status": 200,
-    "finalUrl": "https://www.freemalaysiatoday.com/category/highlight/2026/09/22/leaders-push-for-global-ai-safeguards-as-un-week-opens",
-    "title": "Leaders push for global AI safeguards as UN week opens",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-98e458046cfc812f",
-    "articleTitle": "UN scientific panel warns AI safeguards are unravelling as agents advance",
-    "sourceUrl": "https://news.un.org/en/story/2026/09/1168380",
-    "status": 200,
-    "finalUrl": "https://news.un.org/en/story/2026/09/1168380",
-    "title": "UN panel calls for stronger safeguards as AI agents advance",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-bcfae76f285c56ee",
-    "articleTitle": "NATO DIANA announces first 24 investors joining trusted capital network",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/the-21-european-investors-funding-natos-defence/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/the-21-european-investors-funding-natos-defence/",
-    "title": "The 20 European investors funding NATO’s defence and innovation",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-db5827de591fc458",
-    "articleTitle": "Irish DPC fines Google EUR 403 million over location data tracking",
-    "sourceUrl": "https://shattered.io/google-fined-403-million-location-data-2026/",
-    "status": 200,
-    "finalUrl": "https://shattered.io/google-fined-403-million-location-data-2026/",
-    "title": "Google Fined €403M Over Location Data Tracking [2026]",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-56e871e11bdc8a71",
-    "articleTitle": "Anthropic and OpenAI agent incidents put Brussels AI Act reporting rules to the test",
-    "sourceUrl": "https://150sec.com/anthropic-openai-agent-incidents-put-brussels-reporting-rules-to-the-test/",
-    "status": 200,
-    "finalUrl": "https://150sec.com/anthropic-openai-agent-incidents-put-brussels-reporting-rules-to-the-test/",
-    "title": "Anthropic, OpenAI agent incidents put Brussels reporting rules to the test",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d695c8a49771d482",
-    "articleTitle": "Project Ventures debuts EUR 5.8 million fund targeting DeepTech and AI startups at Imperial College London",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
-    "title": "Project Ventures debuts €5.8 million fund targeting DeepTech and AI startups linked to Imperial College London",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-08d6ed0ce211f7f5",
-    "articleTitle": "New Europol proposal pushes for deregulation and expanded AI use in policing",
-    "sourceUrl": "https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/",
-    "status": 200,
-    "finalUrl": "https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/",
-    "title": "New Europol proposal pushes for deregulation and more AI in policing",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c2d7f593abaf9eb7",
-    "articleTitle": "European Commission proposes common data centre energy and water rating system",
-    "sourceUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-    "status": 200,
-    "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-    "title": "Making data centres energy efficient thanks to a new EU rating system",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-ceffbb8fa3b3f0c0",
-    "articleTitle": "EU Cyber Resilience Act reporting obligations go live as ENISA launches single platform",
-    "sourceUrl": "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched",
-    "status": 200,
-    "finalUrl": "https://www.enisa.europa.eu/news/the-cra-single-reporting-platform-is-launched",
-    "title": "The CRA Single Reporting Platform is launched",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-eb3ca6c81e9b23b5",
-    "articleTitle": "EU AI Board advances enforcement coordination but sets no new compliance deadline",
-    "sourceUrl": "https://quasa.io/insights/the-eu-ai-board-turns-to-enforcement-but-its-september-meeting-set-no-new-deadline",
-    "status": 200,
-    "finalUrl": "https://quasa.io/insights/the-eu-ai-board-turns-to-enforcement-but-its-september-meeting-set-no-new-deadline",
-    "title": "The EU AI Board Turns to Enforcement—but Its September Meeting Set No New Deadline",
     "ok": true
   }
 ]
