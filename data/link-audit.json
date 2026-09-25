@@ -1,5 +1,140 @@
 [
   {
+    "id": "eu-ai-9327ad697bb8050a",
+    "articleTitle": "Pope Leo heads to France with AI regulation on agenda for Europe's future",
+    "sourceUrl": "https://www.rappler.com/world/europe/pope-leo-france-ai-apologies-clergy-abuse-agenda/",
+    "status": 200,
+    "finalUrl": "https://www.rappler.com/world/europe/pope-leo-france-ai-apologies-clergy-abuse-agenda/",
+    "title": "Pope Leo heads to France with AI, apologies for clergy abuse on agenda",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-d21d4f137bfe370d",
+    "articleTitle": "Anthropic CEO Amodei absent from Trump-Xi White House dinner as other AI leaders attend",
+    "sourceUrl": "https://www.moneycontrol.com/world/trump-xi-dinner-had-openai-nvidia-meta-anthropic-was-absent-article-14037827.html",
+    "status": 200,
+    "finalUrl": "https://www.moneycontrol.com/world/trump-xi-dinner-had-openai-nvidia-meta-anthropic-was-absent-article-14037827.html",
+    "title": "Trump-Xi dinner had OpenAI, Nvidia, Meta. Anthropic was absent",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-04368b066975df5a",
+    "articleTitle": "Google, OpenAI and Anthropic push to launch SAFA, independent AI safety standards body",
+    "sourceUrl": "https://www.timesnownews.com/technology-science/openai-anthropic-and-google-may-launch-ai-safety-body-safa-by-2027-what-we-know-article-156221563",
+    "status": 200,
+    "finalUrl": "https://www.timesnownews.com/technology-science/openai-anthropic-and-google-may-launch-ai-safety-body-safa-by-2027-what-we-know-article-156221563",
+    "title": "OpenAI, Anthropic And Google May Launch AI Safety Body &#x27;SAFA&#x27; By 2027: What We Know",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c6c02170b42f1ae5",
+    "articleTitle": "OpenAI to preview GPT-6 Cyber model and new cybersecurity deployment product",
+    "sourceUrl": "https://fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday/",
+    "status": 200,
+    "finalUrl": "https://fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday/",
+    "title": "Trending now",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-833b7a644af8eef6",
+    "articleTitle": "European fintechs talk sovereignty but still run on American clouds",
+    "sourceUrl": "https://www.fintechweekly.com/magazine/articles/data-sovereignty-european-fintech-cloud-dora-2026",
+    "status": 200,
+    "finalUrl": "https://www.fintechweekly.com/magazine/articles/data-sovereignty-european-fintech-cloud-dora-2026",
+    "title": "Europe&#39;s Fintechs Talk About Sovereignty. Most of Them Still Run on American Clouds.",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-6987b4aa0e368fa0",
+    "articleTitle": "Europe missing EUR 120 billion in investment every year due to fragmented rules, TEHA study finds",
+    "sourceUrl": "https://www.aboutamazon.eu/news/company-news/new-teha-study-2026",
+    "status": 200,
+    "finalUrl": "https://www.aboutamazon.eu/news/company-news/new-teha-study-2026",
+    "title": "New TEHA study: Europe could close a €120 billion annual investment gap by scaling its own success stories",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5948cde70f4740eb",
+    "articleTitle": "EU ministers debate Chips Act 2.0: France pushes 'Buy European', member states warn against full autonomy",
+    "sourceUrl": "https://agenceurope.eu/en/bulletin/article/13945/1/chips-and-tech-sovereignty-eu-cannot-do-without-third-country-partners-member-states-warn",
+    "status": 200,
+    "finalUrl": "https://agenceurope.eu/en/bulletin/article/13945/1/chips-and-tech-sovereignty-eu-cannot-do-without-third-country-partners-member-states-warn",
+    "title": "Chips and tech sovereignty - EU cannot do without third-country partners, Member States warn",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e183f207803f4392",
+    "articleTitle": "EuroHPC launches EU-LAC Supercomputing Network for AI with Latin America and Caribbean",
+    "sourceUrl": "https://www.eeas.europa.eu/eeas/europe-and-latin-america-strengthen-digital-ties-high-performance-computing-and-ai_en",
+    "status": 200,
+    "finalUrl": "https://www.eeas.europa.eu/eeas/europe-and-latin-america-strengthen-digital-ties-high-performance-computing-and-ai_en",
+    "title": "Europe and Latin America strengthen digital ties with High-Performance Computing and AI",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-bc044dc1767a6306",
+    "articleTitle": "Babcock and Arqit demonstrate quantum-safe military communications network for battlefield data",
+    "sourceUrl": "https://defence-industry.eu/babcock-and-arqit-demonstrate-quantum-safe-military-communications-network-designed-to-protect-battlefield-data-from-future-cyber-threats/",
+    "status": 200,
+    "finalUrl": "https://defence-industry.eu/babcock-and-arqit-demonstrate-quantum-safe-military-communications-network-designed-to-protect-battlefield-data-from-future-cyber-threats/",
+    "title": "Babcock and Arqit demonstrate quantum safe military communications network designed to protect battlefield data from future cyber threats",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-cfd2ca1f65f138ea",
+    "articleTitle": "IAB Europe 2026 AI report: 58% expect agentic ad buying to reach operational use within a year",
+    "sourceUrl": "https://iabeurope.eu/news-impact-of-ai-report-2026/",
+    "status": 200,
+    "finalUrl": "https://iabeurope.eu/news-impact-of-ai-report-2026/",
+    "title": "Agentic Ad Buying Gains Ground: IAB Europe Report Finds Over Half of Industry Expect Operational Scale Within a Year",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-ef3453b8a588d465",
+    "articleTitle": "AI clusters expand across Europe as London, Paris and Berlin drive new wave of office demand",
+    "sourceUrl": "https://benews.co.uk/london-paris-berlin-lead-europe-ai-clusters/",
+    "status": 200,
+    "finalUrl": "https://benews.co.uk/london-paris-berlin-lead-europe-ai-clusters/",
+    "title": "London, Paris and Berlin lead Europe’s AI clusters, Colliers finds",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-4ba0d0035cd21f27",
+    "articleTitle": "Anthropic gives EU's ENISA access to Mythos zero-day-hunting AI",
+    "sourceUrl": "https://shattered.io/anthropic-eu-access-mythos-2026/",
+    "status": 200,
+    "finalUrl": "https://shattered.io/anthropic-eu-access-mythos-2026/",
+    "title": "Anthropic Gives EU Access to Mythos, 10,000+ Bugs [2026]",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-530f6f1847abbf7c",
+    "articleTitle": "Berlin-based mika raises EUR 6 million for AI-native alternative to traditional tax firms",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/",
+    "title": "Berlin-based mika raises €6 million to scale its AI-native alternative to traditional tax firms",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-07e4cac8639e9feb",
+    "articleTitle": "DTCP announces first closing of EUR 455 million Defence Fund with dedicated investment team",
+    "sourceUrl": "https://www.tradingview.com/news/eqs:898f2e085094b:0-dtcp-announces-first-closing-of-its-defence-fund-with-455-million-in-commitments-and-dedicated-investment-team/",
+    "status": 200,
+    "finalUrl": "https://www.tradingview.com/news/eqs:898f2e085094b:0-dtcp-announces-first-closing-of-its-defence-fund-with-455-million-in-commitments-and-dedicated-investment-team/",
+    "title": "DTCP announces first closing of its Defence Fund with €455 million in commitments and dedicated investment team",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-4f4b124fe644d37f",
+    "articleTitle": "EU financial watchdogs warn quantum computing could break blockchain encryption",
+    "sourceUrl": "https://crypto.news/eu-watchdogs-warn-of-quantum-blockchain-risk/",
+    "status": 200,
+    "finalUrl": "https://crypto.news/eu-watchdogs-warn-of-quantum-blockchain-risk/",
+    "title": "EU watchdogs warn quantum computers could hit blockchains",
+    "ok": true
+  },
+  {
     "id": "eu-ai-85cd326244e7764f",
     "articleTitle": "Australia says OpenAI agent hacked government health data portal",
     "sourceUrl": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371",
@@ -132,141 +267,6 @@
     "status": 200,
     "finalUrl": "https://opengovasia.com/india-eu-talks-advance-cooperation-on-ai-quantum-and-semiconductors/?c=us",
     "title": "India, EU Talks Advance Cooperation on AI, Quantum and Semiconductors",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c29368db46b07240",
-    "articleTitle": "Trump renames AI 'super intelligence' in US documents, rejects international AI regulation",
-    "sourceUrl": "https://gulfnews.com/technology/trump-renames-ai-super-intelligence-at-un-assembly-as-leaders-jostle-over-dangers-1.500684131",
-    "status": 200,
-    "finalUrl": "https://gulfnews.com/technology/trump-renames-ai-super-intelligence-at-un-assembly-as-leaders-jostle-over-dangers-1.500684131",
-    "title": "Trump renames AI &#x27;super intelligence&#x27; at UN Assembly as leaders jostle over dangers",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-23b05835e46b90c4",
-    "articleTitle": "Anthropic and OpenAI roll out cheaper models in first release since slowdown call",
-    "sourceUrl": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-    "status": 200,
-    "finalUrl": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-70b95d427a1e0afe",
-    "articleTitle": "Monzo's EU chief leaves to launch AI robotics startup for people with disabilities",
-    "sourceUrl": "https://www.pymnts.com/personnel/2026/monzos-eu-chief-leaves-neobank-to-launch-robotics-startup/",
-    "status": 200,
-    "finalUrl": "https://www.pymnts.com/personnel/2026/monzos-eu-chief-leaves-neobank-to-launch-robotics-startup/",
-    "title": "Monzo’s EU Chief Leaves Neobank to Launch Robotics Startup",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-b0a7ba939a21a332",
-    "articleTitle": "EU prepares Chips Act 2.0 as Brussels rethinks competition rules for global scale",
-    "sourceUrl": "https://eutoday.net/eu-chips-act-2-merger-rules-global-scale/",
-    "status": 200,
-    "finalUrl": "https://eutoday.net/eu-chips-act-2-merger-rules-global-scale/",
-    "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-095396d77199f176",
-    "articleTitle": "Four MEPs push for standalone AI Liability Act to close gaps left by the AI Act",
-    "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/four-meps-push-for-standalone-ai-liability-law-to-close-gaps-left-by-the/70159753",
-    "status": 200,
-    "finalUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/four-meps-push-for-standalone-ai-liability-law-to-close-gaps-left-by-the/70159753",
-    "title": "BÖRSE",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-da1efeb4dd35e502",
-    "articleTitle": "SiPearl delivers first Rhea1 CPUs for Europe's JUPITER exascale supercomputer",
-    "sourceUrl": "https://quantumzeitgeist.com/rhea1-chips-sipearls-quantum-boost/",
-    "status": 200,
-    "finalUrl": "https://quantumzeitgeist.com/rhea1-chips-sipearls-quantum-boost/",
-    "title": "SiPearl’s Rhea1 chips bring quantum boost to Europe’s fastest supercomputer",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-495cd0b1b30b894f",
-    "articleTitle": "EU AI Act Digital Omnibus extends compliance deadlines and reshapes risk classification",
-    "sourceUrl": "https://www.jdsupra.com/legalnews/what-changed-under-the-eu-ai-act-5679575/",
-    "status": 202,
-    "finalUrl": "https://www.jdsupra.com/legalnews/what-changed-under-the-eu-ai-act-5679575/",
-    "title": "JavaScript is disabled",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-14c0b09be5dbfb41",
-    "articleTitle": "Helsinki's Verda becomes Europe's latest unicorn after raising EUR 164.8M for full-stack AI cloud",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/",
-    "title": "Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-7f500af0015c4673",
-    "articleTitle": "European shoppers are already buying through AI as retailers race to catch up",
-    "sourceUrl": "https://150sec.com/european-shoppers-are-already-buying-through-ai-retailers-are-hurrying-to-keep-up/",
-    "status": 200,
-    "finalUrl": "https://150sec.com/european-shoppers-are-already-buying-through-ai-retailers-are-hurrying-to-keep-up/",
-    "title": "European shoppers are already buying through AI. Retailers are hurrying to keep up.",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-4b9389a8e36c045a",
-    "articleTitle": "ENISA Threat Landscape 2026 warns that cyber dependencies weaken EU resilience",
-    "sourceUrl": "https://www.enisa.europa.eu/news/exploring-the-evolution-of-the-cyber-threat-landscape-how-dependencies-weaken-our-digital-resilience",
-    "status": 200,
-    "finalUrl": "https://www.enisa.europa.eu/news/exploring-the-evolution-of-the-cyber-threat-landscape-how-dependencies-weaken-our-digital-resilience",
-    "title": "Exploring the evolution of the cyber threat landscape: How dependencies weaken our digital resilience",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-5cf22060022b71be",
-    "articleTitle": "UK Parliament summons OpenAI, Anthropic, Google and Meta to urgent AI safety hearing",
-    "sourceUrl": "https://www.cityam.com/openai-and-anthropic-summoned-to-parliament-on-fears-uk-ai-rules-not-fit-for-future/",
-    "status": 200,
-    "finalUrl": "https://www.cityam.com/openai-and-anthropic-summoned-to-parliament-on-fears-uk-ai-rules-not-fit-for-future/",
-    "title": "OpenAI and Anthropic summoned to parliament on fears UK AI rules &lsquo;not fit for future&rsquo;",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c67489893f6e7a2d",
-    "articleTitle": "Besancon-based Lightspring raises over EUR 3.5M to industrialise photonic chip packaging",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/",
-    "title": "Besançon-based Lightspring raises over €3.5 million to industrialise photonic chip packaging",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-2e3ace459051ab87",
-    "articleTitle": "Paris-based Primo raises EUR 6.9M to deploy autonomous AI agents for IT operations",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/",
-    "title": "Paris-based Primo raises €6.9 million to deploy autonomous AI agents for IT teams",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a887945525e8d476",
-    "articleTitle": "AI boom puts pressure on Europe's data centre construction capacity",
-    "sourceUrl": "https://www.consultancy.eu/news/14354/ai-boom-puts-pressure-on-europes-data-centre-construction-capacity",
-    "status": 200,
-    "finalUrl": "https://www.consultancy.eu/news/14354/ai-boom-puts-pressure-on-europes-data-centre-construction-capacity",
-    "title": "AI boom puts pressure on Europe’s data centre construction capacity",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d2ea0c7ae0f9d4e3",
-    "articleTitle": "Analysis reveals Europe's structural semiconductor fragility despite high economic complexity",
-    "sourceUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
-    "status": 200,
-    "finalUrl": "https://www.globalpolicyjournal.com/blog/22/09/2026/european-fragility-semiconductors-between-technological-complexity-and-global",
-    "title": "European Fragility in Semiconductors: Between Technological Complexity and Global Dependencies",
     "ok": true
   }
 ]
