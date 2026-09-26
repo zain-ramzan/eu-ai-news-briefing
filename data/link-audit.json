@@ -1,5 +1,77 @@
 [
   {
+    "id": "eu-ai-a5a2759cf8130d27",
+    "articleTitle": "European tech leaders join calls for AI slowdown at Fortune CEO Forum in London",
+    "sourceUrl": "https://fortune.com/2026/09/25/our-industry-sees-the-risks-and-is-concerned-europe-tech-leaders-join-calls-for-ai-slowdown/",
+    "status": 200,
+    "finalUrl": "https://fortune.com/2026/09/25/our-industry-sees-the-risks-and-is-concerned-europe-tech-leaders-join-calls-for-ai-slowdown/",
+    "title": "Trending now",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-dd2e6a5e02c25bcb",
+    "articleTitle": "Europe's digital sovereignty agenda must include digital public infrastructure, analysts argue",
+    "sourceUrl": "https://www.techpolicy.press/europes-digital-sovereignty-agenda-must-include-digital-public-infrastructure/",
+    "status": 200,
+    "finalUrl": "https://www.techpolicy.press/europes-digital-sovereignty-agenda-must-include-digital-public-infrastructure/",
+    "title": "Europe’s Digital Sovereignty Agenda Must Include Digital Public Infrastructure",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-461aee22c49afe28",
+    "articleTitle": "EU Digital Omnibus could let AI companies train on Europeans' data by default, privacy advocates warn",
+    "sourceUrl": "https://www.liberties.eu/en/stories/omnibus-ai4/45803",
+    "status": 200,
+    "finalUrl": "https://www.liberties.eu/en/stories/omnibus-ai4/45803",
+    "title": "The EU is Pushing to Weaken Privacy Rules for AI",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-22c8166b45dcc750",
+    "articleTitle": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+    "status": 200,
+    "finalUrl": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-f6abfb00726c64f5",
+    "articleTitle": "Saab and NestAI partner to bring adaptive AI to European electronic warfare systems",
+    "sourceUrl": "https://thedefensepost.com/2026/09/25/saab-nestai-adaptive-ew-ai/",
+    "status": 200,
+    "finalUrl": "https://thedefensepost.com/2026/09/25/saab-nestai-adaptive-ew-ai/",
+    "title": "Saab, NestAI Target More Adaptive Electronic Warfare With AI",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-3163f6cdd8d7ee1b",
+    "articleTitle": "Europe is not prepared for the pace of AI development, ifo Institute warns",
+    "sourceUrl": "https://www.ifo.de/en/opinion/2026-09-25/europe-not-prepared-pace-ai-development",
+    "status": 200,
+    "finalUrl": "https://www.ifo.de/en/opinion/2026-09-25/europe-not-prepared-pace-ai-development",
+    "title": "Client Challenge",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-932088a7338cf958",
+    "articleTitle": "White House asks OpenAI and Anthropic to withhold new AI models from UK safety testers",
+    "sourceUrl": "https://www.marketscreener.com/news/openai-anthropic-reportedly-asked-by-white-house-to-delay-uk-access-to-new-ai-models-ce785adfde8df625",
+    "status": 200,
+    "finalUrl": "https://www.marketscreener.com/news/openai-anthropic-reportedly-asked-by-white-house-to-delay-uk-access-to-new-ai-models-ce785adfde8df625",
+    "title": "Microsoft Corporation",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-c714de7bb67b8d9c",
+    "articleTitle": "Nscale raises $3.36 billion in pre-IPO convertible financing ahead of planned US listing",
+    "sourceUrl": "https://www.nscale.com/press-releases/pre-ipo-convertible-financing",
+    "status": 200,
+    "finalUrl": "https://www.nscale.com/press-releases/pre-ipo-convertible-financing",
+    "title": "Nscale Raises $3.36 Billion in Pre-IPO Convertible Financing",
+    "ok": true
+  },
+  {
     "id": "eu-ai-9327ad697bb8050a",
     "articleTitle": "Pope Leo heads to France with AI regulation on agenda for Europe's future",
     "sourceUrl": "https://www.rappler.com/world/europe/pope-leo-france-ai-apologies-clergy-abuse-agenda/",
@@ -13,8 +85,17 @@
     "articleTitle": "Anthropic CEO Amodei absent from Trump-Xi White House dinner as other AI leaders attend",
     "sourceUrl": "https://www.moneycontrol.com/world/trump-xi-dinner-had-openai-nvidia-meta-anthropic-was-absent-article-14037827.html",
     "status": 200,
-    "finalUrl": "https://www.moneycontrol.com/world/trump-xi-dinner-had-openai-nvidia-meta-anthropic-was-absent-article-14037827.html",
+    "finalUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/trump-xi-dinner-had-openai-nvidia-meta-anthropic-was-absent-article-14037827.html",
     "title": "Trump-Xi dinner had OpenAI, Nvidia, Meta. Anthropic was absent",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-5f1b87a3ba50d466",
+    "articleTitle": "European Commission adopts A-to-G energy rating scheme for data centres powering AI",
+    "sourceUrl": "https://impakter.com/eu-data-centre-energy-rating-scheme-eed-meps/",
+    "status": 200,
+    "finalUrl": "https://impakter.com/eu-data-centre-energy-rating-scheme-eed-meps/",
+    "title": "European Commission Announces New Energy Labels for AI",
     "ok": true
   },
   {
@@ -24,6 +105,24 @@
     "status": 200,
     "finalUrl": "https://www.timesnownews.com/technology-science/openai-anthropic-and-google-may-launch-ai-safety-body-safa-by-2027-what-we-know-article-156221563",
     "title": "OpenAI, Anthropic And Google May Launch AI Safety Body &#x27;SAFA&#x27; By 2027: What We Know",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-e64ca276161246bc",
+    "articleTitle": "Anthropic to pay Akamai $11.6 billion over seven years in landmark cloud deal",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "status": 200,
+    "finalUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-4a9db7ce5724e137",
+    "articleTitle": "European Writers' Council denounces AI companies for destructively scanning millions of European books",
+    "sourceUrl": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+    "status": 200,
+    "finalUrl": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+    "title": "EWC denounces AI Tech’s practice of shredding books and calls on Europe’s decision-makers to take a firm stand - EWC - European Writers Council",
     "ok": true
   },
   {
@@ -63,6 +162,15 @@
     "ok": true
   },
   {
+    "id": "eu-ai-2124fc7dc03b447b",
+    "articleTitle": "Embodied AI launches with international backing to deploy robots on European production lines",
+    "sourceUrl": "https://ggba.swiss/en/embodied-ai-launches-with-international-investor-backing-to-automate-european-production-lines/",
+    "status": 200,
+    "finalUrl": "https://ggba.swiss/en/embodied-ai-launches-with-international-investor-backing-to-automate-european-production-lines/",
+    "title": "Embodied AI launches with international investor backing to automate European production lines",
+    "ok": true
+  },
+  {
     "id": "eu-ai-e183f207803f4392",
     "articleTitle": "EuroHPC launches EU-LAC Supercomputing Network for AI with Latin America and Caribbean",
     "sourceUrl": "https://www.eeas.europa.eu/eeas/europe-and-latin-america-strengthen-digital-ties-high-performance-computing-and-ai_en",
@@ -78,6 +186,15 @@
     "status": 200,
     "finalUrl": "https://defence-industry.eu/babcock-and-arqit-demonstrate-quantum-safe-military-communications-network-designed-to-protect-battlefield-data-from-future-cyber-threats/",
     "title": "Babcock and Arqit demonstrate quantum safe military communications network designed to protect battlefield data from future cyber threats",
+    "ok": true
+  },
+  {
+    "id": "eu-ai-fd0619a18ad7f4eb",
+    "articleTitle": "EU and EIB launch European Institutional Investors Pact to close scale-up funding gap",
+    "sourceUrl": "https://www.eu-startups.com/2026/09/eu-and-eib-launch-launch-institutional-investor-pact-to-tackle-europes-scale-up-funding-gap/",
+    "status": 200,
+    "finalUrl": "https://www.eu-startups.com/2026/09/eu-and-eib-launch-launch-institutional-investor-pact-to-tackle-europes-scale-up-funding-gap/",
+    "title": "EU and EIB launch launch institutional investor pact to tackle Europe’s scale-up funding gap",
     "ok": true
   },
   {
@@ -150,123 +267,6 @@
     "status": 200,
     "finalUrl": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation",
     "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c5e5664032ab3d15",
-    "articleTitle": "US lawmakers introduce bill to ban artificial superintelligence",
-    "sourceUrl": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban",
-    "status": 200,
-    "finalUrl": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban",
-    "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-f7e621a878413b0a",
-    "articleTitle": "Anthropic's Claude discovers novel enzyme system with CRISPR-like repeats",
-    "sourceUrl": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/anthropic-claude-enzyme-system-crispr-like-repeats",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-3166e3da17dc345f",
-    "articleTitle": "Global study finds quantum industry heavily dependent on cross-border supply chains",
-    "sourceUrl": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
-    "status": 200,
-    "finalUrl": "https://thequantuminsider.com/2026/09/23/global-study-finds-quantum-industry-dependent-on-cross-border-supply-chains/",
-    "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8b6b7e958d721611",
-    "articleTitle": "Italy publishes national AI framework to operationalize the EU AI Act",
-    "sourceUrl": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
-    "status": 200,
-    "finalUrl": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
-    "title": "Italy&#x27;s AI framework: Operationalizing the EU AI Act",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-d2a32daaa251b072",
-    "articleTitle": "UK Prime Minister Burnham announces AI defence partnership with US at UN speech",
-    "sourceUrl": "https://thenextweb.com/news/burnham-un-speech-ai-defence-partnership-disinformation-centre",
-    "status": 200,
-    "finalUrl": "https://thenextweb.com/news/burnham-un-speech-ai-defence-partnership-disinformation-centre",
-    "title": "-->",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-6e069aa051423971",
-    "articleTitle": "UN Secretary-General names AI as one of four defining tests of power for humanity",
-    "sourceUrl": "https://news.un.org/en/story/2026/09/1168392",
-    "status": 200,
-    "finalUrl": "https://news.un.org/en/story/2026/09/1168392",
-    "title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-0b3ac42bc0bcfeea",
-    "articleTitle": "Stockholm's Spiich raises EUR 3 million for AI sales agent platform",
-    "sourceUrl": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/",
-    "status": 200,
-    "finalUrl": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/",
-    "title": "Stockholm’s Spiich raises €3 million to let AI handle admin work while sales teams focus on customers",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-e090636be4704db4",
-    "articleTitle": "CNIL survey reveals evolving role of Data Protection Officers in the age of AI",
-    "sourceUrl": "https://www.cnil.fr/en/role-of-dpo-ai-survey",
-    "status": 200,
-    "finalUrl": "https://www.cnil.fr/en/role-of-dpo-ai-survey",
-    "title": "The role of the Data Protection Officer (DPO) in the age of artificial intelligence: survey results released",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-a78e185d31c2fb5c",
-    "articleTitle": "AI governance must not become a geopolitical battlefield, analysts warn",
-    "sourceUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
-    "status": 200,
-    "finalUrl": "https://moderndiplomacy.eu/2026/09/23/ai-governance-must-not-become-a-geopolitical-battlefield/",
-    "title": "AI Governance Must Not Become a Geopolitical Battlefield",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-1661422a47409cd4",
-    "articleTitle": "OVHcloud CEO says EU AI gigafactory public funding commitment is too small",
-    "sourceUrl": "https://www.thestar.com.my/tech/tech-news/2026/09/23/ovhcloud-ceo-says-public-commitment-for-eu-ai-gigafactories-too-small",
-    "status": 200,
-    "finalUrl": "https://www.thestar.com.my/tech/tech-news/2026/09/23/ovhcloud-ceo-says-public-commitment-for-eu-ai-gigafactories-too-small",
-    "title": "OVHcloud CEO says public commitment for EU AI gigafactories too small",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-8912245d2d2eb2e6",
-    "articleTitle": "German and Dutch strategic innovation agencies partner on AI chip design",
-    "sourceUrl": "https://www.globalbankingandfinance.com/german-dutch-strategic-innovation-agencies-collaborate-ai/",
-    "status": 200,
-    "finalUrl": "https://www.globalbankingandfinance.com/german-dutch-strategic-innovation-agencies-collaborate-ai/",
-    "title": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-9f2ccfdf67becd6f",
-    "articleTitle": "Alibaba to add data centres in Europe and Middle East in AI infrastructure push",
-    "sourceUrl": "https://www.rttnews.com/3693031/alibaba-unveils-new-ai-chip-plans-20-gigawatt-data-center-expansion.aspx",
-    "status": 200,
-    "finalUrl": "https://www.rttnews.com/3693031/alibaba-unveils-new-ai-chip-plans-20-gigawatt-data-center-expansion.aspx",
-    "title": "Alibaba Unveils New AI Chip, Plans 20-Gigawatt Data Center Expansion",
-    "ok": true
-  },
-  {
-    "id": "eu-ai-c44b4da51a149007",
-    "articleTitle": "India and EU advance cooperation on AI, quantum and semiconductors",
-    "sourceUrl": "https://opengovasia.com/india-eu-talks-advance-cooperation-on-ai-quantum-and-semiconductors/",
-    "status": 200,
-    "finalUrl": "https://opengovasia.com/india-eu-talks-advance-cooperation-on-ai-quantum-and-semiconductors/?c=us",
-    "title": "India, EU Talks Advance Cooperation on AI, Quantum and Semiconductors",
     "ok": true
   }
 ]
